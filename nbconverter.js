@@ -32,13 +32,10 @@ var missingCount = 0;
 function xmlit(tag, content) {
     content = String(content);
     var c = (content ? content.replace(/&/g, '&amp;') : "");
-    return "    <" + tag + ">" + c + "</" + tag + ">";
-}
-
-var noNBDataExpected = {
-    "gardens": ['icon', 'farmtype', "favorites"],
-    "foodservices": ['icon', 'farmtype', "favorites"],
-    "producer": ['icon']
+    if (c.length == 0) {
+        return "    <" + tag + "/>\n";
+    }
+    return "    <" + tag + ">" + c + "</" + tag + ">\n";
 }
 
 function generateTag(obj, xmlField, nationBuilderFieldOrFunction) {
@@ -53,13 +50,7 @@ function generateTag(obj, xmlField, nationBuilderFieldOrFunction) {
         var nbid = obj.nationbuilder_id;
         nationbuilderdata = "";
     }
-    // if (msg) {
-    //     if (obj.showHeader) {
-    //         log(String(missingCount++) + ": " + header);
-    //         obj.showHeader = false;
-    //     }
-    //     log("   " + msg);
-    // }
+  
     return xmlit(xmlField, nationbuilderdata);
 }
 
@@ -82,7 +73,7 @@ function outputXML() {
         stream.write("");
         stream.write('<?xml version="1.0" encoding="UTF-8"?>');
         stream.write('<?xml-stylesheet type="text/xsl" href="mapdata.xsl"?>');
-        stream.write("<markers>");
+        stream.write("\n<markers>\n");
 
         for (var i = 0; i < outputLines.length; i++) {
             stream.write(outputLines[i]);
@@ -107,19 +98,19 @@ function outputLog() {
 function getOrgType(entry) {
     // Basis for choosing map icon (need an icon for each of these maptypes)
     // 1 row in csv file can be 1 or more of the following:
-    // foodservice, producer, retailer, market, microprocessor, breweries_and_wineries
-    if (entry.retailers) {
-        return "retailers";
-    } else if (entry.markets) {
+    // foodservices, producers, retailer, market, microprocessor, breweries_and_wineries
+    if (entry.retailers == 'true') {
+        return "retailer";
+    } else if (entry.markets == 'true') {
         return "markets";
-    } else if (entry.foodservice) {
-        return "foodservice";
-    } else if (entry.microprocessor) {
+    } else if (entry.foodservice == 'true') {
+        return "foodservices";
+    } /* else if (entry.microprocessor == 'true') {
         return "microprocessor";
-    } else if (entry.breweries_and_wineries) {
+    } else if (entry.breweries_and_wineries == 'true') {
         return "breweries_and_wineries";
-    }
-    return "producer";
+    } */
+    return "producers";
 }
 
 function getFarmType(entry) {
@@ -141,10 +132,10 @@ function getProductsList(entry) {
         products = products + ",fv-vegetables"
     }
     if (entry.fruits == 'true') {
-        products = products + ",fv-fruits"
+        products = products + ",ff-fruits"
     }
     if (entry.grains_seeds == 'true') {
-        products = products + ",fv-grains_seeds"
+        products = products + ",fg-grains_seeds"
     }
     if (entry.meat == 'true') {
         products = products + ",fm-meat"
@@ -153,10 +144,10 @@ function getProductsList(entry) {
         products = products + ",fm-poultry_eggs"
     }
     if (entry.sweeteners == 'true') {
-        products = products + ",fv-sweeteners"
+        products = products + ",fs-sweeteners"
     }
     if (entry.herb_grower == 'true') {
-        products = products + ",fv-herbs"
+        products = products + ",fh-herbs"
     }
     return products.substring(1);
 }
@@ -174,7 +165,7 @@ function getProductionPractice(entry) {
 
 function getPurchaseType(entry) {
     // buyonline, farmstand, 0 or more
-    // this information was not previously available buyonline applies to all maptypes
+    // this information was not previously available, buyonline applies to all maptypes
     var purchaseType = "";
 
     if (entry.buy_online == 'true') {
@@ -221,22 +212,22 @@ function getFullAddress(entry, delimiter) {
 function getInfoWindow(entry) {
     var details = "<![CDATA[";
     if (entry.full_name) {
-        details = details + "name: " + entry.full_name;
+        details = details + "\n<strong>" + entry.full_name + "</strong>\n<br/>";
     }
     details = details + getFullAddress(entry, ", ");
+    if (entry.phone_number) {
+        details = details + "\n<br/>" + entry.phone_number;
+    }
     if (entry.email) {
-        details = details + "\nemail: " + entry.email;
+        details = details + "\n<br/><a href=\"mailto:" + entry.email + "\">" + entry.email + "</a>";
     }
     if (entry.website) {
-        details = details + "\nwebsite: " + entry.website;
-    }
-    if (entry.phone_number) {
-        details = details + "\nphone: " + entry.phone_number;
+        details = details + "\n<br/><a target=\"_blank\" href=\"" + entry.website + "\">" + entry.website + "</a>";
     }
     if (entry.twitter_login) {
-        details = details + "\ntwitter: " + entry.twitter_login;
+        details = details + "\n<br/>twitter: @" + entry.twitter_login;
     }
-    details = details + "]]>";
+    details = details + "\n]]>";
     return details;
 }
 
@@ -250,11 +241,11 @@ var xmlTagToNBName = {
     "farmtypes": getFarmType,
     "favorites": getProductsList,
     "productiontypes": getProductionPractice,
-    "purchasetypes": getPurchaseType,
+    //"purchasetypes": getPurchaseType,
     "infowindow": getInfoWindow,
     "email": "email",
     "website": "website",
-    "icon": "icon"
+    "icon": getOrgType
 };
 
 var content = fs.readFileSync(autolatlong);
@@ -266,7 +257,7 @@ for (var field in manlatlongmap) { latlongmap[field] = manlatlongmap[field]; }
 converter.fromFile(inputfile, function(err, jsonArray) {
     for (var i = 0, l = jsonArray.length; i < l; i++) {
         var obj = jsonArray[i];
-        output("<marker>");
+        output("<marker>\n");
         var xmltags = Object.keys(xmlTagToNBName);
         obj.showHeader = true;
 
@@ -280,9 +271,10 @@ converter.fromFile(inputfile, function(err, jsonArray) {
                 obj['lng'] = existing.lng;
             }
         } else {
-            console.log("No Known LAT for NBID ", obj.nationbuilder_id)
+            console.log("Use Just Food co-ordinates - no Known LAT for NBID ", obj.nationbuilder_id);
+            obj['lat'] = '45.4266482';
+            obj['lng'] = '-75.5792722';
         }
-
 
         xmltags.forEach(function callback(xmlkey, index, array) {
             output(generateTag(obj, xmlkey, xmlTagToNBName[xmlkey]));
