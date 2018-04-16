@@ -33,7 +33,7 @@ function xmlit(tag, content) {
     content = String(content);
     var c = (content ? content.replace(/&/g, '&amp;') : "");
     if (c.length == 0) {
-        return "    <" + tag + "/>\n";
+        c = " ";
     }
     return "    <" + tag + ">" + c + "</" + tag + ">\n";
 }
@@ -115,22 +115,17 @@ function getOrgType(entry) {
 
 function getFarmType(entry) {
     // applies to producers, 1 or more: csa, pick-your-own
-    var farmtype = "";
+    var farmtype = ",csa";
     if (entry.pick_your_own == 'true') {
         farmtype = farmtype + ",pick_your_own";
-    } else if (entry.csa == 'true') {
-        farmtype = farmtype + ",pick_your_own";
-    }
+    } 
     return farmtype.substring(1);
 }
 
 function getProductsList(entry) {
     // if maptype is producer, they can produce 0 or more of the following products:
     // fruits, vegetables, grains_seeds, meat, poultry_eggs, sweeteners, herb_grower
-    var products = "";
-    if (entry.vegetables == 'true') {
-        products = products + ",fv-vegetables"
-    }
+    var products = ",fv-vegetables";
     if (entry.fruits == 'true') {
         products = products + ",ff-fruits"
     }
@@ -156,7 +151,7 @@ function getProductionPractice(entry) {
     // if maptype is producer, 1 row in csv file can only be 1 of the following:
     // eco, cert_org, conventional
     if (entry.certified_organic == 'true') {
-        return "certified_organic";
+        return "certorg";
     } else if (entry.self_identified_ecological_practises == 'true') {
         return "self_identified_ecological";
     }
@@ -166,7 +161,7 @@ function getProductionPractice(entry) {
 function getPurchaseType(entry) {
     // buyonline, farmstand, 0 or more
     // this information was not previously available, buyonline applies to all maptypes
-    var purchaseType = "";
+    var purchaseType = " ";
 
     if (entry.buy_online == 'true') {
         purchaseType = purchaseType + ",buy_online";
