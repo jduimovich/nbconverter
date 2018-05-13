@@ -1,0 +1,41 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+
+<head>
+    <title>Converter for CVS to Mapdata.xml</title>
+    <style type="text/css">
+        body {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            text-align: center;
+        }
+    </style>
+</head>
+
+
+<body>
+
+    <h1> Converter for CVS to Mapdata.xml</h1>
+
+    <script src="bundle.js"></script>
+    <button onclick="convertCVSToXML()">Convert CVS file to XML</button>
+    <label>Console output</label>
+    <div id="outputarea">
+        <textarea rows="10" cols="128" id="outputtext"></textarea>
+    </div>
+    <label>XML Output</label>
+    <div id="xmloutputarea">
+        <textarea rows="200" cols="128" id="outputtext"></textarea>
+    </div>
+    <h1> Testing </h1>
+    <ul>
+        <li>
+            <a href="mapdata.xml" "> View Mapdata XML Generated </a>
+        </li>
+        
+    </ul>
+
+</body>
+
+</html>

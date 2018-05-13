@@ -40,30 +40,14 @@ if (isBrowser) {
     window.convertCVSToXML = convertCVSToXML;
 }
 
-function readFileData(file, charEncode, handler) {
-    if (isBrowser) {
-        browserReadTextFile(file, handler)
-    } else {
-        fs.readFile(file, charEncode, handler)
-    }
-}
-
 function browserReadTextFile(file, handler) {
-    alert("browserReadTextFile try:", file);
-
     var rawFile = new XMLHttpRequest();
     rawFile.open("GET", file, false);
     rawFile.onreadystatechange = function() {
-        alert("browserReadTextFile READY:", file);
         if (rawFile.readyState === 4) {
             if (rawFile.status === 200 || rawFile.status == 0) {
-
-                alert("browserReadTextFile read data");
-
                 var allText = rawFile.responseText;
-                handler(0, allText);
-            } else {
-                handler(rawFile.status, undefined);
+                handler(allText);
             }
         }
     }
@@ -306,25 +290,24 @@ function convertCVSToXML(csvFile) {
         "icon": getOrgType
     };
 
-    converter.fromFile(inputfile, function(err, jsonArray) {
-        outputToConsole("converter.fromFile read data");
-        readFileData(autolatlong, 'utf8', function(err, alatlong) {
-            outputToConsole("Read Files ...", autolatlong);
+    fs.readFile(autolatlong, 'utf8', function(err, alatlong) {
+        outputToConsole("Read Files ...", autolatlong);
+        if (err) {
+            return console.log(err);
+        }
+        var latlongmap = JSON.parse(alatlong);
+        fs.readFile(manuallatlong, 'utf8', function(err, manlatlong) {
+            outputToConsole("Read Files ...", manuallatlong);
             if (err) {
                 return console.log(err);
             }
-            var latlongmap = JSON.parse(alatlong);
-            readFileData(manuallatlong, 'utf8', function(err, manlatlong) {
-                outputToConsole("Read Files ...", manuallatlong);
-                if (err) {
-                    return console.log(err);
-                }
-                var manlatlongmap = JSON.parse(manlatlong);
-                outputToConsole("latlongmap ...", latlongmap);
+            var manlatlongmap = JSON.parse(manlatlong);
+            outputToConsole("latlongmap ...", latlongmap);
 
-                for (var field in manlatlongmap) { latlongmap[field] = manlatlongmap[field]; }
-                outputToConsole("Done Reading Files ...");
-
+            for (var field in manlatlongmap) { latlongmap[field] = manlatlongmap[field]; }
+            outputToConsole("Done Reading Files ...");
+            converter.fromFile(inputfile, function(err, jsonArray) {
+                outputToConsole("Convertering ...", jsonArray);
                 for (var i = 0, l = jsonArray.length; i < l; i++) {
                     var obj = jsonArray[i];
                     output("<marker>\n");

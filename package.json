@@ -4,6 +4,8 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
+    "browserify": "^16.2.2",
+    "browserify-fs": "^1.0.0",
     "csvtojson": "^1.1.9",
     "node-geocoder": "^3.22.0"
   }
