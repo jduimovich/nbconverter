@@ -161,19 +161,29 @@ function convertCVSToXML(csvFile) {
         // Basis for choosing map icon (need an icon for each of these maptypes)
         // 1 row in csv file can be 1 or more of the following:
         // foodservices, producers, retailer, market, microprocessor, breweries_and_wineries
+        var orgtype = '';
         if (entry.retailers == 'true') {
-            return "retailer";
-        } else if (entry.markets == 'true') {
-            return "markets";
-        } else if (entry.foodservice == 'true') {
-            return "foodservices";
+            orgtype +=  ",retailer";
+        } 
+        if (entry.markets == 'true') {
+            orgtype +=  ",markets";
+        } 
+        if (entry.foodservice == 'true') {
+            orgtype +=  ",foodservices";
+        }  
+        if (entry.producer == 'true') {
+            orgtype += ",producers"
+        } 
+        if (entry.microprocessors == 'true') {
+            orgtype +=  ",microprocessor";
+        }  
+        if (entry.breweries_and_wineries == 'true') {
+            orgtype +=  ",breweries_and_wineries";
+        } 
+        if (orgtype != '') {
+            return orgtype.substring(1);
         }
-        /* else if (entry.microprocessor == 'true') {
-               return "microprocessor";
-           } else if (entry.breweries_and_wineries == 'true') {
-               return "breweries_and_wineries";
-           } */
-        return "producers";
+        return orgtype;
     }
 
     function getFarmType(entry) {
