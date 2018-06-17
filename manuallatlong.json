@@ -1,5 +1,12 @@
 {
-"20391": { "lat": 45.0392911, "lng": -76.2883269, "fullAddress": "1700 Ferguson Falls Rd, Lanark, ON, CA, K0G 1G0" },
-"20990": { "lat": 44.9149914, "lng": -75.8425871, "fullAddress": "Main St W, Merrickville, ON K0G 1N0" }
+    "20391": { "lat": 45.0375708, "lng": -76.2879815, "fullAddress": "1700 Ferguson Falls Rd, Lanark, ON, CA, K0G 1G0" },
+    "20990": { "lat": 44.9149914, "lng": -75.8425871, "fullAddress": "Main St W, Merrickville, ON K0G 1N0" },
+
+    "19720": { "lat": 45.7327805, "lng": -75.0053731, "fullAddress": "567 Rang Sainte Julie E, Saint-Andr-Avellin, QC, CA, J0V 1W0" },
+
+    "19889": { "lat": 45.7171366, "lng": -75.1453311, "fullAddress": "2 Monte Larouche, Ripon, QC, CA, J0V 1V0" },
+    "20038": { "lat": 45.4266413, "lng": -75.5792563, "fullAddress": "2389 Pepin Ct, Gloucester, ON, CA, K1B 4Z3" },
+
+    "19736": { "lat": 45.1694964, "lng": -76.4188622, "fullAddress": "345 9th Conc Darling, Clayton, ON, CA, K0A 1P0" }
 
 }

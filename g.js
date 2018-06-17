@@ -5,6 +5,9 @@ var NodeGeocoder = require('node-geocoder');
 var content = fs.readFileSync('cachedgoogle.json');
 var cachedgoogle = JSON.parse(content);
 
+content = fs.readFileSync('saved_autolatlong.json');
+var autolatlong = JSON.parse(content);
+
 function cachedGeocode(obj, callback) {
     if (cachedgoogle[obj]) {
         return callback(undefined, cachedgoogle[obj]);
@@ -129,16 +132,25 @@ function getFullAddress(entry, delimiter) {
 
 
 function getGetcodeData(obj, lastCall) {
+    var existingAutoLatLong = autolatlong[obj.nationbuilder_id];
+    if (existingAutoLatLong) {
+        log("Geocoder (autolatlong) " + obj.nationbuilder_id + JSON.stringify(existingAutoLatLong));
+        output('"' + obj.nationbuilder_id + '" :' +
+            JSON.stringify(existingAutoLatLong));
+
+        lastCall();
+        return;
+    }
     var address = getFullAddress(obj, ", ");
     if (geocoder) {
         geocoder.geocode(address, function(err, res) {
             if (err) {
-                log('Geocoder FAILED for: "' + address + '"');
+                log('Geocoder FAILED for NBID: ' + obj.nationbuilder_id + ' address->"' + address + '"');
                 failed++;
             } else {
                 success++;
 
-                log('Geocoder Succeeded for  = "' + address + '"');
+                log('Geocoder Succeeded for NBID: ' + obj.nationbuilder_id + ' address->"' + address + '"');
                 log(JSON.stringify(res));
 
                 var filtered = res.filter(function(e) { return e.countryCode == 'CA' });
@@ -149,16 +161,17 @@ function getGetcodeData(obj, lastCall) {
                     successFiltered++;
                     var canadian = filtered[0];
                     // console.log(JSON.stringify(canadian));
-                    log('Geocoder Succeeded (Canadian Address) for: "' + address + '"');
+
+                    log('Geocoder Succeeded (Canadian Address) for NBID: ' + obj.nationbuilder_id + ' address->"' + address + '"');
                     console.log("Geocoder Success for Canadian Address for  = ", address);
                     console.log("Geocoder Success CANADIAN NBID for  =", obj.nationbuilder_id);
-                    var data = new Object();
-                    data[obj.nationbuilder_id] = {
+                    var data = {
                         'lat': canadian.latitude,
                         'lng': canadian.longitude,
                         'fullAddress': address
                     }
-                    output(JSON.stringify(data));
+                    output('"' + obj.nationbuilder_id + '" :' +
+                        JSON.stringify(data));
                 }
             }
             lastCall();

@@ -163,19 +163,29 @@ function convertCVSToXML(csvFile) {
         // Basis for choosing map icon (need an icon for each of these maptypes)
         // 1 row in csv file can be 1 or more of the following:
         // foodservices, producers, retailer, market, microprocessor, breweries_and_wineries
+        var orgtype = '';
         if (entry.retailers == 'true') {
-            return "retailer";
-        } else if (entry.markets == 'true') {
-            return "markets";
-        } else if (entry.foodservice == 'true') {
-            return "foodservices";
+            orgtype +=  ",retailer";
+        } 
+        if (entry.markets == 'true') {
+            orgtype +=  ",markets";
+        } 
+        if (entry.foodservice == 'true') {
+            orgtype +=  ",foodservices";
+        }  
+        if (entry.producer == 'true') {
+            orgtype += ",producers"
+        } 
+        if (entry.microprocessors == 'true') {
+            orgtype +=  ",microprocessor";
+        }  
+        if (entry.breweries_and_wineries == 'true') {
+            orgtype +=  ",breweries_and_wineries";
+        } 
+        if (orgtype != '') {
+            return orgtype.substring(1);
         }
-        /* else if (entry.microprocessor == 'true') {
-               return "microprocessor";
-           } else if (entry.breweries_and_wineries == 'true') {
-               return "breweries_and_wineries";
-           } */
-        return "producers";
+        return orgtype;
     }
 
     function getFarmType(entry) {
@@ -191,8 +201,8 @@ function convertCVSToXML(csvFile) {
         // if maptype is producer, they can produce 0 or more of the following products:
         // fruits, vegetables, grains_seeds, meat, poultry_eggs, sweeteners, herb_grower
         var products = ",fv-vegetables";
-        if (entry.fruits == 'true') {
-            products = products + ",ff-fruits"
+        if (entry.fruit == 'true') {
+            products = products + ",ff-fruit"
         }
         if (entry.grains_seeds == 'true') {
             products = products + ",fg-grains_seeds"
@@ -269,10 +279,21 @@ function convertCVSToXML(csvFile) {
         return fullAddress;
     }
 
+    function noquote(entry) {
+        var q = "";
+        //return entry.replace("'", q).replace("'", q).replace("'", q);
+        return entry.replace(/'/g, q);
+        // return entry;
+    }
+
+    function getFullName(entry) {
+        return noquote(entry.full_name);
+    }
+
     function getInfoWindow(entry) {
         var details = "<![CDATA[";
         if (entry.full_name) {
-            details = details + "\n<strong>" + entry.full_name + "</strong>\n<br/>";
+            details = details + "\n<strong>" + noquote(entry.full_name) + "</strong>\n<br/>";
         }
         details = details + getFullAddress(entry, ", ");
         if (entry.phone_number) {
@@ -282,17 +303,17 @@ function convertCVSToXML(csvFile) {
             details = details + "\n<br/><a href=\"mailto:" + entry.email + "\">" + entry.email + "</a>";
         }
         if (entry.website) {
-            details = details + "\n<br/><a target=\"_blank\" href=\"" + entry.website + "\">" + entry.website + "</a>";
+            details = details + "\n<br/><a target=\"_blank\" href=\"" + noquote(entry.website) + "\">" + entry.website + "</a>";
         }
         if (entry.twitter_login) {
             details = details + "\n<br/>twitter: @" + entry.twitter_login;
         }
         details = details + "\n]]>";
-        return details;
+        return noquote(details);
     }
 
     var xmlTagToNBName = {
-        "name": "full_name",
+        "name": getFullName,
         "nbid": "nationbuilder_id",
         "lat": "lat",
         "lng": "lng",
@@ -308,10 +329,7 @@ function convertCVSToXML(csvFile) {
         "icon": getOrgType
     };
 
-
-    alert("converter.fromFile");
     converter.fromFile(inputfile, function(err, jsonArray) {
-        alert("back converter.fromFile");
         outputToConsole("converter.fromFile read data");
         readFileData(autolatlong, 'utf8', function(err, alatlong) {
             outputToConsole("Read Files ...", autolatlong);

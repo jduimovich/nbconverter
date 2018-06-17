@@ -426,8 +426,8 @@
 <marker>
     <name>Booth Boys Barn</name>
     <nbid>19599</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>44.9664959</lat>
+    <lng>-75.5123744</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -435,7 +435,7 @@
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Booth Boys Barn</strong>
-<br/>402 Dillabough Road RR#2, Heckston, ON, CA, K0G 1J0
+<br/>402 Dillabaugh Rd, Kemptville, ON, CA, K0G 1J0
 <br/>613-989-1608
 <br/><a href="mailto:bbb@boothboysbarn.ca">bbb@boothboysbarn.ca</a>
 <br/><a target="_blank" href="http://www.boothboysbarn.ca/">http://www.boothboysbarn.ca/</a>
@@ -679,8 +679,8 @@
 <marker>
     <name>Kricklewood Farm</name>
     <nbid>19634</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>44.72857</lat>
+    <lng>-75.9493469</lng>
     <orgtype>producers,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -744,8 +744,8 @@
 <marker>
     <name>Connaught Acres Farm</name>
     <nbid>19640</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.1365569</lat>
+    <lng>-75.2375558</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -753,7 +753,7 @@
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Connaught Acres Farm</strong>
-<br/>13621 connaught Rd, Chesterville, ON, CA, K0C 1H0
+<br/>13621 Connaught Rd, Chesterville, ON, CA, K0C 1H0
 <br/>613-448-3540
 <br/><a href="mailto:debbie@connaughtacres.ca">debbie@connaughtacres.ca</a>
 <br/><a target="_blank" href="http://www.connaughtacres.ca/">http://www.connaughtacres.ca/</a>
@@ -765,8 +765,8 @@
 <marker>
     <name>Forest Farm</name>
     <nbid>19644</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>44.5951873</lat>
+    <lng>-76.5166655</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -829,8 +829,8 @@
 <marker>
     <name>El Camino Farm</name>
     <nbid>19658</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.9441291</lat>
+    <lng>-77.0742408</lng>
     <orgtype>producers,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -838,7 +838,7 @@
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>El Camino Farm</strong>
-<br/>141 Malone Rd, Chichester, QC, CA, J0X 1M0
+<br/>141 Chemin Malone, Chapeau, QC, CA, J0X 1M0
 <br/>819-689-5680
 <br/><a href="mailto:elcaminofarm@hotmail.com">elcaminofarm@hotmail.com</a>
 <br/><a target="_blank" href="http://www.ottawavalleyfood.org/shopping/producers/27-shopping/our-producers/54-el-camino-farm">http://www.ottawavalleyfood.org/shopping/producers/27-shopping/our-producers/54-el-camino-farm</a>
@@ -871,8 +871,8 @@
 <marker>
     <name>Jardins FC Drouin Gardens</name>
     <nbid>19662</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.4673226</lat>
+    <lng>-74.9998004</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -880,34 +880,13 @@
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Jardins FC Drouin Gardens</strong>
-<br/>1226 Concession 10, Curran, ON, CA, K0B 1C0
+<br/>1226 Concession Road 10, Curran, ON, CA, K0B 1C0
 <br/>(613) 673-3094
 <br/><a href="mailto:f.c.drouin@xplornet.com">f.c.drouin@xplornet.com</a>
 <br/><a target="_blank" href="http://savourottawa.ca/fc-drouin-gardens/">http://savourottawa.ca/fc-drouin-gardens/</a>
 ]]></infowindow>
     <email>f.c.drouin@xplornet.com</email>
     <website>http://savourottawa.ca/fc-drouin-gardens/</website>
-    <icon>producers</icon>
-</marker>
-<marker>
-    <name>James Haven Farms</name>
-    <nbid>19664</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
-    <orgtype>producers</orgtype>
-    <savour>false</savour>
-    <farmtypes>csa</farmtypes>
-    <favorites>fv-vegetables,fm-poultry_eggs</favorites>
-    <productiontypes>self_identified_ecological</productiontypes>
-    <infowindow><![CDATA[
-<strong>James Haven Farms</strong>
-<br/>524 Conc 5_ RR#7, Perth, ON, CA, K7H 3C9
-<br/>613-267-6495
-<br/><a href="mailto:familyjames@storm.ca">familyjames@storm.ca</a>
-<br/><a target="_blank" href="http://lanarklocalflavour.ca/user/13">http://lanarklocalflavour.ca/user/13</a>
-]]></infowindow>
-    <email>familyjames@storm.ca</email>
-    <website>http://lanarklocalflavour.ca/user/13</website>
     <icon>producers</icon>
 </marker>
 <marker>
@@ -1166,8 +1145,8 @@
 <marker>
     <name>Bekings Poultry Farm</name>
     <nbid>19706</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>44.9033644</lat>
+    <lng>-75.5800407</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -1175,7 +1154,7 @@
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Bekings Poultry Farm</strong>
-<br/>2405 Jochems Rd, Kemptville, ON, CA, K0G 1T0
+<br/>2405 Jochem Rd, Oxford Station, ON, CA, K0G 1T0
 <br/>613-258-5396
 <br/><a href="mailto:info@bekingseggs.com">info@bekingseggs.com</a>
 <br/><a target="_blank" href="http://www.bekingseggs.com/">http://www.bekingseggs.com/</a>
@@ -1188,8 +1167,8 @@
 <marker>
     <name>Bryson Farms</name>
     <nbid>19707</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.6380274</lat>
+    <lng>-76.60646109999999</lng>
     <orgtype>markets,producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -1197,8 +1176,8 @@
     <productiontypes>certorg</productiontypes>
     <infowindow><![CDATA[
 <strong>Bryson Farms</strong>
-<br/>25 Stewart Rd, Shawville, QC, CA, V0X 2Y0
-<br/>8196476785
+<br/>25 Chemin Stewart, Shawville, QC, CA, J0X 2Y0
+<br/>(819) 647-6785
 <br/><a href="mailto:info@brysonfarms.com">info@brysonfarms.com</a>
 <br/><a target="_blank" href="http://www.brysonfarms.com/">http://www.brysonfarms.com/</a>
 <br/>twitter: @BrysonFarms
@@ -1337,8 +1316,8 @@
 <marker>
     <name>Glengarry Fine Cheese</name>
     <nbid>19719</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.1600902</lat>
+    <lng>-74.5168953</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -1346,8 +1325,8 @@
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Glengarry Fine Cheese</strong>
-<br/>5926 County Road #34 box 190, Lancaster, ON, CA, K0C 1N0
-<br/>6133471141
+<br/>5926 Hwy #34 RR#1 County Rd 34, Lancaster, ON, CA, K0C 1N0
+<br/>613-347-1141
 <br/><a href="mailto:glengarrycheesemaking@bellnet.ca">glengarrycheesemaking@bellnet.ca</a>
 <br/><a target="_blank" href="http://www.glengarryfinecheese.com/">http://www.glengarryfinecheese.com/</a>
 ]]></infowindow>
@@ -1358,8 +1337,8 @@
 <marker>
     <name>Grazing Days</name>
     <nbid>19720</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.7327805</lat>
+    <lng>-75.0053731</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -1367,7 +1346,7 @@
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Grazing Days</strong>
-<br/>567 rang Ste Julie Est, St.-AndrÄ-Avellin, QC, CA, J0V 1W0
+<br/>567 Rang Sainte Julie E, Saint-Andr-Avellin, QC, CA, J0V 1W0
 <br/>613-898-9136
 <br/><a href="mailto:info@grazingdays.com">info@grazingdays.com</a>
 <br/><a target="_blank" href="http://www.grazingdays.ca/">http://www.grazingdays.ca/</a>
@@ -1463,8 +1442,8 @@
 <marker>
     <name>The Log Farm</name>
     <nbid>19728</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.2964053</lat>
+    <lng>-75.7917806</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -1528,8 +1507,8 @@
 <marker>
     <name>Wildrose Country Homestead</name>
     <nbid>19736</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.1694964</lat>
+    <lng>-76.4188622</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -1761,8 +1740,8 @@
 <marker>
     <name>Ashton Naturals</name>
     <nbid>19758</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.1295047</lat>
+    <lng>-76.0394817</lng>
     <orgtype>producers,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -1783,8 +1762,8 @@
 <marker>
     <name>Ferme Morgan</name>
     <nbid>19762</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.9516141</lat>
+    <lng>-74.5561869</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -1804,8 +1783,8 @@
 <marker>
     <name>Singing Nettle Farm</name>
     <nbid>19763</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>44.83148629999999</lat>
+    <lng>-76.3769678</lng>
     <orgtype>producers,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -1824,8 +1803,8 @@
 <marker>
     <name>Back to the Land Gardens</name>
     <nbid>19767</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>44.8637078</lat>
+    <lng>-75.7150284</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -1865,8 +1844,8 @@
 <marker>
     <name>Fitzroy Beef Farmers Co-operative</name>
     <nbid>19771</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>44.894773</lat>
+    <lng>-75.9851145</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -1886,8 +1865,8 @@
 <marker>
     <name>Kinburn Kinburn Farms</name>
     <nbid>19774</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.3788701</lat>
+    <lng>-76.1670977</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -1908,8 +1887,8 @@
 <marker>
     <name>Kiwan Farms</name>
     <nbid>19775</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.3767769</lat>
+    <lng>-75.598773</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -1928,8 +1907,8 @@
 <marker>
     <name>La ferme du Ruisseau Noir</name>
     <nbid>19779</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.7700146</lat>
+    <lng>-75.1227877</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -1989,8 +1968,8 @@
 <marker>
     <name>Leela Bluegrass Farm</name>
     <nbid>19782</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>44.7748409</lat>
+    <lng>-75.9700156</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -2010,8 +1989,8 @@
 <marker>
     <name>Les Jardins Lamoureux</name>
     <nbid>19784</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.5883288</lat>
+    <lng>-74.6196295</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -2116,8 +2095,8 @@
 <marker>
     <name>Mikes Garden Harvest</name>
     <nbid>19798</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.2554145</lat>
+    <lng>-75.6256156</lng>
     <orgtype>producers,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -2158,8 +2137,8 @@
 <marker>
     <name>Elevage Cataraqui</name>
     <nbid>19814</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.5039132</lat>
+    <lng>-75.9430446</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -2262,8 +2241,8 @@
 <marker>
     <name>Kilmarnock Orchard</name>
     <nbid>19821</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>44.8786316</lat>
+    <lng>-75.9311621</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -2283,8 +2262,8 @@
 <marker>
     <name>Les Serres M. Quenneville Greenhouses</name>
     <nbid>19822</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.5432713</lat>
+    <lng>-74.9602472</lng>
     <orgtype>retailer</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -2323,8 +2302,8 @@
 <marker>
     <name>Our Farm</name>
     <nbid>19829</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.4254463</lat>
+    <lng>-76.08205629999999</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -2344,8 +2323,8 @@
 <marker>
     <name>Avonmore Berry Farm</name>
     <nbid>19831</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.1906824</lat>
+    <lng>-74.9801289</lng>
     <orgtype>producers,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa,pick_your_own</farmtypes>
@@ -2407,8 +2386,8 @@
 <marker>
     <name>Pickle Patch</name>
     <nbid>19838</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.47760539999999</lat>
+    <lng>-74.57346129999999</lng>
     <orgtype>producers,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -2450,8 +2429,8 @@
 <marker>
     <name>Applehill Fruit Farm</name>
     <nbid>19841</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.2587039</lat>
+    <lng>-75.7301122</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -2470,8 +2449,8 @@
 <marker>
     <name>Quillow Farm</name>
     <nbid>19842</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.1588838</lat>
+    <lng>-75.5676852</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -2512,8 +2491,8 @@
 <marker>
     <name>Tincap Berry Farm</name>
     <nbid>19845</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>44.6213437</lat>
+    <lng>-75.7631188</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa,pick_your_own</farmtypes>
@@ -2533,8 +2512,8 @@
 <marker>
     <name>Anderson Farm</name>
     <nbid>19847</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.1293511</lat>
+    <lng>-75.9533593</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -2576,8 +2555,8 @@
 <marker>
     <name>Runaway Creek Farm</name>
     <nbid>19859</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.9550355</lat>
+    <lng>-74.607213</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -2710,7 +2689,7 @@
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Algonquin Tea Company</strong>
-<br/>106 Augsburg Rd, Eganville, ON, CA, K0J1T0
+<br/>106 Augsburg Rd, Bonnechere Valley, ON, CA, K0J 1T0
 <br/>613-628-6157
 <br/><a href="mailto:spirit@algonquintea.com">spirit@algonquintea.com</a>
 <br/><a target="_blank" href="http://algonquintea.com/">http://algonquintea.com/</a>
@@ -2787,8 +2766,8 @@
 <marker>
     <name>Ferme Terre ¾ Terre Farm</name>
     <nbid>19889</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.7171366</lat>
+    <lng>-75.1453311</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -2830,8 +2809,8 @@
 <marker>
     <name>Whaleys Acres</name>
     <nbid>19900</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>44.9811816</lat>
+    <lng>-75.02890479999999</lng>
     <orgtype>producers,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -2850,8 +2829,8 @@
 <marker>
     <name>Wild Rose Organic Farm</name>
     <nbid>19901</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.1930381</lat>
+    <lng>-74.9965464</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -2892,8 +2871,8 @@
 <marker>
     <name>Whitsend Market Garden</name>
     <nbid>19914</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.1938821</lat>
+    <lng>-75.9176677</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -2912,8 +2891,8 @@
 <marker>
     <name>Champignons Shiitake</name>
     <nbid>19956</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.4925272</lat>
+    <lng>-75.73045119999999</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -2952,8 +2931,8 @@
 <marker>
     <name>Glengyle Garlic</name>
     <nbid>19990</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>44.9942639</lat>
+    <lng>-76.3449435</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -2972,8 +2951,8 @@
 <marker>
     <name>Halls Apple Market</name>
     <nbid>19991</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>44.6326363</lat>
+    <lng>-75.65597190000001</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa,pick_your_own</farmtypes>
@@ -2993,8 +2972,8 @@
 <marker>
     <name>Just Farms</name>
     <nbid>19993</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.3084214</lat>
+    <lng>-74.6802955</lng>
     <orgtype>producers,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -3035,8 +3014,8 @@
 <marker>
     <name>Griffith Farm &amp; Market</name>
     <nbid>20001</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.6052208</lat>
+    <lng>-77.3991546</lng>
     <orgtype>producers,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -3077,8 +3056,8 @@
 <marker>
     <name>Marigold Culinaries</name>
     <nbid>20005</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.4801004</lat>
+    <lng>-76.0703725</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -3097,8 +3076,8 @@
 <marker>
     <name>Moonlight Crofters</name>
     <nbid>20006</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.4257666</lat>
+    <lng>-76.9533873</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -3118,8 +3097,8 @@
 <marker>
     <name>La Pleurotiire</name>
     <nbid>20007</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.6028612</lat>
+    <lng>-75.4398556</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -3138,8 +3117,8 @@
 <marker>
     <name>Guy Bergeron Gardening</name>
     <nbid>20009</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.3997895</lat>
+    <lng>-75.2563784</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -3157,8 +3136,8 @@
 <marker>
     <name>Zero Carbon Garden</name>
     <nbid>20010</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.5293668</lat>
+    <lng>-76.4804006</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -3200,8 +3179,8 @@
 <marker>
     <name>Maple Hill Urban Farm Community Garden</name>
     <nbid>20014</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.3293882</lat>
+    <lng>-75.84339190000001</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -3221,8 +3200,8 @@
 <marker>
     <name>Roadapple Ranch</name>
     <nbid>20020</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.1671844</lat>
+    <lng>-75.06224809999999</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -3242,8 +3221,8 @@
 <marker>
     <name>Shamrock Farms</name>
     <nbid>20021</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.5802916</lat>
+    <lng>-76.7649667</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -3261,8 +3240,8 @@
 <marker>
     <name>Bushgarden Farmstead Cheese</name>
     <nbid>20024</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>44.5735364</lat>
+    <lng>-76.2173825</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -3282,8 +3261,8 @@
 <marker>
     <name>Art-Is-In Bakery</name>
     <nbid>20026</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.40828250000001</lat>
+    <lng>-75.71878</lng>
     <orgtype>foodservices</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -3367,8 +3346,8 @@
 <marker>
     <name>South Branch Bistro</name>
     <nbid>20030</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.0169544</lat>
+    <lng>-75.6474637</lng>
     <orgtype>foodservices,breweries_and_wineries</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -3388,8 +3367,8 @@
 <marker>
     <name>Ferme aux Saveurs des Monts</name>
     <nbid>20032</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.55745</lat>
+    <lng>-75.603454</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -3409,8 +3388,8 @@
 <marker>
     <name>Riverglen Biodynamic Farm</name>
     <nbid>20033</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.3596268</lat>
+    <lng>-75.873159</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -3420,18 +3399,18 @@
 <strong>Riverglen Biodynamic Farm</strong>
 <br/>230 Davidson Side Rd, Ottawa, ON, CA, K2K 2Z4
 <br/>613-721-7063
-<br/><a href="mailto:info@riverglenfarm.ca">info@riverglenfarm.ca</a>
+<br/><a href="mailto:david.burnford@gmail.com">david.burnford@gmail.com</a>
 <br/><a target="_blank" href="http://www.riverglenfarm.ca/">http://www.riverglenfarm.ca/</a>
 ]]></infowindow>
-    <email>info@riverglenfarm.ca</email>
+    <email>david.burnford@gmail.com</email>
     <website>http://www.riverglenfarm.ca/</website>
     <icon>producers</icon>
 </marker>
 <marker>
     <name>Stanleys Olde Maple Lane Farm</name>
     <nbid>20034</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.26346900000001</lat>
+    <lng>-75.434274</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -3452,8 +3431,8 @@
 <marker>
     <name>Roots and Shoots Farm</name>
     <nbid>20036</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.6634533</lat>
+    <lng>-76.0184027</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -3474,8 +3453,8 @@
 <marker>
     <name>The Wild Garden</name>
     <nbid>20038</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.4266413</lat>
+    <lng>-75.5792563</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -3496,8 +3475,8 @@
 <marker>
     <name>Little Trickle Farm</name>
     <nbid>20049</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.536893</lat>
+    <lng>-76.93351349999999</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -3516,8 +3495,8 @@
 <marker>
     <name>Osgoode Apple Orchard</name>
     <nbid>20050</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.1460994</lat>
+    <lng>-75.6147699</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -3536,8 +3515,8 @@
 <marker>
     <name>The Green Door Restaurant</name>
     <nbid>20055</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.4083204</lat>
+    <lng>-75.6778257</lng>
     <orgtype>foodservices</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -3579,8 +3558,8 @@
 <marker>
     <name>Fines Herbes par Daniel</name>
     <nbid>20341</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.5380676</lat>
+    <lng>-75.6032113</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -3600,8 +3579,8 @@
 <marker>
     <name>Amaranth Farm</name>
     <nbid>20345</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>44.8423614</lat>
+    <lng>-76.4756644</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -3620,8 +3599,8 @@
 <marker>
     <name>les Bergerie des sables</name>
     <nbid>20350</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.494226</lat>
+    <lng>-74.9946879</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -3640,8 +3619,8 @@
 <marker>
     <name>Connaught Nursery</name>
     <nbid>20354</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.64009799999999</lat>
+    <lng>-77.00909109999999</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -3681,8 +3660,8 @@
 <marker>
     <name>Eighth Line Farm</name>
     <nbid>20359</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>44.6205895</lat>
+    <lng>-75.90482469999999</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -3702,8 +3681,8 @@
 <marker>
     <name>Fraisiere Marier Strawberries</name>
     <nbid>20367</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.4968519</lat>
+    <lng>-75.31897300000001</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa,pick_your_own</farmtypes>
@@ -3722,8 +3701,8 @@
 <marker>
     <name>Heartland Farms</name>
     <nbid>20371</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.3642438</lat>
+    <lng>-76.4105367</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -3742,8 +3721,8 @@
 <marker>
     <name>LErabliere JB Caron</name>
     <nbid>20374</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>46.1130672</lat>
+    <lng>-75.8825237</lng>
     <orgtype>foodservices,producers,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -3752,7 +3731,7 @@
     <infowindow><![CDATA[
 <strong>LErabliere JB Caron</strong>
 <br/>581 chemin Point-Comfort, Gracefield, QC, CA, J0X 1W0
-<br/>(819) 463-0116
+<br/>819-463-0116
 <br/><a target="_blank" href="http://erablierejbcaron.ca/">http://erablierejbcaron.ca/</a>
 ]]></infowindow>
     <email> </email>
@@ -3762,8 +3741,8 @@
 <marker>
     <name>Les Serres Gatineau</name>
     <nbid>20378</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.5120887</lat>
+    <lng>-75.5361492</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -3803,8 +3782,8 @@
 <marker>
     <name>Montague House</name>
     <nbid>20382</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>44.8956236</lat>
+    <lng>-76.00946979999999</lng>
     <orgtype>foodservices</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -3883,8 +3862,8 @@
 <marker>
     <name>Temples Sugar Bush</name>
     <nbid>20391</nbid>
-    <lat>45.0392911</lat>
-    <lng>-76.2883269</lng>
+    <lat>45.0375708</lat>
+    <lng>-76.2879815</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -3945,8 +3924,8 @@
 <marker>
     <name>Restaurant Les Fougeres</name>
     <nbid>20667</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.5252205</lat>
+    <lng>-75.800781</lng>
     <orgtype>foodservices</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -3966,8 +3945,8 @@
 <marker>
     <name>Savoury Pursuits</name>
     <nbid>20674</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.2331999</lat>
+    <lng>-76.1828572</lng>
     <orgtype>foodservices,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -3987,8 +3966,8 @@
 <marker>
     <name>Thai Lanna</name>
     <nbid>20703</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.3548241</lat>
+    <lng>-75.6492043</lng>
     <orgtype>foodservices</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -4005,8 +3984,8 @@
 <marker>
     <name>Atelier</name>
     <nbid>20755</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.39959</lat>
+    <lng>-75.7065674</lng>
     <orgtype>foodservices</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -4026,8 +4005,8 @@
 <marker>
     <name>Four Sisters Food</name>
     <nbid>20786</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.58586649999999</lat>
+    <lng>-75.42338149999999</lng>
     <orgtype>foodservices,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -4047,8 +4026,8 @@
 <marker>
     <name>Kichesippi Beer Co.</name>
     <nbid>20795</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.3764102</lat>
+    <lng>-75.7499294</lng>
     <orgtype>breweries_and_wineries</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -4068,8 +4047,8 @@
 <marker>
     <name>Carolinas</name>
     <nbid>20817</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.4542993</lat>
+    <lng>-75.6595116</lng>
     <orgtype>foodservices,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -4089,8 +4068,8 @@
 <marker>
     <name>Yummy Cookies</name>
     <nbid>20818</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.3983094</lat>
+    <lng>-75.67712639999999</lng>
     <orgtype>foodservices,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -4152,8 +4131,8 @@
 <marker>
     <name>Rainbow Natural Foods</name>
     <nbid>20933</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.3629829</lat>
+    <lng>-75.791155</lng>
     <orgtype>retailer</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -4174,8 +4153,8 @@
 <marker>
     <name>Beau’s Beaus All Natural Brewery</name>
     <nbid>20940</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.516908</lat>
+    <lng>-74.63732</lng>
     <orgtype>breweries_and_wineries</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -4195,8 +4174,8 @@
 <marker>
     <name>Countrymans Estate Winery &amp; Gardens</name>
     <nbid>20942</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>44.7105993</lat>
+    <lng>-75.5127424</lng>
     <orgtype>breweries_and_wineries</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -4216,8 +4195,8 @@
 <marker>
     <name>Domaine Perrault</name>
     <nbid>20943</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.3845243</lat>
+    <lng>-75.4184489</lng>
     <orgtype>breweries_and_wineries</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -4237,8 +4216,8 @@
 <marker>
     <name>Blue Gypsy Wines</name>
     <nbid>20946</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>44.9428837</lat>
+    <lng>-75.66814389999999</lng>
     <orgtype>breweries_and_wineries</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -4257,8 +4236,8 @@
 <marker>
     <name>Green Gables Winery</name>
     <nbid>20948</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>44.9268323</lat>
+    <lng>-75.5576723</lng>
     <orgtype>breweries_and_wineries</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -4277,8 +4256,8 @@
 <marker>
     <name>Alexandria Farmers Market</name>
     <nbid>20969</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.3069855</lat>
+    <lng>-74.6348519</lng>
     <orgtype>markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -4382,8 +4361,8 @@
 <marker>
     <name>Eganville Farmers Market</name>
     <nbid>20979</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.5375012</lat>
+    <lng>-77.1006283</lng>
     <orgtype>markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -4631,8 +4610,8 @@
 <marker>
     <name>March Public de la Petite-Nation</name>
     <nbid>20996</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.604704</lat>
+    <lng>-75.2336225</lng>
     <orgtype>markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -4770,8 +4749,8 @@
 <marker>
     <name>Beechwood Farmers Market</name>
     <nbid>21007</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.4423501</lat>
+    <lng>-75.6709711</lng>
     <orgtype>markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -4895,8 +4874,8 @@
 <marker>
     <name>David      David,  Ellis, Miriam Stevenson Farms</name>
     <nbid>24100</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>44.7281434</lat>
+    <lng>-76.15799919999999</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -4915,8 +4894,8 @@
 <marker>
     <name>Ferme aux pleines saveurs</name>
     <nbid>24241</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.7882779</lat>
+    <lng>-75.02380080000002</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -4936,8 +4915,8 @@
 <marker>
     <name>Franktown House Flowers</name>
     <nbid>24242</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.6678591</lat>
+    <lng>-75.8916323</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -4957,8 +4936,8 @@
 <marker>
     <name>Herboristerie La Fe des Bois Botanicals</name>
     <nbid>24243</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.7192228</lat>
+    <lng>-76.4763878</lng>
     <orgtype>producers,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -4987,7 +4966,7 @@
     <infowindow><![CDATA[
 <strong>Purebread Organic Bakery</strong>
 <br/>
-<br/>6138096048
+<br/>613-809-6048
 <br/><a href="mailto:info@purebreadbakery.com">info@purebreadbakery.com</a>
 <br/><a target="_blank" href="http://www.purebreadbakery.com/">http://www.purebreadbakery.com/</a>
 <br/>twitter: @purebreadottawa
@@ -5065,8 +5044,8 @@
 <marker>
     <name>Kula Permaculture Farm</name>
     <nbid>24900</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.6821011</lat>
+    <lng>-76.989648</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -5130,8 +5109,8 @@
 <marker>
     <name>Buzzz Honey Products</name>
     <nbid>25406</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.4761453</lat>
+    <lng>-75.0626054</lng>
     <orgtype>microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -5152,8 +5131,8 @@
 <marker>
     <name>Ironwood Organics</name>
     <nbid>25436</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>44.330673</lat>
+    <lng>-76.1607829</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -5173,8 +5152,8 @@
 <marker>
     <name>Upper Canada Creamery</name>
     <nbid>25437</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>44.9239746</lat>
+    <lng>-75.2911463</lng>
     <orgtype>microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -5236,8 +5215,8 @@
 <marker>
     <name>Two Rivers Food Two Rivers Food Hub</name>
     <nbid>25498</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>44.894773</lat>
+    <lng>-75.9851145</lng>
     <orgtype> </orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -5256,17 +5235,17 @@
     <icon> </icon>
 </marker>
 <marker>
-    <name>Ron Radical Homestead</name>
+    <name>Radical Homestead</name>
     <nbid>25560</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.4450781</lat>
+    <lng>-75.6278176</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
     <favorites>fv-vegetables,fs-sweeteners</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
-<strong>Ron Radical Homestead</strong>
+<strong>Radical Homestead</strong>
 <br/>660 Hochelaga St, Ottawa, ON, CA, K1k3v4
 <br/>(613) 884-5063
 <br/><a href="mailto:ron@radicalhomestead.ca">ron@radicalhomestead.ca</a>
@@ -5278,8 +5257,8 @@
 <marker>
     <name>B&amp;H Your Community Grocer</name>
     <nbid>25722</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.0182699</lat>
+    <lng>-75.64908059999999</lng>
     <orgtype>retailer</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -5299,8 +5278,8 @@
 <marker>
     <name>Blue Shoes Honey</name>
     <nbid>25742</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.2421555</lat>
+    <lng>-75.2392033</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -5319,8 +5298,8 @@
 <marker>
     <name>Gordz Hot Sauce</name>
     <nbid>25743</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.447277</lat>
+    <lng>-74.6901305</lng>
     <orgtype>producers,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -5340,8 +5319,8 @@
 <marker>
     <name>Absinthe Caf</name>
     <nbid>25818</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.4000849</lat>
+    <lng>-75.7304796</lng>
     <orgtype>foodservices</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -5361,8 +5340,8 @@
 <marker>
     <name>Pinnacle Haven Farm</name>
     <nbid>25828</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.5229975</lat>
+    <lng>-76.706661</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -5382,8 +5361,8 @@
 <marker>
     <name>My Favourite Farm</name>
     <nbid>25829</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.71117599999999</lat>
+    <lng>-77.042692</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -5425,8 +5404,8 @@
 <marker>
     <name>Juniper Juniper Farm</name>
     <nbid>25902</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.673825</lat>
+    <lng>-75.946265</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -5447,8 +5426,8 @@
 <marker>
     <name>Heavenly Honey</name>
     <nbid>25915</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.4376912</lat>
+    <lng>-75.5481913</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -5489,8 +5468,8 @@
 <marker>
     <name>Mayo Hill Garlic</name>
     <nbid>26029</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.6592369</lat>
+    <lng>-75.3535547</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -5509,8 +5488,8 @@
 <marker>
     <name>Old 4th Hop Yard</name>
     <nbid>26081</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.193258</lat>
+    <lng>-74.5940864</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -5551,8 +5530,8 @@
 <marker>
     <name>Le Cordon Bleu</name>
     <nbid>26200</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.4290966</lat>
+    <lng>-75.67469849999999</lng>
     <orgtype>foodservices</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -5593,8 +5572,8 @@
 <marker>
     <name>March Vieux Hull</name>
     <nbid>26333</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.4271261</lat>
+    <lng>-75.71188959999999</lng>
     <orgtype>markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -5614,8 +5593,8 @@
 <marker>
     <name>North Gower Farmers Market</name>
     <nbid>26334</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.129639</lat>
+    <lng>-75.7213946</lng>
     <orgtype>markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -5634,8 +5613,8 @@
 <marker>
     <name>Ottawa Organic Farmers Market</name>
     <nbid>26335</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.3756315</lat>
+    <lng>-75.66751959999999</lng>
     <orgtype>markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -5674,8 +5653,8 @@
 <marker>
     <name>March Vieux Aylmer</name>
     <nbid>26337</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.3950067</lat>
+    <lng>-75.84362860000002</lng>
     <orgtype>markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -5736,8 +5715,8 @@
 <marker>
     <name>Cest La Vie Farm</name>
     <nbid>26343</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.1608436</lat>
+    <lng>-76.4259386</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -5757,8 +5736,8 @@
 <marker>
     <name>Ingleside Tomatoes</name>
     <nbid>26400</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>44.9991665</lat>
+    <lng>-75.0386499</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -5777,8 +5756,8 @@
 <marker>
     <name>Shelly Against the Grain</name>
     <nbid>26442</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.076846</lat>
+    <lng>-75.403618</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -5798,8 +5777,8 @@
 <marker>
     <name>Kitley Beef Farm</name>
     <nbid>26489</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>44.785331</lat>
+    <lng>-76.01753</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -5818,8 +5797,8 @@
 <marker>
     <name>The Herb and Spice (Wellington)</name>
     <nbid>26559</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.3984898</lat>
+    <lng>-75.7365031</lng>
     <orgtype>retailer</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -5838,8 +5817,8 @@
 <marker>
     <name>Ottawa Farmers Market - Landsdowne</name>
     <nbid>26564</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.4000555</lat>
+    <lng>-75.68273169999999</lng>
     <orgtype>markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -5858,8 +5837,8 @@
 <marker>
     <name>Ottawa Farmers Market - Orleans (Ray Friel Center)</name>
     <nbid>26565</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.4734038</lat>
+    <lng>-75.49530539999999</lng>
     <orgtype>markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -5877,8 +5856,8 @@
 <marker>
     <name>Terramor Farm</name>
     <nbid>26589</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.3303744</lat>
+    <lng>-76.4536923</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -5898,8 +5877,8 @@
 <marker>
     <name>Carrot Boots Farm</name>
     <nbid>26590</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.4180137</lat>
+    <lng>-75.1485756</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -5918,8 +5897,8 @@
 <marker>
     <name>Heart of Orleans Farmers Market</name>
     <nbid>26728</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.4807315</lat>
+    <lng>-75.50988939999999</lng>
     <orgtype>markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -5939,8 +5918,8 @@
 <marker>
     <name>Bent Plow Farm</name>
     <nbid>26731</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.4774625</lat>
+    <lng>-76.6830066</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -5982,8 +5961,8 @@
 <marker>
     <name>Kiefro Farm</name>
     <nbid>26777</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.470225</lat>
+    <lng>-75.2931218</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -6024,8 +6003,8 @@
 <marker>
     <name>Ferme Rveuse</name>
     <nbid>26858</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.5027276</lat>
+    <lng>-74.9637255</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -6045,8 +6024,8 @@
 <marker>
     <name>Funny Duck Farms</name>
     <nbid>26943</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>44.7711513</lat>
+    <lng>-75.8732106</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -6066,8 +6045,8 @@
 <marker>
     <name>Elk Ranch</name>
     <nbid>27553</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.35326999999999</lat>
+    <lng>-75.9492727</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -6108,8 +6087,8 @@
 <marker>
     <name>Jabulani</name>
     <nbid>27910</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.1308817</lat>
+    <lng>-75.9165987</lng>
     <orgtype>breweries_and_wineries</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -6152,8 +6131,8 @@
 <marker>
     <name>Gees Bees</name>
     <nbid>30230</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.4805383</lat>
+    <lng>-76.0498164</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -6173,8 +6152,8 @@
 <marker>
     <name>The Grounds Cafe</name>
     <nbid>30307</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.2852452</lat>
+    <lng>-75.9135878</lng>
     <orgtype>foodservices</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -6193,8 +6172,8 @@
 <marker>
     <name>Vignoble Clos Du Vully</name>
     <nbid>30308</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.41090320000001</lat>
+    <lng>-75.3498422</lng>
     <orgtype>breweries_and_wineries</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -6214,8 +6193,8 @@
 <marker>
     <name>The Carp Bakery</name>
     <nbid>30309</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.3447577</lat>
+    <lng>-76.03798359999999</lng>
     <orgtype>foodservices</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -6234,8 +6213,8 @@
 <marker>
     <name>Ottawa Valley Hops Farm</name>
     <nbid>30310</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.15106710000001</lat>
+    <lng>-75.9207749</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -6276,8 +6255,8 @@
 <marker>
     <name>Little Red Shack BBQ</name>
     <nbid>30312</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.2720218</lat>
+    <lng>-75.9462874</lng>
     <orgtype>foodservices</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -6296,8 +6275,8 @@
 <marker>
     <name>Kin Vineyards</name>
     <nbid>30313</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.3551709</lat>
+    <lng>-76.04901749999999</lng>
     <orgtype>breweries_and_wineries</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -6356,8 +6335,8 @@
 <marker>
     <name>Canaan Blueberries</name>
     <nbid>30317</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.4952103</lat>
+    <lng>-75.31716349999999</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa,pick_your_own</farmtypes>
@@ -6396,8 +6375,8 @@
 <marker>
     <name>NeXt</name>
     <nbid>30321</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.2629491</lat>
+    <lng>-75.9432116</lng>
     <orgtype>foodservices</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
