@@ -156,6 +156,13 @@ function convertCVSToXML(csvFile) {
             stream.end();
         });
     }
+    function getIcon(entry) {
+        var icon = getOrgType(entry);
+        if (icon.indexOf(',') > 0) {
+            return icon.substr(0, icon.indexOf(','));
+        }
+        return icon;
+    }
 
     function getOrgType(entry) {
         // Basis for choosing map icon (need an icon for each of these maptypes)
@@ -324,7 +331,7 @@ function convertCVSToXML(csvFile) {
         "infowindow": getInfoWindow,
         "email": "email",
         "website": "website",
-        "icon": getOrgType
+        "icon": getIcon
     };
 
     converter.fromFile(inputfile, function(err, jsonArray) {
