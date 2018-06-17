@@ -159,31 +159,43 @@ function convertCVSToXML(csvFile) {
         });
     }
 
+    function getIcon(entry) {
+        var icon = getOrgType(entry);
+        if (icon.indexOf(',') > 0) {
+            return icon.substr(0, icon.indexOf(','));
+        }
+        return icon;
+    }
+
     function getOrgType(entry) {
         // Basis for choosing map icon (need an icon for each of these maptypes)
         // 1 row in csv file can be 1 or more of the following:
         // foodservices, producers, retailer, market, microprocessor, breweries_and_wineries
         var orgtype = '';
         if (entry.retailers == 'true') {
-            orgtype +=  ",retailer";
-        } 
+            orgtype += ",retailer";
+        }
         if (entry.markets == 'true') {
-            orgtype +=  ",markets";
-        } 
+            orgtype += ",markets";
+        }
         if (entry.foodservice == 'true') {
-            orgtype +=  ",foodservices";
-        }  
+            orgtype += ",foodservices";
+        }
         if (entry.producer == 'true') {
             orgtype += ",producers"
-        } 
+        }
         if (entry.microprocessors == 'true') {
-            orgtype +=  ",microprocessor";
-        }  
+            orgtype += ",microprocessor";
+        }
         if (entry.breweries_and_wineries == 'true') {
-            orgtype +=  ",breweries_and_wineries";
-        } 
+            orgtype += ",breweries_and_wineries";
+        }
         if (orgtype != '') {
             return orgtype.substring(1);
+        }
+        if (orgtype.trim() == "") {
+            console.log("No Valid Orgtype for:" + entry.full_name);
+            orgtype = "producers";
         }
         return orgtype;
     }
@@ -326,7 +338,7 @@ function convertCVSToXML(csvFile) {
         "infowindow": getInfoWindow,
         "email": "email",
         "website": "website",
-        "icon": getOrgType
+        "icon": getIcon
     };
 
     converter.fromFile(inputfile, function(err, jsonArray) {
