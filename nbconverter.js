@@ -226,7 +226,7 @@ function convertCVSToXML(csvFile) {
         if (entry.sweeteners == 'true') {
             products = products + ",fs-sweeteners"
         }
-        if (entry.herb_grower == 'true') {
+        if (entry.herb_growers == 'true') {
             products = products + ",fh-herbs"
         }
         return products.substring(1);
