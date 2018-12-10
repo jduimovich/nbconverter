@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="mapdata.xsl"?>
 <markers>
 <marker>
+    <name>Orleans Community Garden</name>
+    <nbid>43</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Orleans Community Garden</strong>
+<br/>3350 St Jose, Orleans, ON, CA, K1C 1T1
+<br/><a href="mailto:ocgarden@rogers.com">ocgarden@rogers.com</a>
+]]></infowindow>
+    <email>ocgarden@rogers.com</email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
     <name>Ottawa Farmers Market - Westboro</name>
     <nbid>216</nbid>
     <lat>45.3891043</lat>
@@ -128,6 +147,25 @@
     <email> </email>
     <website>http://nac-cna.ca/</website>
     <icon>foodservices</icon>
+</marker>
+<marker>
+    <name>All Shades Garden</name>
+    <nbid>19009</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>All Shades Garden</strong>
+<br/>44 Blackburn Ave, Ottawa, ON, CA, K1N8A3
+<br/><a href="mailto:afnankhan71@gmail.com">afnankhan71@gmail.com</a>
+]]></infowindow>
+    <email>afnankhan71@gmail.com</email>
+    <website> </website>
+    <icon>producers</icon>
 </marker>
 <marker>
     <name>Fleurs Gourmandes - Edible Flowers</name>
@@ -3303,11 +3341,11 @@
 <strong>Roots and Shoots Farm</strong>
 <br/>115 Chemin de la Beurrerie, La PÌ»che, QC, CA, J0X 1A0
 <br/>819-664-6729
-<br/><a href="mailto:arobint@gmail.com">arobint@gmail.com</a>
+<br/><a href="mailto:robin@rootsandshootsfarm.com">robin@rootsandshootsfarm.com</a>
 <br/><a target="_blank" href="http://www.rootsandshootsfarm.com/en/home/">http://www.rootsandshootsfarm.com/en/home/</a>
 <br/>twitter: @RootsShootsFarm
 ]]></infowindow>
-    <email>arobint@gmail.com</email>
+    <email>robin@rootsandshootsfarm.com</email>
     <website>http://www.rootsandshootsfarm.com/en/home/</website>
     <icon>producers</icon>
 </marker>
@@ -3372,6 +3410,25 @@
 <br/><a href="mailto:fspagnoli@hotmail.ca">fspagnoli@hotmail.ca</a>
 ]]></infowindow>
     <email>fspagnoli@hotmail.ca</email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Karen Learning Education &amp; Opportunities</name>
+    <nbid>20051</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Karen Learning Education &amp; Opportunities</strong>
+<br/>2389 Pépin Ct, Ottawa, ON, CA, K1B 4C4
+<br/><a href="mailto:coleenscott51@gmail.com">coleenscott51@gmail.com</a>
+]]></infowindow>
+    <email>coleenscott51@gmail.com</email>
     <website> </website>
     <icon>producers</icon>
 </marker>
@@ -4676,6 +4733,721 @@
     <icon>markets</icon>
 </marker>
 <marker>
+    <name>Bethany Church Community Garden</name>
+    <nbid>21134</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Bethany Church Community Garden</strong>
+<br/>382 Centrepointe Dr, Ottawa, ON, CA, K2G 6B3
+<br/>613-592-8182
+<br/><a href="mailto:bethany-community-organic-gardens@googlegroups.com">bethany-community-organic-gardens@googlegroups.com</a>
+]]></infowindow>
+    <email>bethany-community-organic-gardens@googlegroups.com</email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Carlington Community Garden</name>
+    <nbid>21136</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Carlington Community Garden</strong>
+<br/>Carlington Community Health Centre 900 Merivale Rd, Ottawa, ON, CA, K1Z 5Z8
+<br/><a href="mailto:carlingtoncommunitygarden@gmail.com">carlingtoncommunitygarden@gmail.com</a>
+]]></infowindow>
+    <email>carlingtoncommunitygarden@gmail.com</email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Centretown Community Gardening Project</name>
+    <nbid>21138</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Centretown Community Gardening Project</strong>
+<br/>461 Lisgar Street (at Lyon), ON, K1R
+<br/><a href="mailto:ccgardenproject@gmail.com">ccgardenproject@gmail.com</a>
+]]></infowindow>
+    <email>ccgardenproject@gmail.com</email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Chateau Donald Community Garden</name>
+    <nbid>21139</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Chateau Donald Community Garden</strong>
+<br/>251 Donald St, Ottawa, ON, CA, K1K 4B7
+<br/><a href="mailto:251donaldgarden@gmail.com">251donaldgarden@gmail.com</a>
+]]></infowindow>
+    <email>251donaldgarden@gmail.com</email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Childrens Garden at Robert F. Leggat Park</name>
+    <nbid>21140</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Childrens Garden at Robert F. Leggat Park</strong>
+<br/>321 Main St, Ottawa, ON, CA, K1S
+<br/><a href="mailto:childrensgarden@sustainablelivingottawaeast.ca">childrensgarden@sustainablelivingottawaeast.ca</a>
+<br/><a target="_blank" href="http://www.sustainablelivingottawaeast.ca/">http://www.sustainablelivingottawaeast.ca/</a>
+]]></infowindow>
+    <email>childrensgarden@sustainablelivingottawaeast.ca</email>
+    <website>http://www.sustainablelivingottawaeast.ca/</website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Debra Dynes Family House Community Garden</name>
+    <nbid>21141</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Debra Dynes Family House Community Garden</strong>
+<br/>955 Debra Ave, Ottawa, ON, CA, K2C 0J4
+<br/>613-224-3824
+<br/><a href="mailto:debradynes@on.aibn.com">debradynes@on.aibn.com</a>
+<br/>twitter: @DebraDynes
+]]></infowindow>
+    <email>debradynes@on.aibn.com</email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Friendship Community Garden</name>
+    <nbid>21142</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Friendship Community Garden</strong>
+<br/>1244 Donald St, Ottawa, ON, CA, K1J 8R7
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Gloucester Allotment Garden: Anderson Site</name>
+    <nbid>21144</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Gloucester Allotment Garden: Anderson Site</strong>
+<br/>Weir Rd, Ottawa, ON, CA, KIC 7G4
+<br/>613-824-6524
+<br/><a href="mailto:gaga@ncf.ca">gaga@ncf.ca</a>
+]]></infowindow>
+    <email>gaga@ncf.ca</email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Jardin Arrowsmith Thyme-less Garden</name>
+    <nbid>21148</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Jardin Arrowsmith Thyme-less Garden</strong>
+<br/>2040 Arrowsmith Dr, Ottawa, ON, CA, K1J 7V7
+<br/><a href="mailto:atg2040@hotmail.com">atg2040@hotmail.com</a>
+]]></infowindow>
+    <email>atg2040@hotmail.com</email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Vanier Community Garden</name>
+    <nbid>21151</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Vanier Community Garden</strong>
+<br/>300 Des Peres Blancs, Ottawa, ON, CA, K1L
+<br/>613-567-5103
+<br/><a href="mailto:jardinvaniergarden@gmail.com">jardinvaniergarden@gmail.com</a>
+]]></infowindow>
+    <email>jardinvaniergarden@gmail.com</email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Kilborn Allotment Garden</name>
+    <nbid>21152</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Kilborn Allotment Garden</strong>
+<br/>2001 Kilborne Ave
+<br/>613-234-1854
+<br/><a target="_blank" href="http://www.kilborngardens.ca/">http://www.kilborngardens.ca/</a>
+]]></infowindow>
+    <email> </email>
+    <website>http://www.kilborngardens.ca/</website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Leslie Park Community Garden</name>
+    <nbid>21153</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Leslie Park Community Garden</strong>
+<br/>31 Abington Dr, Ottawa, ON, CA, K2H 7M5
+<br/><a href="mailto:leslieparkcommunitygarden@gmail.com">leslieparkcommunitygarden@gmail.com</a>
+]]></infowindow>
+    <email>leslieparkcommunitygarden@gmail.com</email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Lowertown/Basseville Community Garden</name>
+    <nbid>21154</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Lowertown/Basseville Community Garden</strong>
+<br/>40 Cobourg St, Ottawa, ON, CA, K1N 5N8
+<br/>613-789-3930 x314
+<br/><a href="mailto:lowertown.garden@gmail.com">lowertown.garden@gmail.com</a>
+]]></infowindow>
+    <email>lowertown.garden@gmail.com</email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Nanny Goat Hill</name>
+    <nbid>21156</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Nanny Goat Hill</strong>
+<br/>Bronson and Laurier, Ottawa, ON, CA, K1R
+<br/>613-851-1121
+<br/><a href="mailto:nangoathillgarden@gmail.com">nangoathillgarden@gmail.com</a>
+]]></infowindow>
+    <email>nangoathillgarden@gmail.com</email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Russell Heights Community Garden</name>
+    <nbid>21159</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Russell Heights Community Garden</strong>
+<br/>1799 E Russell Rd, Ottawa, ON, CA, K1G 0N1
+<br/>613-736-9855
+<br/><a href="mailto:housecoordinator@russellheights.ca">housecoordinator@russellheights.ca</a>
+]]></infowindow>
+    <email>housecoordinator@russellheights.ca</email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Ottawa East Community Garden</name>
+    <nbid>21160</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Ottawa East Community Garden</strong>
+<br/>223 Main St, Ottawa, ON, CA, K1S 1C5
+<br/><a href="mailto:oecommunitygarden@gmail.com">oecommunitygarden@gmail.com</a>
+<br/><a target="_blank" href="http://sustainablelivingottawaeast.ca/current-projects/community-garden/ottawa-east-community-garden/">http://sustainablelivingottawaeast.ca/current-projects/community-garden/ottawa-east-community-garden/</a>
+]]></infowindow>
+    <email>oecommunitygarden@gmail.com</email>
+    <website>http://sustainablelivingottawaeast.ca/current-projects/community-garden/ottawa-east-community-garden/</website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Pinecrest Terrace Community Garden</name>
+    <nbid>21161</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Pinecrest Terrace Community Garden</strong>
+<br/>2483 Iris St, Ottawa, ON, CA, K2C
+<br/>613-596-6703
+<br/><a href="mailto:pinecrestterracegardens@gmail.com">pinecrestterracegardens@gmail.com</a>
+]]></infowindow>
+    <email>pinecrestterracegardens@gmail.com</email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Rochester Heights Community Garden</name>
+    <nbid>21162</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Rochester Heights Community Garden</strong>
+<br/>290 Rochester St, Ottawa, ON, CA, K1R 7N2
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Sandy Hill Community Garden</name>
+    <nbid>21164</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Sandy Hill Community Garden</strong>
+<br/>154 Mann Ave, Ottawa, ON, CA, K1N 8J7
+<br/>613-894-1727
+<br/><a href="mailto:sandyhillcommunitygarden@gmail.com">sandyhillcommunitygarden@gmail.com</a>
+]]></infowindow>
+    <email>sandyhillcommunitygarden@gmail.com</email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Strathcona Heights Community Garden</name>
+    <nbid>21165</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Strathcona Heights Community Garden</strong>
+<br/>430 Wiggins Private, Ottawa, ON, CA, K1N 1A8
+<br/><a href="mailto:strathgarden613@gmail.com">strathgarden613@gmail.com</a>
+]]></infowindow>
+    <email>strathgarden613@gmail.com</email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>West Barrhaven Community Garden</name>
+    <nbid>21167</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>West Barrhaven Community Garden</strong>
+<br/>3058 Jockvale Rd, ON, CA, K2J 4J6
+<br/>613-825-7512
+<br/><a href="mailto:wbcgarden@gmail.com">wbcgarden@gmail.com</a>
+]]></infowindow>
+    <email>wbcgarden@gmail.com</email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Bayshore Park Community Garden and Oven</name>
+    <nbid>21169</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Bayshore Park Community Garden and Oven</strong>
+<br/>175 Woodridge Cres, Ottawa, ON, CA, K2B 7T2
+<br/><a href="mailto:Bayshorecommunitygarden@gmail.com">Bayshorecommunitygarden@gmail.com</a>
+]]></infowindow>
+    <email>Bayshorecommunitygarden@gmail.com</email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Brewer Park Community Garden</name>
+    <nbid>21170</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Brewer Park Community Garden</strong>
+<br/>151 Brewer Way, Ottawa, ON, CA, K1S 5T1
+<br/><a href="mailto:brewergarden@gmail.com">brewergarden@gmail.com</a>
+]]></infowindow>
+    <email>brewergarden@gmail.com</email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Lees Avenue Community Garden</name>
+    <nbid>21171</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Lees Avenue Community Garden</strong>
+<br/>166 Lees Ave, Ottawa, ON, CA, K1S
+<br/><a href="mailto:leescommunitygarden@gmail.com">leescommunitygarden@gmail.com</a>
+]]></infowindow>
+    <email>leescommunitygarden@gmail.com</email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Trinity Community Garden</name>
+    <nbid>21172</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Trinity Community Garden</strong>
+<br/>480 Avalon Pl, Ottawa, ON, CA, K1G 0W4
+<br/><a href="mailto:trinity.garden@rogers.com">trinity.garden@rogers.com</a>
+]]></infowindow>
+    <email>trinity.garden@rogers.com</email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Vars Community Garden</name>
+    <nbid>21173</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Vars Community Garden</strong>
+<br/>5859 Centre St, Ottawa, ON, CA, K0A 3H0
+<br/>613-370-0230
+<br/><a href="mailto:info@vars.ca">info@vars.ca</a>
+]]></infowindow>
+    <email>info@vars.ca</email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Michele Heights Community Garden</name>
+    <nbid>21174</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Michele Heights Community Garden</strong>
+<br/>2955 Michele Dr West of Carling Ave and Richmond Rd
+<br/>613-768-9838
+<br/><a href="mailto:micheleheightscommunitygardens@gmail.com">micheleheightscommunitygardens@gmail.com</a>
+]]></infowindow>
+    <email>micheleheightscommunitygardens@gmail.com</email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>University of Ottawa Community Garden</name>
+    <nbid>21175</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>University of Ottawa Community Garden</strong>
+<br/>141 Louis-Pasteur Private, Ottawa, ON, CA, K1N 1E3
+<br/><a href="mailto:garden.uottawa@gmail.com">garden.uottawa@gmail.com</a>
+<br/><a target="_blank" href="https://sustainable.uottawa.ca/community-gardens">https://sustainable.uottawa.ca/community-gardens</a>
+]]></infowindow>
+    <email>garden.uottawa@gmail.com</email>
+    <website>https://sustainable.uottawa.ca/community-gardens</website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Kanata North Community Garden</name>
+    <nbid>21176</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Kanata North Community Garden</strong>
+<br/>1289 Klondike Rd, Ottawa, ON, CA, K2W 1E2
+<br/><a href="mailto:kanatacommunitygarden@gmail.com">kanatacommunitygarden@gmail.com</a>
+]]></infowindow>
+    <email>kanatacommunitygarden@gmail.com</email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>28th Nepean Girl Guides Garden</name>
+    <nbid>21177</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>28th Nepean Girl Guides Garden</strong>
+<br/>19 Parkfield Cres, Ottawa, ON, CA, K2G 0R9
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>CHEO Healing Garden</name>
+    <nbid>21178</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>CHEO Healing Garden</strong>
+<br/>401 Smyth Rd, Ottawa, ON, CA, K1G 6W3
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Fatima Manor for Seniors</name>
+    <nbid>21179</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Fatima Manor for Seniors</strong>
+<br/>280 Montfort St, Ottawa, ON, CA, K1L 5N9
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Greenstar Enterprises</name>
+    <nbid>21180</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Greenstar Enterprises</strong>
+<br/>2001 KILBORNE Ave, Ottawa, ON, CA, K1G 2Z9
+<br/><a target="_blank" href="http://www.jakukonbit.com/?page_id=621">http://www.jakukonbit.com/?page_id=621</a>
+]]></infowindow>
+    <email> </email>
+    <website>http://www.jakukonbit.com/?page_id=621</website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Growing Up Growing Up Organic</name>
+    <nbid>21181</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Growing Up Growing Up Organic</strong>
+<br/>1145 Carling Ave, ON, CA, K1Z 8N3
+<br/><a href="mailto:growinguporganic@gmail.com">growinguporganic@gmail.com</a>
+<br/><a target="_blank" href="http://www.growinguporganic.blogspot.com/">http://www.growinguporganic.blogspot.com/</a>
+<br/>twitter: @GUOottawa
+]]></infowindow>
+    <email>growinguporganic@gmail.com</email>
+    <website>http://www.growinguporganic.blogspot.com/</website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Oasis Food Growing Project</name>
+    <nbid>21182</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Oasis Food Growing Project</strong>
+<br/>221 Nelson St, Pembroke, ON, CA, K8A 3N2
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Ottawa Salus Gladstone Rosemont Garden</name>
+    <nbid>21183</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Ottawa Salus Gladstone Rosemont Garden</strong>
+<br/>930 Gladstone Avenue and 31/33 Rosemount Ave, ON, CA, K1Y
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Brooke Towers Communal Garden</name>
+    <nbid>21185</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Brooke Towers Communal Garden</strong>
+<br/>125 McLeod St, Ottawa, ON, CA, K2P 0Z6
+<br/><a href="mailto:BrookeTowers125@hotmail.com">BrookeTowers125@hotmail.com</a>
+]]></infowindow>
+    <email>BrookeTowers125@hotmail.com</email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
     <name>Luxy Farm</name>
     <nbid>21352</nbid>
     <lat>45.24159220000001</lat>
@@ -4976,6 +5748,319 @@
     <icon>foodservices</icon>
 </marker>
 <marker>
+    <name>Centretown United Centre 507 Community Garden</name>
+    <nbid>24842</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Centretown United Centre 507 Community Garden</strong>
+<br/>507 Bank St, Ottawa, ON, CA, K2P 1Z5
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Angel Square Garden</name>
+    <nbid>24843</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Angel Square Garden</strong>
+<br/>40 Cobourg St, Ottawa, ON, CA, K1N 5N8
+<br/>613-789-3930 x307
+<br/><a href="mailto:angel.square.garden@gmail.com">angel.square.garden@gmail.com</a>
+]]></infowindow>
+    <email>angel.square.garden@gmail.com</email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Cardinal Creek Community Garden</name>
+    <nbid>24845</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Cardinal Creek Community Garden</strong>
+<br/>1825 Trim Rd, Orleans, ON, CA, K4A 3P6
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Lexington Green Life Gardens</name>
+    <nbid>24848</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Lexington Green Life Gardens</strong>
+<br/>507 Riverdale Raod, Ottawa, ON, CA, K1S 1S3
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>McNabb Park Community Garden</name>
+    <nbid>24851</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>McNabb Park Community Garden</strong>
+<br/>435 Bronson Ave, Ottawa, ON, CA, K1R 6J6
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Neighbourhood Tomato Community Garden - West Carleton</name>
+    <nbid>24852</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Neighbourhood Tomato Community Garden - West Carleton</strong>
+<br/>3774 Carp Rd, Carp, ON, CA, K0A 1L0
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Osgoode Township Museum Heritage School Garden</name>
+    <nbid>24868</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Osgoode Township Museum Heritage School Garden</strong>
+<br/>7818 Lawrence St, Vernon, ON, CA, K0A 3J0
+<br/>613-821-4062
+<br/><a href="mailto:manager@osgoodemuseum.ca">manager@osgoodemuseum.ca</a>
+]]></infowindow>
+    <email>manager@osgoodemuseum.ca</email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Overbrook Community Gardens</name>
+    <nbid>24869</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Overbrook Community Gardens</strong>
+<br/>33 Quill St, Ottawa, ON, CA, K1K 4E7
+<br/><a href="mailto:32overbrookgardens@gmail.com">32overbrookgardens@gmail.com</a>
+]]></infowindow>
+    <email>32overbrookgardens@gmail.com</email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Partage Vanier Garden</name>
+    <nbid>24870</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Partage Vanier Garden</strong>
+<br/>161 Marier Ave, Ottawa, ON, CA, K1L 5R8
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Queensway Terrace North Community Garden</name>
+    <nbid>24871</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Queensway Terrace North Community Garden</strong>
+<br/>950 Alpine Ave, Ottawa, ON, CA, K2B 5R9
+<br/><a href="mailto:qtncommunitygarden@gmail.com">qtncommunitygarden@gmail.com</a>
+]]></infowindow>
+    <email>qtncommunitygarden@gmail.com</email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Revell Court Community Garden</name>
+    <nbid>24872</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Revell Court Community Garden</strong>
+<br/>Siren Private and Kimoto Private, Ottawa, ON, CA, K1T
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Russell Garden</name>
+    <nbid>24876</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Russell Garden</strong>
+<br/>2080 Russell Rd, Ottawa, ON, CA, K1G 3w7
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Russell Manor Garden</name>
+    <nbid>24878</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Russell Manor Garden</strong>
+<br/>1909 Russell Rd, Ottawa, ON, CA, K1G 4G3
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>South Nepean Muslim Centre Community Garden</name>
+    <nbid>24879</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>South Nepean Muslim Centre Community Garden</strong>
+<br/>3020 Woodroofe Ave, Nepean, ON, CA, K2J
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>St. Joes Supper Table Community Garden</name>
+    <nbid>24880</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>St. Joes Supper Table Community Garden</strong>
+<br/>151 Laurier Ave, Ottawa, ON, CA, K1N 6N8
+<br/><a href="mailto:stjsuppertable@gmail.com">stjsuppertable@gmail.com</a>
+]]></infowindow>
+    <email>stjsuppertable@gmail.com</email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>800 St. Laurent Community Garden</name>
+    <nbid>24881</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>800 St. Laurent Community Garden</strong>
+<br/>800 St Laurent Blvd, Ottawa, ON, CA, K1K 3A8
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>The Peaceful Garden</name>
+    <nbid>24882</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>The Peaceful Garden</strong>
+<br/>3225 Uplands Dr, Ottawa, ON, CA, K1V 9S3
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
     <name>Fairmont Chateau Laurier</name>
     <nbid>24885</nbid>
     <lat>45.4248697</lat>
@@ -5079,6 +6164,43 @@
     <email>rebecca.mckeen@metroglebe.com</email>
     <website>http://www.metroglebe.com/</website>
     <icon>retailer</icon>
+</marker>
+<marker>
+    <name>Kitiganensag</name>
+    <nbid>25256</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Kitiganensag</strong>
+<br/>1125 Bronson, Ottawa, ON, CA, K1S
+<br/><a href="mailto:garden@gsacarleton.ca">garden@gsacarleton.ca</a>
+]]></infowindow>
+    <email>garden@gsacarleton.ca</email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Kanata South Community Garden</name>
+    <nbid>25278</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Kanata South Community Garden</strong>
+<br/>46 Castlefrank Rd, Ottawa, ON, CA, K2L 4B4
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
 </marker>
 <marker>
     <name>Buzzz Honey Products</name>
@@ -5208,6 +6330,26 @@
     <icon>producers</icon>
 </marker>
 <marker>
+    <name>Free Food Project</name>
+    <nbid>25681</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Free Food Project</strong>
+<br/>1 Carleton Cathcart St, Ottawa, ON, CA, K2S 1N5
+<br/>613-340-1048
+<br/><a href="mailto:info@freefoodprotect.ca">info@freefoodprotect.ca</a>
+]]></infowindow>
+    <email>info@freefoodprotect.ca</email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
     <name>B&amp;H Your Community Grocer</name>
     <nbid>25722</nbid>
     <lat>45.0182699</lat>
@@ -5332,6 +6474,99 @@
 ]]></infowindow>
     <email>myfavouritefarm@gmail.com</email>
     <website>http://www.myfavouritefarm.com/</website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>St. Laurent Community Garden</name>
+    <nbid>25870</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>St. Laurent Community Garden</strong>
+<br/>2186 St Laurent Blvd, Ottawa, ON, CA, K1G
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Hope Living Community Garden</name>
+    <nbid>25872</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Hope Living Community Garden</strong>
+<br/>145 Castlefrank Rd, Kanata, ON, CA, K2L 3X9
+<br/>613-789-8210
+<br/><a href="mailto:rosko@sheperdsegoodhope.com">rosko@sheperdsegoodhope.com</a>
+]]></infowindow>
+    <email>rosko@sheperdsegoodhope.com</email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Care and Share Garden</name>
+    <nbid>25880</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Care and Share Garden</strong>
+<br/>
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>The Hope Garden</name>
+    <nbid>25881</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>The Hope Garden</strong>
+<br/>1560 Heatherington Rd, Ottawa, ON, CA, K1V 9P5
+<br/>613-794-6869
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Strathcona Heights Gathering Garden</name>
+    <nbid>25882</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Strathcona Heights Gathering Garden</strong>
+<br/>
+]]></infowindow>
+    <email> </email>
+    <website> </website>
     <icon>producers</icon>
 </marker>
 <marker>
@@ -5754,6 +6989,28 @@
     <icon>producers</icon>
 </marker>
 <marker>
+    <name>Tanglewood Garden</name>
+    <nbid>26456</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Tanglewood Garden</strong>
+<br/>30 Woodfield Dr, Nepean, ON, CA, K2G 3Y5
+<br/>613-224-3870
+<br/><a href="mailto:tanglewoodgarden@thca.ca">tanglewoodgarden@thca.ca</a>
+<br/><a target="_blank" href="https://t.co/QsXVtyqrvH">https://t.co/QsXVtyqrvH</a>
+<br/>twitter: @THCGarden
+]]></infowindow>
+    <email>tanglewoodgarden@thca.ca</email>
+    <website>https://t.co/QsXVtyqrvH</website>
+    <icon>producers</icon>
+</marker>
+<marker>
     <name>Kitley Beef Farm</name>
     <nbid>26489</nbid>
     <lat>44.785331</lat>
@@ -5874,6 +7131,933 @@
 ]]></infowindow>
     <email>bottes_carottes@outlook.com</email>
     <website>http://bourget/</website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Beausoleil Garden</name>
+    <nbid>26629</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Beausoleil Garden</strong>
+<br/>380 Murray St, Ottawa, ON, CA, K1N 8V9
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Brittannia Woods</name>
+    <nbid>26630</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Brittannia Woods</strong>
+<br/>107 Ritchie St, Ottawa, ON, CA, K2B 6G7
+<br/><a target="_blank" href="http://t.co/ju5gYLfMbx">http://t.co/ju5gYLfMbx</a>
+<br/>twitter: @BritanniaWoods
+]]></infowindow>
+    <email> </email>
+    <website>http://t.co/ju5gYLfMbx</website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Bytowne Urban Gardens</name>
+    <nbid>26631</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Bytowne Urban Gardens</strong>
+<br/>75 Glendale Ave, Ottawa, ON, CA, K1S
+<br/><a href="mailto:bugscoordinator@gmail.com">bugscoordinator@gmail.com</a>
+<br/><a target="_blank" href="http://t.co/0j64qdh4sf">http://t.co/0j64qdh4sf</a>
+<br/>twitter: @BUGSOttawa
+]]></infowindow>
+    <email>bugscoordinator@gmail.com</email>
+    <website>http://t.co/0j64qdh4sf</website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>En-Gedi Gardens</name>
+    <nbid>26632</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>En-Gedi Gardens</strong>
+<br/>5660 Flewellyn Rd, ON, CA, K2S 1B6
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Clementine Towers</name>
+    <nbid>26633</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Clementine Towers</strong>
+<br/>1535 Heatherington Rd, ON, CA, K1V 0N7
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Knox Church Community Garden</name>
+    <nbid>26635</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Knox Church Community Garden</strong>
+<br/>25 Gibbard Ave, ON, CA, K2G 3J1
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Nepean Allotment Gardens</name>
+    <nbid>26636</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Nepean Allotment Gardens</strong>
+<br/>230 Viewmount Dr, Nepean, ON, CA, K2E 8B6
+<br/><a href="mailto:nagagardens@gmail.com">nagagardens@gmail.com</a>
+]]></infowindow>
+    <email>nagagardens@gmail.com</email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Off Bank Community Garden</name>
+    <nbid>26637</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Off Bank Community Garden</strong>
+<br/>174 Nepean St, Ottawa, ON, CA, K2P
+<br/><a href="mailto:offbankcommunitygarden@gmail.com">offbankcommunitygarden@gmail.com</a>
+]]></infowindow>
+    <email>offbankcommunitygarden@gmail.com</email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Richmond Fair Community Gardens</name>
+    <nbid>26639</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Richmond Fair Community Gardens</strong>
+<br/>6107 Perth St, ON, CA, K0A 2Z0
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Lotus Peace Garden</name>
+    <nbid>26640</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Lotus Peace Garden</strong>
+<br/>1722 Montreal Rd, Ottawa, ON, CA, K1J 1J4
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>St. Lukes Supper Table</name>
+    <nbid>26641</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>St. Lukes Supper Table</strong>
+<br/>760 Somerset St W, Ottawa, ON, CA, K1R 6P7
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Sweet Willow Community Garden</name>
+    <nbid>26642</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Sweet Willow Community Garden</strong>
+<br/>31 Rochester St, ON, CA, K1R7L3
+<br/><a href="mailto:swgcoordinator@gmail.com">swgcoordinator@gmail.com</a>
+<br/><a target="_blank" href="http://www.sweetwillowgarden.blogspot.ca/">http://www.sweetwillowgarden.blogspot.ca/</a>
+]]></infowindow>
+    <email>swgcoordinator@gmail.com</email>
+    <website>http://www.sweetwillowgarden.blogspot.ca/</website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Wood Park Common Ground Garden</name>
+    <nbid>26644</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Wood Park Common Ground Garden</strong>
+<br/>Lawn Ave, Ottawa, ON, CA, K2B
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Alta Vista Public School</name>
+    <nbid>26673</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Alta Vista Public School</strong>
+<br/>1349 Randall Ave, Ottawa, ON, CA, K1H
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Connaught Public School</name>
+    <nbid>26674</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Connaught Public School</strong>
+<br/>1149 Gladstone Ave, Ottawa, ON, CA, K1Y 3H7
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Bayview Public School</name>
+    <nbid>26675</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Bayview Public School</strong>
+<br/>185 Owl Dr, Ottawa, ON, CA, K1V 9K3
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Broadview Public School</name>
+    <nbid>26676</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Broadview Public School</strong>
+<br/>590 Broadview Ave, Ottawa, ON, CA, K2A 2L7
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Cairine Wilson Secondary School</name>
+    <nbid>26677</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Cairine Wilson Secondary School</strong>
+<br/>975 Orleans Blvd, Ottawa, ON, CA, K1C 2Z5
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Cambridge Street Public School</name>
+    <nbid>26678</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Cambridge Street Public School</strong>
+<br/>250 Cambridge St, Ottawa, ON, CA, K1R 7B2
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Cedarview Middle School</name>
+    <nbid>26679</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Cedarview Middle School</strong>
+<br/>2760 Cedarview Rd, Nepean, ON, CA, K2J 4J2
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Centennial Public School</name>
+    <nbid>26680</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Centennial Public School</strong>
+<br/>376 Gloucester St, Ottawa, ON, CA, K1R 5E8
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Churchill Alternative School</name>
+    <nbid>26681</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Churchill Alternative School</strong>
+<br/>345 Ravenhill Ave, Ottawa, ON, CA, K1Z
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>D Roy Kennedy Public School</name>
+    <nbid>26682</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>D Roy Kennedy Public School</strong>
+<br/>919 Woodroffe Ave, Ottawa, ON, CA, K2A 3G9
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Devonshire Community Public School</name>
+    <nbid>26683</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Devonshire Community Public School</strong>
+<br/>100 Breezehill Ave N, Ottawa, ON, CA, K1Y 2H5
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Earl of March Secondary School</name>
+    <nbid>26684</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Earl of March Secondary School</strong>
+<br/>Alice Wilson path 4, Ottawa, ON, CA, K2K
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Elmdale Public School</name>
+    <nbid>26685</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Elmdale Public School</strong>
+<br/>49 Iona St, Ottawa, ON, CA, K1Y 3L8
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Featherston Drive Public School</name>
+    <nbid>26686</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Featherston Drive Public School</strong>
+<br/>1801 Featherston Dr, Ottawa, ON, CA, K1H8J8
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>First Avenue Public School</name>
+    <nbid>26687</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>First Avenue Public School</strong>
+<br/>73 First Ave, Ottawa, ON, CA, K1S 2G1
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Frederick Banting Alternate</name>
+    <nbid>26688</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Frederick Banting Alternate</strong>
+<br/>1453 Stittsville Main St, Stittsville, ON, CA, K2S 1E3
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Hillcrest High School</name>
+    <nbid>26690</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Hillcrest High School</strong>
+<br/>1900 Dauphin Rd, Ottawa, ON, CA, K1G
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Hilson Avenue Public School</name>
+    <nbid>26691</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Hilson Avenue Public School</strong>
+<br/>407 Hilson Ave, Ottawa, ON, CA, K1Z 6B9
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Longfields-Davidson Heights Secondary School</name>
+    <nbid>26692</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Longfields-Davidson Heights Secondary School</strong>
+<br/>149 Berrigan Dr, Nepean, ON, CA, K2J 4V9
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Mutchmoor Public School</name>
+    <nbid>26693</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Mutchmoor Public School</strong>
+<br/>185 5 Ave, Ottawa, ON, CA, K1S 2N1
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Pinecrest Public School</name>
+    <nbid>26694</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Pinecrest Public School</strong>
+<br/>1281 Pinecrest Rd, Ottawa, ON, CA, K2C 3E7
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Pleasant Park Public School</name>
+    <nbid>26695</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Pleasant Park Public School</strong>
+<br/>564 Pleasant Park Rd, Ottawa, ON, CA, K1H 5P3
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Sir Winston Churchill Public School</name>
+    <nbid>26696</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Sir Winston Churchill Public School</strong>
+<br/>49 Mulvagh Ave, Ottawa, ON, CA, K2E 6M7
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Woodroffe Public School</name>
+    <nbid>26697</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Woodroffe Public School</strong>
+<br/>235 Woodroffe Ave, Ottawa, ON, CA, K2A 3V1
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Woodroffe High School</name>
+    <nbid>26698</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Woodroffe High School</strong>
+<br/>2410 Georgina Dr, Ottawa, ON, CA, K2B 7M7
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>St Anthony Catholic</name>
+    <nbid>26699</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>St Anthony Catholic</strong>
+<br/>391 Booth St, Ottawa, ON, CA, K1R 7K5
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>École Ste Marie</name>
+    <nbid>26701</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>École Ste Marie</strong>
+<br/>2599 Innes Rd, Gloucester, ON, CA, K1B 3J8
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Lecole St-Francois-DeAssise</name>
+    <nbid>26702</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Lecole St-Francois-DeAssise</strong>
+<br/>35 Melrose Ave, Ottawa, ON, CA, K1Y 1T8
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Trilles des Bois</name>
+    <nbid>26703</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Trilles des Bois</strong>
+<br/>140 Genest St, Ottawa, ON, CA, K1L 7Y9
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Elmwood Private School</name>
+    <nbid>26704</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Elmwood Private School</strong>
+<br/>261 Buena Vista Rd, Ottawa, ON, CA, K1M 0V9
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Heritage Academy</name>
+    <nbid>26705</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Heritage Academy</strong>
+<br/>207 Bayswater Ave, Ottawa, ON, CA, K1Y 3T1
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Bishop Hamilton Montessori</name>
+    <nbid>26706</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Bishop Hamilton Montessori</strong>
+<br/>2199 Regency Ter, Ottawa, ON, CA, K2C
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Corpus Christi</name>
+    <nbid>26707</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Corpus Christi</strong>
+<br/>798 Lyon St S, Ottawa, ON, CA, K1S 4A1
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Lycee Claudel</name>
+    <nbid>26708</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Lycee Claudel</strong>
+<br/>1635 Riverside Dr, Ottawa, ON, CA, K1G 4A7
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>lecole elementaire Publique Le Trillium</name>
+    <nbid>26709</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>lecole elementaire Publique Le Trillium</strong>
+<br/>307 Montgomery St, Ottawa, ON, CA, K1L 7W8
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Youville Centre</name>
+    <nbid>26710</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Youville Centre</strong>
+<br/>150 Mann Ave, Ottawa, ON, CA, K1N
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>lecole elementaire catholique Notre-Dame-du-Rosaire</name>
+    <nbid>26711</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>lecole elementaire catholique Notre-Dame-du-Rosaire</strong>
+<br/>Clarence-Rockland, ON, CA, K4K
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Gloucester Allotment Gardens Association (Orient park Site)</name>
+    <nbid>26717</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Gloucester Allotment Gardens Association (Orient park Site)</strong>
+<br/>CA
+]]></infowindow>
+    <email> </email>
+    <website> </website>
     <icon>producers</icon>
 </marker>
 <marker>
@@ -6132,6 +8316,24 @@
     <icon>foodservices</icon>
 </marker>
 <marker>
+    <name>Dalhousie Community Association Community Garden</name>
+    <nbid>28074</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Dalhousie Community Association Community Garden</strong>
+<br/>105 Preston St, Ottawa, ON, CA, K1R
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
     <name>Rooted Oak Farm</name>
     <nbid>28247</nbid>
     <lat>45.740302</lat>
@@ -6170,6 +8372,355 @@
     <email>watsonsmillprograms@rogers.com</email>
     <website>https://twitter.com/WatsonsMill</website>
     <icon>microprocessor</icon>
+</marker>
+<marker>
+    <name>Kanata North Community Garden</name>
+    <nbid>29614</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Kanata North Community Garden</strong>
+<br/>1299 Klondike Rd, Ottawa, ON, CA, K2W 1E2
+<br/><a href="mailto:kanatanorthcg@gmail.com">kanatanorthcg@gmail.com</a>
+]]></infowindow>
+    <email>kanatanorthcg@gmail.com</email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>A.Y. Jackson Secondary School</name>
+    <nbid>29621</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>A.Y. Jackson Secondary School</strong>
+<br/>150 Abbeyhill Dr, Ottawa, ON, CA, K2L 1H7
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Joan of Arc Academy</name>
+    <nbid>29627</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Joan of Arc Academy</strong>
+<br/>2221 Elmira Dr, Ottawa, ON, CA, K2C 1H3
+<br/><a target="_blank" href="http://t.co/VrLGgIIe4P">http://t.co/VrLGgIIe4P</a>
+<br/>twitter: @AcademyJOA
+]]></infowindow>
+    <email> </email>
+    <website>http://t.co/VrLGgIIe4P</website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Woodroffe Avenue Public School</name>
+    <nbid>29628</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Woodroffe Avenue Public School</strong>
+<br/>235 Woodroffe Ave, Ottawa, ON, CA, K2A
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Summit Alternative School</name>
+    <nbid>29631</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Summit Alternative School</strong>
+<br/>250 Holland Ave, Ottawa, ON, CA, K1Y 0Y5
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Westboro Food Bank</name>
+    <nbid>29636</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Westboro Food Bank</strong>
+<br/>347 Richmond Rd, Ottawa, ON, CA, K2A 0E7
+<br/><a href="mailto:sarahlouisebrown@gmail.com">sarahlouisebrown@gmail.com</a>
+]]></infowindow>
+    <email>sarahlouisebrown@gmail.com</email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>lecole elementaire publique Marie-Curie</name>
+    <nbid>29644</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>lecole elementaire publique Marie-Curie</strong>
+<br/>860 Colson Ave, Ottawa, ON, CA, K1G 2C9
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Pleasant Park Public School 564 Pleasant Park Road</name>
+    <nbid>29648</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Pleasant Park Public School 564 Pleasant Park Road</strong>
+<br/>564 Pleasant Park Rd, Ottawa, ON, CA, K1H 5P3
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Jo-Jos Community Garden</name>
+    <nbid>29649</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Jo-Jos Community Garden</strong>
+<br/>573 Stittsville Main St, Ottawa, ON, CA, K2S 0H7
+<br/><a href="mailto:jojoscommunitygarden@gmail.com">jojoscommunitygarden@gmail.com</a>
+]]></infowindow>
+    <email>jojoscommunitygarden@gmail.com</email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Le Potager Faucons Jardine</name>
+    <nbid>29652</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Le Potager Faucons Jardine</strong>
+<br/>623 Smyth Rd, Ottawa, ON, CA, K1G 1N7
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Lowertown West Community Garden</name>
+    <nbid>29653</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Lowertown West Community Garden</strong>
+<br/>171 Bruyère St, Ottawa, ON, CA, K1N 5B9
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Mechanicsville Innovation Garden</name>
+    <nbid>29654</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Mechanicsville Innovation Garden</strong>
+<br/>1635 Riverside Dr, Ottawa, ON, CA, K1G 4A7
+<br/><a href="mailto:mechanicsvillegarden@gmail.com">mechanicsvillegarden@gmail.com</a>
+]]></infowindow>
+    <email>mechanicsvillegarden@gmail.com</email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Ottawa Plant-a-Row, Donate-a-Row Garden</name>
+    <nbid>29655</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Ottawa Plant-a-Row, Donate-a-Row Garden</strong>
+<br/>4 The Pkwy, MB
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Pine Grove Community Garden Project</name>
+    <nbid>29656</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Pine Grove Community Garden Project</strong>
+<br/>2144 E RD ACRES, Ottawa, ON, CA, K1J 9A5
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Trailing Edge Community Garden</name>
+    <nbid>29657</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Trailing Edge Community Garden</strong>
+<br/>255 Herzberg Rd, Ottawa, ON, CA, K2K 1X7
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>West Carleton Legion</name>
+    <nbid>29658</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>West Carleton Legion</strong>
+<br/>377 Allbirch Rd, Ottawa, ON, CA, K0A 3M0
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Women Warriors Healing Garden</name>
+    <nbid>29659</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Women Warriors Healing Garden</strong>
+<br/>Ottawa, ON, CA
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Kanata Research Park Family Centre Garden</name>
+    <nbid>29662</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Kanata Research Park Family Centre Garden</strong>
+<br/>100 Helmsdale Dr, Ottawa, ON, CA, K2K 2S5
+<br/><a href="mailto:eseaman@krpfamilycentre.com">eseaman@krpfamilycentre.com</a>
+]]></infowindow>
+    <email>eseaman@krpfamilycentre.com</email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Nourish Grow With Me Garden</name>
+    <nbid>29705</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Nourish Grow With Me Garden</strong>
+<br/>820 Woodroffe Ave, Ottawa, ON, CA, K2A 3V7
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
 </marker>
 <marker>
     <name>Ferme Coop BeetBox Co-op Farm</name>
@@ -7970,6 +10521,60 @@
     <email>info@beantownranch.com</email>
     <website>http://beantownranch.con/</website>
     <icon>foodservices</icon>
+</marker>
+<marker>
+    <name>The Haven Community Garen (Multifaith Housing Initiative)</name>
+    <nbid>31432</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>The Haven Community Garen (Multifaith Housing Initiative)</strong>
+<br/>455 Via Verona Ave, Ottawa, ON, CA, K2J
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Le Jardin de lEcole Elementaire Publique Michaelle-Jean</name>
+    <nbid>31439</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Le Jardin de lEcole Elementaire Publique Michaelle-Jean</strong>
+<br/>11 Claridge Dr, Ottawa, ON, CA, K2J 5A3
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Le Jardin de RAPPI</name>
+    <nbid>31441</nbid>
+    <lat>45.4266482</lat>
+    <lng>-75.5792722</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>conventional</productiontypes>
+    <infowindow><![CDATA[
+<strong>Le Jardin de RAPPI</strong>
+<br/>3395 DAoust Ave, Ottawa, ON, CA, K1T 4A8
+]]></infowindow>
+    <email> </email>
+    <website> </website>
+    <icon>producers</icon>
 </marker>
 <marker>
     <name>Bird &amp; Bee Seeds</name>
