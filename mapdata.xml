@@ -8,7 +8,7 @@
     <orgtype>markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Ottawa Farmers Market Westboro</strong>
@@ -30,7 +30,7 @@
     <orgtype>retailer</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Thyme &amp; Again Catering Inc.</strong>
@@ -52,7 +52,7 @@
     <orgtype>retailer,markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>ByWard Market</strong>
@@ -74,7 +74,7 @@
     <orgtype>breweries_and_wineries</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Big Rig Brewery</strong>
@@ -96,7 +96,7 @@
     <orgtype>foodservices</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Lift Resto Lift Resto Lounge</strong>
@@ -117,7 +117,7 @@
     <orgtype>foodservices</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Le Cafe</strong>
@@ -138,7 +138,7 @@
     <orgtype>producers,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fs-sweeteners,fh-herbs</favorites>
+    <favorites>fs-sweeteners,fh-herbs</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Fleurs Gourmandes - Edible Flowers</strong>
@@ -159,7 +159,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fs-sweeteners</favorites>
+    <favorites>fs-sweeteners</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Halsalls Honey</strong>
@@ -180,7 +180,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat</favorites>
+    <favorites>fm-meat</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Ferme Acer Farms</strong>
@@ -201,7 +201,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa,pick_your_own</farmtypes>
-    <favorites>,ff-fruit,fv-vegetables,fs-sweeteners</favorites>
+    <favorites>ff-fruit,fv-vegetables,fs-sweeteners</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Rideau Pines Farm</strong>
@@ -223,7 +223,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat,fp-poultry</favorites>
+    <favorites>fm-meat,fp-poultry</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Alpenblick Farm</strong>
@@ -244,7 +244,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,ff-fruit,fv-vegetables,fm-meat,fp-poultry,fs-sweeteners</favorites>
+    <favorites>ff-fruit,fv-vegetables,fm-meat,fp-poultry,fs-sweeteners</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Rock-N-Horse Farm</strong>
@@ -265,7 +265,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat</favorites>
+    <favorites>fm-meat</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Amstutz Beef Farm</strong>
@@ -285,7 +285,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,ff-fruit,fv-vegetables,fm-meat,fp-poultry</favorites>
+    <favorites>ff-fruit,fv-vegetables,fm-meat,fp-poultry</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Arc Acres</strong>
@@ -307,7 +307,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,ff-fruit,fv-vegetables,fm-meat,fp-poultry,fs-sweeteners</favorites>
+    <favorites>ff-fruit,fv-vegetables,fm-meat,fp-poultry,fs-sweeteners</favorites>
     <productiontypes>certorg</productiontypes>
     <infowindow><![CDATA[
 <strong>Aubin Farm</strong>
@@ -328,7 +328,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables</favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Ferme Aux Solstices</strong>
@@ -349,7 +349,7 @@
     <orgtype>retailer,markets,foodservices,producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat</favorites>
+    <favorites>fm-meat</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Ferme Brylee Farm</strong>
@@ -370,7 +370,7 @@
     <orgtype>producers,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat</favorites>
+    <favorites>fm-meat</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Back Forty Artisan Cheese</strong>
@@ -391,7 +391,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,ff-fruit,fv-vegetables,fs-sweeteners</favorites>
+    <favorites>ff-fruit,fv-vegetables,fs-sweeteners</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Barkleys Apple Orchard</strong>
@@ -412,7 +412,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat,fp-poultry,fs-sweeteners</favorites>
+    <favorites>fm-meat,fp-poultry,fs-sweeteners</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Bayview Farm</strong>
@@ -433,7 +433,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat,fp-poultry</favorites>
+    <favorites>fm-meat,fp-poultry</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Booth Boys Barn</strong>
@@ -454,7 +454,7 @@
     <orgtype>producers,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Bee Kind Organics</strong>
@@ -475,7 +475,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa,pick_your_own</farmtypes>
-    <favorites>,ff-fruit</favorites>
+    <favorites>ff-fruit</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Shar-Way Berry Farm</strong>
@@ -496,7 +496,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat</favorites>
+    <favorites>fm-meat</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Ferme Big Rock Farm</strong>
@@ -517,7 +517,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat</favorites>
+    <favorites>fm-meat</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Brynog Farm</strong>
@@ -538,7 +538,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat</favorites>
+    <favorites>fm-meat</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Milkhouse Farm &amp; Dairy</strong>
@@ -559,7 +559,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat</favorites>
+    <favorites>fm-meat</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Ferme Ouellette Farm</strong>
@@ -579,7 +579,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat,fp-poultry</favorites>
+    <favorites>fm-meat,fp-poultry</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Castor River Farm</strong>
@@ -600,7 +600,7 @@
     <orgtype>foodservices,producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat</favorites>
+    <favorites>fm-meat</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Hobbs Family Farm</strong>
@@ -622,7 +622,7 @@
     <orgtype>breweries_and_wineries</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Le Vignoble du Clos Baillie</strong>
@@ -644,7 +644,7 @@
     <orgtype>foodservices</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Strathmere Farms</strong>
@@ -665,7 +665,7 @@
     <orgtype>producers,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Kricklewood Farm</strong>
@@ -687,7 +687,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat</favorites>
+    <favorites>fm-meat</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>OBrien Farms</strong>
@@ -709,7 +709,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat</favorites>
+    <favorites>fm-meat</favorites>
     <productiontypes>certorg</productiontypes>
     <infowindow><![CDATA[
 <strong>Littledown Farms</strong>
@@ -730,7 +730,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables,fm-meat,fp-poultry</favorites>
+    <favorites>fv-vegetables,fm-meat,fp-poultry</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Connaught Acres Farm</strong>
@@ -750,7 +750,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fs-sweeteners</favorites>
+    <favorites>fs-sweeteners</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Forest Farm</strong>
@@ -772,7 +772,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat</favorites>
+    <favorites>fm-meat</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Dusty Lane Farms</strong>
@@ -793,7 +793,7 @@
     <orgtype>producers,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables</favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>El Camino Farm</strong>
@@ -814,7 +814,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables</favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Elm Tree Farm</strong>
@@ -835,7 +835,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,ff-fruit,fv-vegetables</favorites>
+    <favorites>ff-fruit,fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Jardins FC Drouin Gardens</strong>
@@ -856,7 +856,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables</favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>certorg</productiontypes>
     <infowindow><![CDATA[
 <strong>Ferme Levetot</strong>
@@ -877,7 +877,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables,fh-herbs</favorites>
+    <favorites>fv-vegetables,fh-herbs</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Foxglove Farm</strong>
@@ -899,7 +899,7 @@
     <orgtype>producers,breweries_and_wineries</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fs-sweeteners</favorites>
+    <favorites>fs-sweeteners</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Coronation Hall Cider Mill</strong>
@@ -920,7 +920,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fs-sweeteners</favorites>
+    <favorites>fs-sweeteners</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Garland Sugar Shack</strong>
@@ -941,7 +941,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables,fh-herbs</favorites>
+    <favorites>fv-vegetables,fh-herbs</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Gerrie Glorious Greens</strong>
@@ -961,7 +961,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables</favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>certorg</productiontypes>
     <infowindow><![CDATA[
 <strong>Notre petite ferme/Our Little Farm</strong>
@@ -982,7 +982,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fh-herbs</favorites>
+    <favorites>fh-herbs</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>the Herb Garden</strong>
@@ -1003,7 +1003,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat,fp-poultry</favorites>
+    <favorites>fm-meat,fp-poultry</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Natural Lamb</strong>
@@ -1024,7 +1024,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Valleyview Little Animal Farm</strong>
@@ -1045,7 +1045,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat</favorites>
+    <favorites>fm-meat</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Pork of Yore</strong>
@@ -1066,7 +1066,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,ff-fruit,fv-vegetables</favorites>
+    <favorites>ff-fruit,fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>H&amp;H Lacroix</strong>
@@ -1087,7 +1087,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat,fp-poultry,fs-sweeteners</favorites>
+    <favorites>fm-meat,fp-poultry,fs-sweeteners</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>BearBrook Game Meats</strong>
@@ -1108,7 +1108,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fp-poultry</favorites>
+    <favorites>fp-poultry</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Bekings Poultry Farm</strong>
@@ -1130,7 +1130,7 @@
     <orgtype>markets,producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables,fm-meat,fp-poultry</favorites>
+    <favorites>fv-vegetables,fm-meat,fp-poultry</favorites>
     <productiontypes>certorg</productiontypes>
     <infowindow><![CDATA[
 <strong>Bryson Farms</strong>
@@ -1152,7 +1152,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat</favorites>
+    <favorites>fm-meat</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Dobsons Grassfed Beef</strong>
@@ -1173,7 +1173,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat,fp-poultry</favorites>
+    <favorites>fm-meat,fp-poultry</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Donegal Heritage Farm</strong>
@@ -1195,7 +1195,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables</favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Ferme Emabel Farm</strong>
@@ -1216,7 +1216,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat</favorites>
+    <favorites>fm-meat</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Flood Road Farm</strong>
@@ -1237,7 +1237,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables</favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Foster Family Farm</strong>
@@ -1258,7 +1258,7 @@
     <orgtype>retailer,foodservices,producers,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fs-sweeteners</favorites>
+    <favorites>fs-sweeteners</favorites>
     <productiontypes>certorg</productiontypes>
     <infowindow><![CDATA[
 <strong>Fultons Pancake House and Sugar Bush</strong>
@@ -1279,7 +1279,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat</favorites>
+    <favorites>fm-meat</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Glengarry Fine Cheese</strong>
@@ -1300,7 +1300,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat</favorites>
+    <favorites>fm-meat</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Grazing Days</strong>
@@ -1321,7 +1321,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat,fp-poultry</favorites>
+    <favorites>fm-meat,fp-poultry</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Hawk Hill Farm</strong>
@@ -1342,7 +1342,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat</favorites>
+    <favorites>fm-meat</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Fromagerie les folies bergeres</strong>
@@ -1363,7 +1363,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat</favorites>
+    <favorites>fm-meat</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>La Ferme Gantoise</strong>
@@ -1384,7 +1384,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fs-sweeteners</favorites>
+    <favorites>fs-sweeteners</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>The Log Farm</strong>
@@ -1405,7 +1405,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat,fp-poultry</favorites>
+    <favorites>fm-meat,fp-poultry</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Living Pastures</strong>
@@ -1427,7 +1427,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat</favorites>
+    <favorites>fm-meat</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Trillium Meadows</strong>
@@ -1449,7 +1449,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat</favorites>
+    <favorites>fm-meat</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Wildrose Country Homestead</strong>
@@ -1470,7 +1470,7 @@
     <orgtype>foodservices,producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables,fm-meat,fp-poultry</favorites>
+    <favorites>fv-vegetables,fm-meat,fp-poultry</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Mariposa Farm</strong>
@@ -1491,7 +1491,7 @@
     <orgtype>producers,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables,fh-herbs</favorites>
+    <favorites>fv-vegetables,fh-herbs</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Jambican Studio Gardens</strong>
@@ -1513,7 +1513,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables,fm-meat,fp-poultry</favorites>
+    <favorites>fv-vegetables,fm-meat,fp-poultry</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Villa Augusta</strong>
@@ -1534,7 +1534,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat</favorites>
+    <favorites>fm-meat</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Ferme Excalibur Farm</strong>
@@ -1554,7 +1554,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa,pick_your_own</farmtypes>
-    <favorites>,fm-meat,fp-poultry</favorites>
+    <favorites>fm-meat,fp-poultry</favorites>
     <productiontypes>certorg</productiontypes>
     <infowindow><![CDATA[
 <strong>McDougall Family Farm</strong>
@@ -1575,7 +1575,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,ff-fruit,fv-vegetables</favorites>
+    <favorites>ff-fruit,fv-vegetables</favorites>
     <productiontypes>certorg</productiontypes>
     <infowindow><![CDATA[
 <strong>Roots Down Organic Farm</strong>
@@ -1596,7 +1596,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa,pick_your_own</farmtypes>
-    <favorites>,ff-fruit,fv-vegetables</favorites>
+    <favorites>ff-fruit,fv-vegetables</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>McGregors Produce</strong>
@@ -1618,7 +1618,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables,fh-herbs</favorites>
+    <favorites>fv-vegetables,fh-herbs</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Day Brighteners</strong>
@@ -1640,7 +1640,7 @@
     <orgtype>producers,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fs-sweeteners</favorites>
+    <favorites>fs-sweeteners</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Ashton Naturals</strong>
@@ -1662,7 +1662,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables,fm-meat,fp-poultry</favorites>
+    <favorites>fv-vegetables,fm-meat,fp-poultry</favorites>
     <productiontypes>certorg</productiontypes>
     <infowindow><![CDATA[
 <strong>Ferme Morgan</strong>
@@ -1683,7 +1683,7 @@
     <orgtype>producers,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat,fp-poultry</favorites>
+    <favorites>fm-meat,fp-poultry</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Singing Nettle Farm</strong>
@@ -1703,7 +1703,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,ff-fruit,fv-vegetables</favorites>
+    <favorites>ff-fruit,fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Back to the Land Gardens</strong>
@@ -1723,7 +1723,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat,fp-poultry</favorites>
+    <favorites>fm-meat,fp-poultry</favorites>
     <productiontypes>certorg</productiontypes>
     <infowindow><![CDATA[
 <strong>Kellgreen Organic Farm</strong>
@@ -1744,7 +1744,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat</favorites>
+    <favorites>fm-meat</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Kinburn Farms</strong>
@@ -1766,7 +1766,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables,fh-herbs</favorites>
+    <favorites>fv-vegetables,fh-herbs</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Kiwan Farms</strong>
@@ -1787,7 +1787,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables,fh-herbs</favorites>
+    <favorites>fv-vegetables,fh-herbs</favorites>
     <productiontypes>certorg</productiontypes>
     <infowindow><![CDATA[
 <strong>La ferme du Ruisseau Noir</strong>
@@ -1808,7 +1808,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables,fm-meat,fp-poultry,fs-sweeteners</favorites>
+    <favorites>fv-vegetables,fm-meat,fp-poultry,fs-sweeteners</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Hutchings Homestead</strong>
@@ -1829,7 +1829,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fs-sweeteners</favorites>
+    <favorites>fs-sweeteners</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Bergendal Honey</strong>
@@ -1849,7 +1849,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,ff-fruit,fv-vegetables,fs-sweeteners</favorites>
+    <favorites>ff-fruit,fv-vegetables,fs-sweeteners</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Les Jardins Lamoureux</strong>
@@ -1870,7 +1870,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,ff-fruit,fv-vegetables</favorites>
+    <favorites>ff-fruit,fv-vegetables</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Croquez lOutaouais</strong>
@@ -1891,7 +1891,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,ff-fruit</favorites>
+    <favorites>ff-fruit</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Upper Canada Cranberries</strong>
@@ -1912,7 +1912,7 @@
     <orgtype>producers,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fs-sweeteners</favorites>
+    <favorites>fs-sweeteners</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Gibbons Family Farm</strong>
@@ -1933,7 +1933,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,ff-fruit,fv-vegetables,fp-poultry</favorites>
+    <favorites>ff-fruit,fv-vegetables,fp-poultry</favorites>
     <productiontypes>certorg</productiontypes>
     <infowindow><![CDATA[
 <strong>Malcolm Padgeberry Organic Farms</strong>
@@ -1955,7 +1955,7 @@
     <orgtype>producers,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables,fh-herbs</favorites>
+    <favorites>fv-vegetables,fh-herbs</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Mikes Garden Harvest</strong>
@@ -1976,7 +1976,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,ff-fruit</favorites>
+    <favorites>ff-fruit</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Bleuetiere Hector Dignard</strong>
@@ -1997,7 +1997,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat</favorites>
+    <favorites>fm-meat</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Elevage Cataraqui</strong>
@@ -2018,7 +2018,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables</favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Carleton Mushrooms</strong>
@@ -2039,7 +2039,7 @@
     <orgtype>producers,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,ff-fruit,fv-vegetables</favorites>
+    <favorites>ff-fruit,fv-vegetables</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Harvest Moon Orchard</strong>
@@ -2060,7 +2060,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables</favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>certorg</productiontypes>
     <infowindow><![CDATA[
 <strong>Ferme Orient Farm</strong>
@@ -2080,7 +2080,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,ff-fruit</favorites>
+    <favorites>ff-fruit</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Kilmarnock Orchard</strong>
@@ -2101,7 +2101,7 @@
     <orgtype>retailer</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Les Serres M. Quenneville Greenhouses</strong>
@@ -2122,7 +2122,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,ff-fruit,fv-vegetables</favorites>
+    <favorites>ff-fruit,fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Orleans Fruit Farm</strong>
@@ -2143,7 +2143,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,ff-fruit,fv-vegetables</favorites>
+    <favorites>ff-fruit,fv-vegetables</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Our Farm</strong>
@@ -2164,7 +2164,7 @@
     <orgtype>producers,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa,pick_your_own</farmtypes>
-    <favorites>,ff-fruit,fv-vegetables</favorites>
+    <favorites>ff-fruit,fv-vegetables</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Avonmore Berry Farm</strong>
@@ -2185,7 +2185,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables,fm-meat</favorites>
+    <favorites>fv-vegetables,fm-meat</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Panmure Farms/Hudsons Farm Fresh</strong>
@@ -2206,7 +2206,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat</favorites>
+    <favorites>fm-meat</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Rolling Acres Farms</strong>
@@ -2227,7 +2227,7 @@
     <orgtype>producers,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat,fp-poultry</favorites>
+    <favorites>fm-meat,fp-poultry</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Pickle Patch</strong>
@@ -2248,7 +2248,7 @@
     <orgtype>producers,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,ff-fruit,fv-vegetables,fs-sweeteners</favorites>
+    <favorites>ff-fruit,fv-vegetables,fs-sweeteners</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Proulx Maple &amp; Berry Farm</strong>
@@ -2270,7 +2270,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,ff-fruit,fv-vegetables,fp-poultry</favorites>
+    <favorites>ff-fruit,fv-vegetables,fp-poultry</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Quillow Farm</strong>
@@ -2291,7 +2291,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat</favorites>
+    <favorites>fm-meat</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>RGK Polled Herefords</strong>
@@ -2311,7 +2311,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa,pick_your_own</farmtypes>
-    <favorites>,ff-fruit,fv-vegetables</favorites>
+    <favorites>ff-fruit,fv-vegetables</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Tincap Berry Farm</strong>
@@ -2332,7 +2332,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat,fs-sweeteners</favorites>
+    <favorites>fm-meat,fs-sweeteners</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Anderson Farm</strong>
@@ -2353,7 +2353,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa,pick_your_own</farmtypes>
-    <favorites>,ff-fruit,fv-vegetables</favorites>
+    <favorites>ff-fruit,fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Rochon Garden</strong>
@@ -2375,7 +2375,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,ff-fruit,fv-vegetables,fm-meat,fp-poultry,fs-sweeteners,fh-herbs</favorites>
+    <favorites>ff-fruit,fv-vegetables,fm-meat,fp-poultry,fs-sweeteners,fh-herbs</favorites>
     <productiontypes>certorg</productiontypes>
     <infowindow><![CDATA[
 <strong>Runaway Creek Farm</strong>
@@ -2397,7 +2397,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables</favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>certorg</productiontypes>
     <infowindow><![CDATA[
 <strong>Saffire Farms</strong>
@@ -2418,7 +2418,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables,fm-meat,fp-poultry</favorites>
+    <favorites>fv-vegetables,fm-meat,fp-poultry</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Morrison Manor Organics</strong>
@@ -2438,7 +2438,7 @@
     <orgtype>producers,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa,pick_your_own</farmtypes>
-    <favorites>,ff-fruit,fv-vegetables</favorites>
+    <favorites>ff-fruit,fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Shouldice Farms</strong>
@@ -2459,7 +2459,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat</favorites>
+    <favorites>fm-meat</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Shimas Farm</strong>
@@ -2479,7 +2479,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,ff-fruit</favorites>
+    <favorites>ff-fruit</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Smyths Apple Orchard</strong>
@@ -2500,7 +2500,7 @@
     <orgtype>microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Algonquin Tea Company</strong>
@@ -2521,7 +2521,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables,fm-meat,fp-poultry</favorites>
+    <favorites>fv-vegetables,fm-meat,fp-poultry</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>McWatt Family farms</strong>
@@ -2543,7 +2543,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,ff-fruit,fv-vegetables</favorites>
+    <favorites>ff-fruit,fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Needhams Market Garden</strong>
@@ -2564,7 +2564,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa,pick_your_own</farmtypes>
-    <favorites>,ff-fruit,fv-vegetables,fh-herbs</favorites>
+    <favorites>ff-fruit,fv-vegetables,fh-herbs</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Acorn Creek Garden Farm</strong>
@@ -2586,7 +2586,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables,fp-poultry</favorites>
+    <favorites>fv-vegetables,fp-poultry</favorites>
     <productiontypes>certorg</productiontypes>
     <infowindow><![CDATA[
 <strong>Waratah Downs Organic Farm</strong>
@@ -2607,7 +2607,7 @@
     <orgtype>producers,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat</favorites>
+    <favorites>fm-meat</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Whaleys Acres</strong>
@@ -2628,7 +2628,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,ff-fruit,fv-vegetables,fh-herbs</favorites>
+    <favorites>ff-fruit,fv-vegetables,fh-herbs</favorites>
     <productiontypes>certorg</productiontypes>
     <infowindow><![CDATA[
 <strong>Wild Rose Organic Farm</strong>
@@ -2649,7 +2649,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables,fh-herbs</favorites>
+    <favorites>fv-vegetables,fh-herbs</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Grenville Herb Farm</strong>
@@ -2670,7 +2670,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,ff-fruit,fv-vegetables,fh-herbs</favorites>
+    <favorites>ff-fruit,fv-vegetables,fh-herbs</favorites>
     <productiontypes>certorg</productiontypes>
     <infowindow><![CDATA[
 <strong>Whitsend Market Garden</strong>
@@ -2690,7 +2690,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables</favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Champignons Shiitake</strong>
@@ -2712,7 +2712,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables</favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Diotte Farm</strong>
@@ -2732,7 +2732,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fh-herbs</favorites>
+    <favorites>fh-herbs</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Glengyle Garlic</strong>
@@ -2752,7 +2752,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa,pick_your_own</farmtypes>
-    <favorites>,ff-fruit,fs-sweeteners</favorites>
+    <favorites>ff-fruit,fs-sweeteners</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Halls Apple Market</strong>
@@ -2773,7 +2773,7 @@
     <orgtype>producers,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,ff-fruit,fv-vegetables</favorites>
+    <favorites>ff-fruit,fv-vegetables</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Just Farms</strong>
@@ -2794,7 +2794,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,ff-fruit,fv-vegetables,fm-meat,fh-herbs</favorites>
+    <favorites>ff-fruit,fv-vegetables,fm-meat,fh-herbs</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Desjardins Farm</strong>
@@ -2815,7 +2815,7 @@
     <orgtype>producers,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat,fp-poultry</favorites>
+    <favorites>fm-meat,fp-poultry</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Griffith Farm &amp; Market</strong>
@@ -2836,7 +2836,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fs-sweeteners</favorites>
+    <favorites>fs-sweeteners</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Maple Country Sugarbush</strong>
@@ -2857,7 +2857,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fh-herbs</favorites>
+    <favorites>fh-herbs</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Marigold Culinaries</strong>
@@ -2879,7 +2879,7 @@
     <orgtype>markets,producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables,fm-meat</favorites>
+    <favorites>fv-vegetables,fm-meat</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Moonlight Crofters</strong>
@@ -2900,7 +2900,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables</favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>La Pleurotiere</strong>
@@ -2921,7 +2921,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables</favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Guy Bergeron Gardening</strong>
@@ -2943,7 +2943,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables,fs-sweeteners</favorites>
+    <favorites>fv-vegetables,fs-sweeteners</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Zero Carbon Garden</strong>
@@ -2964,7 +2964,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fp-poultry</favorites>
+    <favorites>fp-poultry</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Maple Hill Urban Farm Community Garden</strong>
@@ -2985,7 +2985,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat,fp-poultry</favorites>
+    <favorites>fm-meat,fp-poultry</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Roadapple Ranch</strong>
@@ -3006,7 +3006,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat</favorites>
+    <favorites>fm-meat</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Bushgarden Farmstead Cheese</strong>
@@ -3027,7 +3027,7 @@
     <orgtype>foodservices</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Art-Is-In Bakery</strong>
@@ -3048,7 +3048,7 @@
     <orgtype>foodservices</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Eighteen</strong>
@@ -3069,7 +3069,7 @@
     <orgtype>foodservices</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Rideau Club</strong>
@@ -3090,7 +3090,7 @@
     <orgtype>retailer,producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa,pick_your_own</farmtypes>
-    <favorites>,fv-vegetables</favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Saunders Farm</strong>
@@ -3112,7 +3112,7 @@
     <orgtype>foodservices,breweries_and_wineries</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>South Branch Bistro</strong>
@@ -3133,7 +3133,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat,fp-poultry</favorites>
+    <favorites>fm-meat,fp-poultry</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Ferme aux Saveurs des Monts</strong>
@@ -3154,7 +3154,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fs-sweeteners</favorites>
+    <favorites>fs-sweeteners</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Stanleys Olde Maple Lane Farm</strong>
@@ -3176,7 +3176,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables,fh-herbs</favorites>
+    <favorites>fv-vegetables,fh-herbs</favorites>
     <productiontypes>certorg</productiontypes>
     <infowindow><![CDATA[
 <strong>Roots and Shoots Farm</strong>
@@ -3198,7 +3198,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fh-herbs</favorites>
+    <favorites>fh-herbs</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>The Wild Garden</strong>
@@ -3220,7 +3220,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat</favorites>
+    <favorites>fm-meat</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Little Trickle Farm</strong>
@@ -3242,7 +3242,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Osgoode Apple Orchard</strong>
@@ -3263,7 +3263,7 @@
     <orgtype>foodservices</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>The Green Door Restaurant</strong>
@@ -3285,7 +3285,7 @@
     <orgtype>retailer</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Country Grocer Inc.</strong>
@@ -3306,7 +3306,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Bluegrass Farm</strong>
@@ -3327,7 +3327,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fh-herbs</favorites>
+    <favorites>fh-herbs</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Fines Herbes par Daniel</strong>
@@ -3348,7 +3348,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat,fp-poultry</favorites>
+    <favorites>fm-meat,fp-poultry</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Amaranth Farm</strong>
@@ -3369,7 +3369,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat,fp-poultry,fs-sweeteners</favorites>
+    <favorites>fm-meat,fp-poultry,fs-sweeteners</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>les Bergerie des sables</strong>
@@ -3389,7 +3389,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,ff-fruit,fv-vegetables,fh-herbs</favorites>
+    <favorites>ff-fruit,fv-vegetables,fh-herbs</favorites>
     <productiontypes>certorg</productiontypes>
     <infowindow><![CDATA[
 <strong>Connaught Nursery</strong>
@@ -3410,7 +3410,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fs-sweeteners</favorites>
+    <favorites>fs-sweeteners</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Crerars Honey Limited</strong>
@@ -3430,7 +3430,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat</favorites>
+    <favorites>fm-meat</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Eighth Line Farm</strong>
@@ -3451,7 +3451,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa,pick_your_own</farmtypes>
-    <favorites>,ff-fruit</favorites>
+    <favorites>ff-fruit</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Fraisiere Marier Strawberries</strong>
@@ -3471,7 +3471,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat</favorites>
+    <favorites>fm-meat</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Heartland Farms</strong>
@@ -3491,7 +3491,7 @@
     <orgtype>foodservices,producers,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fs-sweeteners</favorites>
+    <favorites>fs-sweeteners</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>LErabliere JB Caron</strong>
@@ -3512,7 +3512,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,ff-fruit,fv-vegetables</favorites>
+    <favorites>ff-fruit,fv-vegetables</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Les Serres Gatineau</strong>
@@ -3533,7 +3533,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fs-sweeteners</favorites>
+    <favorites>fs-sweeteners</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>McEvoy Honey Company</strong>
@@ -3553,7 +3553,7 @@
     <orgtype>foodservices</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Montague House</strong>
@@ -3573,7 +3573,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa,pick_your_own</farmtypes>
-    <favorites>,ff-fruit</favorites>
+    <favorites>ff-fruit</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Pattersons Berry Farm</strong>
@@ -3593,7 +3593,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,ff-fruit,fv-vegetables</favorites>
+    <favorites>ff-fruit,fv-vegetables</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Pinewood Orchard</strong>
@@ -3614,7 +3614,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Porcupine Creek Farm</strong>
@@ -3634,7 +3634,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fs-sweeteners</favorites>
+    <favorites>fs-sweeteners</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Temples Sugar Bush</strong>
@@ -3655,7 +3655,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,ff-fruit,fv-vegetables</favorites>
+    <favorites>ff-fruit,fv-vegetables</favorites>
     <productiontypes>certorg</productiontypes>
     <infowindow><![CDATA[
 <strong>Tournesol Co-operative Farm</strong>
@@ -3676,7 +3676,7 @@
     <orgtype>foodservices</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Restaurant Les Fougeres</strong>
@@ -3698,7 +3698,7 @@
     <orgtype>foodservices,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Savoury Pursuits</strong>
@@ -3719,7 +3719,7 @@
     <orgtype>foodservices</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Thai Lanna</strong>
@@ -3739,7 +3739,7 @@
     <orgtype>foodservices</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Atelier</strong>
@@ -3760,7 +3760,7 @@
     <orgtype>foodservices,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Four Sisters Food</strong>
@@ -3781,7 +3781,7 @@
     <orgtype>breweries_and_wineries</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Kichesippi Beer Co.</strong>
@@ -3803,7 +3803,7 @@
     <orgtype>foodservices,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Carolinas</strong>
@@ -3824,7 +3824,7 @@
     <orgtype>foodservices,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Yummy Cookies</strong>
@@ -3845,7 +3845,7 @@
     <orgtype>retailer</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Herb and Spice (Bank)</strong>
@@ -3867,7 +3867,7 @@
     <orgtype>retailer</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Il Negozio Nicastro Glebe</strong>
@@ -3889,7 +3889,7 @@
     <orgtype>retailer</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Rainbow Natural Foods</strong>
@@ -3911,7 +3911,7 @@
     <orgtype>breweries_and_wineries</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Beaus All Natural Brewery</strong>
@@ -3933,7 +3933,7 @@
     <orgtype>breweries_and_wineries</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Rene J Domaine Perrault</strong>
@@ -3954,7 +3954,7 @@
     <orgtype>breweries_and_wineries</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Blue Gypsy Wines</strong>
@@ -3975,7 +3975,7 @@
     <orgtype>breweries_and_wineries</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Green Gables Winery</strong>
@@ -3996,7 +3996,7 @@
     <orgtype>retailer,breweries_and_wineries</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Cassel Brewery Company Ltd.</strong>
@@ -4018,7 +4018,7 @@
     <orgtype>markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Alexandria Farmers Market</strong>
@@ -4039,7 +4039,7 @@
     <orgtype>markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Almonte Farmers Market</strong>
@@ -4060,7 +4060,7 @@
     <orgtype>markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Brockville Farmers Market</strong>
@@ -4081,7 +4081,7 @@
     <orgtype>markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Cobden Farmers Market</strong>
@@ -4102,7 +4102,7 @@
     <orgtype>markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Cumberland Farmers Market</strong>
@@ -4123,7 +4123,7 @@
     <orgtype>markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Eganville Farmers Market</strong>
@@ -4144,7 +4144,7 @@
     <orgtype>markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Kanata Farmers Market</strong>
@@ -4164,7 +4164,7 @@
     <orgtype>markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Kemptville Farmers Market</strong>
@@ -4185,7 +4185,7 @@
     <orgtype>markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Main Street Farmers Market</strong>
@@ -4207,7 +4207,7 @@
     <orgtype>markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Manotick Farmers Market</strong>
@@ -4229,7 +4229,7 @@
     <orgtype>markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Marché Public Notre-Dame</strong>
@@ -4250,7 +4250,7 @@
     <orgtype>markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Maxville Farmers Market</strong>
@@ -4271,7 +4271,7 @@
     <orgtype>markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>McDonalds Corners Farmers Market</strong>
@@ -4291,7 +4291,7 @@
     <orgtype>markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Merrickville Farmers Market</strong>
@@ -4311,7 +4311,7 @@
     <orgtype>markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Old Chelsea Market</strong>
@@ -4332,7 +4332,7 @@
     <orgtype>markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Pembroke Farmers Market</strong>
@@ -4353,7 +4353,7 @@
     <orgtype>markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Perth Farmers Market</strong>
@@ -4374,7 +4374,7 @@
     <orgtype>markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>MarchÃ© Public de la Petite-Nation</strong>
@@ -4395,7 +4395,7 @@
     <orgtype>markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Marché du Pontiac</strong>
@@ -4414,7 +4414,7 @@
     <orgtype>markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Renfrew Farmers Market</strong>
@@ -4434,7 +4434,7 @@
     <orgtype>markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Seaway Valley Growers Farmers Market</strong>
@@ -4453,7 +4453,7 @@
     <orgtype>markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Athens Farmers Market</strong>
@@ -4473,7 +4473,7 @@
     <orgtype>markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Vankleek Hill Farmers Market</strong>
@@ -4494,7 +4494,7 @@
     <orgtype>markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Wakefield Farmers Market</strong>
@@ -4515,7 +4515,7 @@
     <orgtype>markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Beechwood Farmers Market</strong>
@@ -4536,7 +4536,7 @@
     <orgtype>markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Metcalfe Farmers Market</strong>
@@ -4557,7 +4557,7 @@
     <orgtype>markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Carleton Place Farmers Market</strong>
@@ -4578,7 +4578,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables,fm-meat</favorites>
+    <favorites>fv-vegetables,fm-meat</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Root Radical CSA</strong>
@@ -4599,7 +4599,7 @@
     <orgtype>markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Parkdale Market</strong>
@@ -4620,7 +4620,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables</favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>certorg</productiontypes>
     <infowindow><![CDATA[
 <strong>Ferme aux pleines saveurs</strong>
@@ -4641,7 +4641,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables</favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Franktown House Flowers</strong>
@@ -4662,7 +4662,7 @@
     <orgtype>producers,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fh-herbs</favorites>
+    <favorites>fh-herbs</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Herboristerie La FÃ©e des Bois Botanicals</strong>
@@ -4684,7 +4684,7 @@
     <orgtype>foodservices,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Purebread Organic Bakery</strong>
@@ -4706,7 +4706,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables</favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>SunTech Greenhouses Ltd.</strong>
@@ -4728,7 +4728,7 @@
     <orgtype>foodservices</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>The Albion Rooms</strong>
@@ -4750,7 +4750,7 @@
     <orgtype>foodservices</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Courtyard Restaurant</strong>
@@ -4772,7 +4772,7 @@
     <orgtype>foodservices</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Fairmont Chateau Laurier</strong>
@@ -4794,7 +4794,7 @@
     <orgtype>markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Just Food Farm Stand</strong>
@@ -4812,7 +4812,7 @@
     <orgtype>foodservices,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Michaels Dolce</strong>
@@ -4834,7 +4834,7 @@
     <orgtype>retailer</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>McKeen Metro Glebe</strong>
@@ -4856,7 +4856,7 @@
     <orgtype>microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Buzzz Honey Products</strong>
@@ -4878,7 +4878,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>certorg</productiontypes>
     <infowindow><![CDATA[
 <strong>Ironwood Organics</strong>
@@ -4899,7 +4899,7 @@
     <orgtype>microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Upper Canada Creamery</strong>
@@ -4920,7 +4920,7 @@
     <orgtype>foodservices</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>The Table Vegetarian Restaurant</strong>
@@ -4941,7 +4941,7 @@
     <orgtype>foodservices</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>North &amp; Navy</strong>
@@ -4962,7 +4962,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fs-sweeteners</favorites>
+    <favorites>fs-sweeteners</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Capital Bees</strong>
@@ -4983,7 +4983,7 @@
     <orgtype>retailer</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>B&amp;H Your Community Grocer</strong>
@@ -5004,7 +5004,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fs-sweeteners</favorites>
+    <favorites>fs-sweeteners</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Blue Shoes Honey</strong>
@@ -5026,7 +5026,7 @@
     <orgtype>producers,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables</favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Gordz Hot Sauce</strong>
@@ -5047,7 +5047,7 @@
     <orgtype>foodservices</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Absinthe Cafe</strong>
@@ -5069,7 +5069,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat</favorites>
+    <favorites>fm-meat</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Pinnacle Haven Farm</strong>
@@ -5090,7 +5090,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat,fp-poultry</favorites>
+    <favorites>fm-meat,fp-poultry</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>My Favourite Farm</strong>
@@ -5111,7 +5111,7 @@
     <orgtype>foodservices</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>The Red Apron</strong>
@@ -5133,7 +5133,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables,fm-meat,fp-poultry</favorites>
+    <favorites>fv-vegetables,fm-meat,fp-poultry</favorites>
     <productiontypes>certorg</productiontypes>
     <infowindow><![CDATA[
 <strong>Juniper Farm</strong>
@@ -5155,7 +5155,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables,fs-sweeteners</favorites>
+    <favorites>fv-vegetables,fs-sweeteners</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Heavenly Honey</strong>
@@ -5177,7 +5177,7 @@
     <orgtype>foodservices,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Kulture Foods</strong>
@@ -5198,7 +5198,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables</favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Mayo Hill Garlic</strong>
@@ -5220,7 +5220,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fh-herbs</favorites>
+    <favorites>fh-herbs</favorites>
     <productiontypes>certorg</productiontypes>
     <infowindow><![CDATA[
 <strong>Old 4th Hop Yard</strong>
@@ -5241,7 +5241,7 @@
     <orgtype>foodservices</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Andaz Ottawa</strong>
@@ -5262,7 +5262,7 @@
     <orgtype>foodservices</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Le Cordon Bleu</strong>
@@ -5283,7 +5283,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables</favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>certorg</productiontypes>
     <infowindow><![CDATA[
 <strong>Agape Gardens</strong>
@@ -5304,7 +5304,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables,fh-herbs</favorites>
+    <favorites>fv-vegetables,fh-herbs</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Butterfly Sky Farms</strong>
@@ -5325,7 +5325,7 @@
     <orgtype>markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>MarchÃ© Vieux Marche vieux Hull</strong>
@@ -5346,7 +5346,7 @@
     <orgtype>markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>North Gower Farmers Market</strong>
@@ -5367,7 +5367,7 @@
     <orgtype>markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Ottawa Organic Farmers Market</strong>
@@ -5386,7 +5386,7 @@
     <orgtype>markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Chesterville Farmers Market</strong>
@@ -5406,7 +5406,7 @@
     <orgtype>markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>MarchÃ© Vieux Aylmer</strong>
@@ -5426,7 +5426,7 @@
     <orgtype>markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Sharbot Lake Farmers Market</strong>
@@ -5446,7 +5446,7 @@
     <orgtype>producers,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,ff-fruit,fv-vegetables,fs-sweeteners</favorites>
+    <favorites>ff-fruit,fv-vegetables,fs-sweeteners</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Ferme et Foret</strong>
@@ -5468,7 +5468,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables</favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Cest La Vie Farm</strong>
@@ -5489,7 +5489,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables</favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Ingleside Tomatoes</strong>
@@ -5510,7 +5510,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Against the Grain Farms of Winchester Inc.</strong>
@@ -5532,7 +5532,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat</favorites>
+    <favorites>fm-meat</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Kitley Beef Farm</strong>
@@ -5554,7 +5554,7 @@
     <orgtype>retailer</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>The Herb and Spice (Wellington)</strong>
@@ -5574,7 +5574,7 @@
     <orgtype>markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Ottawa Farmers Market - Landsdowne</strong>
@@ -5594,7 +5594,7 @@
     <orgtype>markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Ottawa Farmers Market - Orleans (Ray Friel Center)</strong>
@@ -5614,7 +5614,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables</favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Terramor Farm</strong>
@@ -5636,7 +5636,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables</favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Carrot Boots Farm</strong>
@@ -5657,7 +5657,7 @@
     <orgtype>markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Heart of Orleans Farmers Market</strong>
@@ -5678,7 +5678,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables</favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Bent Plow Farm</strong>
@@ -5699,7 +5699,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat</favorites>
+    <favorites>fm-meat</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Kiefro Farm</strong>
@@ -5721,7 +5721,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fp-poultry</favorites>
+    <favorites>fp-poultry</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Ferme Reveuse</strong>
@@ -5742,7 +5742,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables,fm-meat,fp-poultry</favorites>
+    <favorites>fv-vegetables,fm-meat,fp-poultry</favorites>
     <productiontypes>certorg</productiontypes>
     <infowindow><![CDATA[
 <strong>Funny Duck Farms</strong>
@@ -5763,7 +5763,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat</favorites>
+    <favorites>fm-meat</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Elk Ranch</strong>
@@ -5785,7 +5785,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>certorg</productiontypes>
     <infowindow><![CDATA[
 <strong>Greta Gretas Organic Gardens</strong>
@@ -5806,7 +5806,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fs-sweeteners</favorites>
+    <favorites>fs-sweeteners</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Clearydale Honey</strong>
@@ -5827,7 +5827,7 @@
     <orgtype>breweries_and_wineries</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Jabulani</strong>
@@ -5849,7 +5849,7 @@
     <orgtype>foodservices</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>The Urban Element</strong>
@@ -5871,7 +5871,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables</favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>certorg</productiontypes>
     <infowindow><![CDATA[
 <strong>Rooted Oak Farm</strong>
@@ -5893,7 +5893,7 @@
     <orgtype>microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Watsons Mill</strong>
@@ -5915,7 +5915,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables</favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Ferme Coop BeetBox Co-op Farm</strong>
@@ -5937,7 +5937,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fs-sweeteners</favorites>
+    <favorites>fs-sweeteners</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Gees Bees</strong>
@@ -5958,7 +5958,7 @@
     <orgtype>foodservices</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>The Grounds Cafe</strong>
@@ -5978,7 +5978,7 @@
     <orgtype>breweries_and_wineries</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Vignoble Clos Du Vully</strong>
@@ -5999,7 +5999,7 @@
     <orgtype>foodservices</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>The Carp Bakery</strong>
@@ -6019,7 +6019,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fh-herbs</favorites>
+    <favorites>fh-herbs</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Ottawa Valley Hops Farm</strong>
@@ -6040,7 +6040,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa,pick_your_own</farmtypes>
-    <favorites>,ff-fruit</favorites>
+    <favorites>ff-fruit</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Log Cabin Orchards</strong>
@@ -6061,7 +6061,7 @@
     <orgtype>foodservices</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Little Red Shack BBQ</strong>
@@ -6081,7 +6081,7 @@
     <orgtype>breweries_and_wineries</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Kin Vineyards</strong>
@@ -6102,7 +6102,7 @@
     <orgtype>foodservices</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>The Jack Ketch</strong>
@@ -6122,7 +6122,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat</favorites>
+    <favorites>fm-meat</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Donevelyn Farms</strong>
@@ -6142,7 +6142,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa,pick_your_own</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Canaan Blueberries</strong>
@@ -6163,7 +6163,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Aster Lane Edibles</strong>
@@ -6182,7 +6182,7 @@
     <orgtype>foodservices</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>NeXt</strong>
@@ -6203,7 +6203,7 @@
     <orgtype>foodservices</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Amberwood Lounge And Eatery</strong>
@@ -6225,7 +6225,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fs-sweeteners</favorites>
+    <favorites>fs-sweeteners</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Tanglewood Honey</strong>
@@ -6246,7 +6246,7 @@
     <orgtype>markets,producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fs-sweeteners</favorites>
+    <favorites>fs-sweeteners</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Honey Bee Meadows</strong>
@@ -6266,7 +6266,7 @@
     <orgtype>markets,producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,ff-fruit,fv-vegetables</favorites>
+    <favorites>ff-fruit,fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Courges &amp; Cie</strong>
@@ -6288,7 +6288,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fp-poultry</favorites>
+    <favorites>fp-poultry</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Faisanderie des Collines</strong>
@@ -6309,7 +6309,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat</favorites>
+    <favorites>fm-meat</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Tickle Island Farm</strong>
@@ -6330,7 +6330,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat</favorites>
+    <favorites>fm-meat</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Alder Creek Farm</strong>
@@ -6350,7 +6350,7 @@
     <orgtype>producers,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa,pick_your_own</farmtypes>
-    <favorites>,ff-fruit,fv-vegetables</favorites>
+    <favorites>ff-fruit,fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Potager Eardley</strong>
@@ -6371,7 +6371,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat</favorites>
+    <favorites>fm-meat</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Ferme Takwânaw Farm</strong>
@@ -6392,7 +6392,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat,fp-poultry</favorites>
+    <favorites>fm-meat,fp-poultry</favorites>
     <productiontypes>certorg</productiontypes>
     <infowindow><![CDATA[
 <strong>Ferme HLF du Lac Simon</strong>
@@ -6413,7 +6413,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat,fp-poultry</favorites>
+    <favorites>fm-meat,fp-poultry</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>McKenzie Farm</strong>
@@ -6434,7 +6434,7 @@
     <orgtype>retailer,producers,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,ff-fruit,fv-vegetables,fm-meat,fp-poultry</favorites>
+    <favorites>ff-fruit,fv-vegetables,fm-meat,fp-poultry</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Bowness Familiy Farm</strong>
@@ -6455,7 +6455,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa,pick_your_own</farmtypes>
-    <favorites>,ff-fruit</favorites>
+    <favorites>ff-fruit</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Mississippi Berries</strong>
@@ -6476,7 +6476,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables,fp-poultry,fs-sweeteners</favorites>
+    <favorites>fv-vegetables,fp-poultry,fs-sweeteners</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Pioneer Farm</strong>
@@ -6496,7 +6496,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fs-sweeteners</favorites>
+    <favorites>fs-sweeteners</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Fortune Farms</strong>
@@ -6517,7 +6517,7 @@
     <orgtype>retailer,markets,producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables,fm-meat</favorites>
+    <favorites>fv-vegetables,fm-meat</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Ferme La Machine</strong>
@@ -6538,7 +6538,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fs-sweeteners</favorites>
+    <favorites>fs-sweeteners</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Dunwurkn Farms Maple Camp</strong>
@@ -6559,7 +6559,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa,pick_your_own</farmtypes>
-    <favorites>,ff-fruit</favorites>
+    <favorites>ff-fruit</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Shouldice Berry Farm (Barrhaven)</strong>
@@ -6579,7 +6579,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa,pick_your_own</farmtypes>
-    <favorites>,ff-fruit,fv-vegetables</favorites>
+    <favorites>ff-fruit,fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Mensen Farm</strong>
@@ -6599,7 +6599,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa,pick_your_own</farmtypes>
-    <favorites>,ff-fruit</favorites>
+    <favorites>ff-fruit</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Kinburn Berries</strong>
@@ -6619,7 +6619,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa,pick_your_own</farmtypes>
-    <favorites>,ff-fruit</favorites>
+    <favorites>ff-fruit</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Shouldice Berry Farm (Bells Corners)</strong>
@@ -6639,7 +6639,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa,pick_your_own</farmtypes>
-    <favorites>,ff-fruit</favorites>
+    <favorites>ff-fruit</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Shouldice Berry Farm (Nepean)</strong>
@@ -6660,7 +6660,7 @@
     <orgtype>retailer,producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa,pick_your_own</farmtypes>
-    <favorites>,ff-fruit,fv-vegetables</favorites>
+    <favorites>ff-fruit,fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Millers Farm, Market, and Garden Centre</strong>
@@ -6681,7 +6681,7 @@
     <orgtype>retailer,producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,ff-fruit,fv-vegetables,fm-meat,fp-poultry,fs-sweeteners,fh-herbs</favorites>
+    <favorites>ff-fruit,fv-vegetables,fm-meat,fp-poultry,fs-sweeteners,fh-herbs</favorites>
     <productiontypes>certorg</productiontypes>
     <infowindow><![CDATA[
 <strong>Ferme Dagenais et/and Le Tournesol</strong>
@@ -6701,7 +6701,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat</favorites>
+    <favorites>fm-meat</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Dalefamlambs</strong>
@@ -6721,7 +6721,7 @@
     <orgtype>markets,producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa,pick_your_own</farmtypes>
-    <favorites>,ff-fruit,fv-vegetables</favorites>
+    <favorites>ff-fruit,fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Millers Bay Farm</strong>
@@ -6742,7 +6742,7 @@
     <orgtype>markets,producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fs-sweeteners</favorites>
+    <favorites>fs-sweeteners</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Sucrerie Beaubel</strong>
@@ -6761,7 +6761,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat</favorites>
+    <favorites>fm-meat</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Cedar Creek Farm</strong>
@@ -6782,7 +6782,7 @@
     <orgtype>markets,producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat</favorites>
+    <favorites>fm-meat</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Peabody Farm</strong>
@@ -6803,7 +6803,7 @@
     <orgtype>markets,producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables,fm-meat,fp-poultry</favorites>
+    <favorites>fv-vegetables,fm-meat,fp-poultry</favorites>
     <productiontypes>certorg</productiontypes>
     <infowindow><![CDATA[
 <strong>Ferme Celine Tremblay</strong>
@@ -6824,7 +6824,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa,pick_your_own</farmtypes>
-    <favorites>,ff-fruit</favorites>
+    <favorites>ff-fruit</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Cannamore Orchard</strong>
@@ -6846,7 +6846,7 @@
     <orgtype>markets,producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,ff-fruit,fv-vegetables</favorites>
+    <favorites>ff-fruit,fv-vegetables</favorites>
     <productiontypes>certorg</productiontypes>
     <infowindow><![CDATA[
 <strong>Ferme coop la RosÃ©e</strong>
@@ -6867,7 +6867,7 @@
     <orgtype>producers,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fs-sweeteners</favorites>
+    <favorites>fs-sweeteners</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>A Shaded Acre</strong>
@@ -6886,7 +6886,7 @@
     <orgtype>markets,producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat,fp-poultry</favorites>
+    <favorites>fm-meat,fp-poultry</favorites>
     <productiontypes>certorg</productiontypes>
     <infowindow><![CDATA[
 <strong>Ferme fÃ©e et fougÃ¨re</strong>
@@ -6907,7 +6907,7 @@
     <orgtype>producers,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat,fp-poultry</favorites>
+    <favorites>fm-meat,fp-poultry</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Aman Farms</strong>
@@ -6928,7 +6928,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,ff-fruit,fv-vegetables</favorites>
+    <favorites>ff-fruit,fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Fat Chance Farmstead</strong>
@@ -6949,7 +6949,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables</favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Under the Sun Farm</strong>
@@ -6970,7 +6970,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables</favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Patchwork Gardens</strong>
@@ -6991,7 +6991,7 @@
     <orgtype>markets,producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables</favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Freedom Farm</strong>
@@ -7012,7 +7012,7 @@
     <orgtype>producers,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables,fm-meat,fp-poultry,fh-herbs</favorites>
+    <favorites>fv-vegetables,fm-meat,fp-poultry,fh-herbs</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Heritage Harvest Farm</strong>
@@ -7033,7 +7033,7 @@
     <orgtype>markets,producers,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables</favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Augusta Farms</strong>
@@ -7054,7 +7054,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables,fm-meat,fp-poultry</favorites>
+    <favorites>fv-vegetables,fm-meat,fp-poultry</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Forefathers Farm</strong>
@@ -7075,7 +7075,7 @@
     <orgtype>markets,producers,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,ff-fruit,fv-vegetables,fh-herbs</favorites>
+    <favorites>ff-fruit,fv-vegetables,fh-herbs</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Firefly Meadows Farm</strong>
@@ -7094,7 +7094,7 @@
     <orgtype>retailer,producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,ff-fruit,fv-vegetables,fm-meat,fp-poultry,fs-sweeteners,fh-herbs</favorites>
+    <favorites>ff-fruit,fv-vegetables,fm-meat,fp-poultry,fs-sweeteners,fh-herbs</favorites>
     <productiontypes>certorg</productiontypes>
     <infowindow><![CDATA[
 <strong>Ferme Dagenais et/and Le Tournesol</strong>
@@ -7114,7 +7114,7 @@
     <orgtype>markets,producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fs-sweeteners</favorites>
+    <favorites>fs-sweeteners</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Sucrerie Beaubel</strong>
@@ -7133,7 +7133,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables,fm-meat</favorites>
+    <favorites>fv-vegetables,fm-meat</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Salt of the Earth Farm</strong>
@@ -7155,7 +7155,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fs-sweeteners</favorites>
+    <favorites>fs-sweeteners</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Blitzen Estate</strong>
@@ -7177,7 +7177,7 @@
     <orgtype>producers,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat,fp-poultry</favorites>
+    <favorites>fm-meat,fp-poultry</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Seven Maples Farm</strong>
@@ -7196,7 +7196,7 @@
     <orgtype>markets,producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,ff-fruit,fv-vegetables</favorites>
+    <favorites>ff-fruit,fv-vegetables</favorites>
     <productiontypes>certorg</productiontypes>
     <infowindow><![CDATA[
 <strong>Ferme Chapeau Melon</strong>
@@ -7217,7 +7217,7 @@
     <orgtype>markets,producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables,fm-meat,fp-poultry,fs-sweeteners</favorites>
+    <favorites>fv-vegetables,fm-meat,fp-poultry,fs-sweeteners</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Yellowmoon Farm &amp; Forest</strong>
@@ -7238,7 +7238,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables</favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Indian Creek Orchard Gardens</strong>
@@ -7258,7 +7258,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables,fh-herbs</favorites>
+    <favorites>fv-vegetables,fh-herbs</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Snapping Turtle Farm</strong>
@@ -7277,7 +7277,7 @@
     <orgtype>markets,producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables,fm-meat,fp-poultry</favorites>
+    <favorites>fv-vegetables,fm-meat,fp-poultry</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Ravensfield</strong>
@@ -7298,7 +7298,7 @@
     <orgtype>markets,producers,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fv-vegetables,fh-herbs</favorites>
+    <favorites>fv-vegetables,fh-herbs</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Wild Oak Homestead</strong>
@@ -7319,7 +7319,7 @@
     <orgtype>breweries_and_wineries</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Covered Bridge Brewing</strong>
@@ -7341,7 +7341,7 @@
     <orgtype>producers,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Ottawa Valley Grain Products</strong>
@@ -7362,7 +7362,7 @@
     <orgtype>retailer,foodservices,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>St Albert Cheese</strong>
@@ -7384,7 +7384,7 @@
     <orgtype>foodservices,breweries_and_wineries</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Etienne Brule</strong>
@@ -7406,7 +7406,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa,pick_your_own</farmtypes>
-    <favorites>,ff-fruit,fv-vegetables</favorites>
+    <favorites>ff-fruit,fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Ferme LArtisan Farm</strong>
@@ -7427,7 +7427,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fs-sweeteners</favorites>
+    <favorites>fs-sweeteners</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Ferme Drouin</strong>
@@ -7448,7 +7448,7 @@
     <orgtype>breweries_and_wineries</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>certorg</productiontypes>
     <infowindow><![CDATA[
 <strong>Vankleek Hill Vineyard</strong>
@@ -7469,7 +7469,7 @@
     <orgtype>foodservices</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Vert Fourchette</strong>
@@ -7490,7 +7490,7 @@
     <orgtype>producers,breweries_and_wineries</orgtype>
     <savour>false</savour>
     <farmtypes>csa,pick_your_own</farmtypes>
-    <favorites>,ff-fruit</favorites>
+    <favorites>ff-fruit</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Les Vergers Villeneuve &amp; Blueberry Farm</strong>
@@ -7510,7 +7510,7 @@
     <orgtype>retailer,producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa,pick_your_own</farmtypes>
-    <favorites>,fv-vegetables</favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Ouimet Farms Adventure</strong>
@@ -7531,7 +7531,7 @@
     <orgtype>breweries_and_wineries</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Tuque de Broue Brewery Inc.</strong>
@@ -7552,7 +7552,7 @@
     <orgtype>foodservices</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Bean Town Ranch</strong>
@@ -7573,7 +7573,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>certorg</productiontypes>
     <infowindow><![CDATA[
 <strong>Bird &amp; Bee Seeds</strong>
@@ -7594,7 +7594,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>,fm-meat,fp-poultry</favorites>
+    <favorites>fm-meat,fp-poultry</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Maple Meadow Farms</strong>
@@ -7616,7 +7616,7 @@
     <orgtype>markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Ottawa Farmers Market Barrhaven</strong>
@@ -7634,7 +7634,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites> </favorites>
+    <favorites>fv-vegetables</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Carp Farmers Market</strong>
