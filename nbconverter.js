@@ -210,9 +210,12 @@ function convertCVSToXML(csvFile) {
     function getProductsList(entry) {
         // if maptype is producer, they can produce 0 or more of the following products:
         // fruits, vegetables, grains_seeds, meat, poultry_eggs, sweeteners, herb_grower
-        var products = ",fv-vegetables";
+        var products = ",";
         if (entry.fruit == 'true') {
             products = products + ",ff-fruit"
+        }
+        if (entry.vegetables == 'true') {
+            products = products + ",fv-vegetables"
         }
         if (entry.grains_seeds == 'true') {
             products = products + ",fg-grains_seeds"
@@ -221,7 +224,7 @@ function convertCVSToXML(csvFile) {
             products = products + ",fm-meat"
         }
         if (entry.poultry_eggs == 'true') {
-            products = products + ",fm-poultry_eggs"
+            products = products + ",fp-poultry"
         }
         if (entry.sweeteners == 'true') {
             products = products + ",fs-sweeteners"
