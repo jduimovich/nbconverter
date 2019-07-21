@@ -25,3 +25,7 @@ Example
     The log file will be empty if no errors. The xml file produced will have one row with the titles as data.
 
  
+ The json file in thsi directory was converted using
+ https://codebeautify.org/xmltojson
+
+ The outer take is removed and the markers is then renamed to members.
