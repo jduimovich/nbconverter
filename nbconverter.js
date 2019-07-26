@@ -217,8 +217,8 @@ function convertCVSToXML(csvFile) {
         if (entry.vegetables == 'true') {
             products = products + ",fv-vegetables"
         }
-        if (entry.grains_seeds == 'true') {
-            products = products + ",fg-grains_seeds"
+        if (entry.grains_seeds_legumes == 'true') {
+            products = products + ",fg-grain"
         }
         if (entry.meat == 'true') {
             products = products + ",fm-meat"

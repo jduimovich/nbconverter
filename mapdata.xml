@@ -244,7 +244,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>ff-fruit,fv-vegetables,fm-meat,fp-poultry,fs-sweeteners</favorites>
+    <favorites>ff-fruit,fv-vegetables,fg-grain,fm-meat,fp-poultry,fs-sweeteners</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Rock-N-Horse Farm</strong>
@@ -285,7 +285,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>ff-fruit,fv-vegetables,fm-meat,fp-poultry</favorites>
+    <favorites>ff-fruit,fv-vegetables,fg-grain,fm-meat,fp-poultry</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Arc Acres</strong>
@@ -307,7 +307,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>ff-fruit,fv-vegetables,fm-meat,fp-poultry,fs-sweeteners</favorites>
+    <favorites>ff-fruit,fv-vegetables,fg-grain,fm-meat,fp-poultry,fs-sweeteners</favorites>
     <productiontypes>certorg</productiontypes>
     <infowindow><![CDATA[
 <strong>Aubin Farm</strong>
@@ -391,7 +391,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>ff-fruit,fv-vegetables,fs-sweeteners</favorites>
+    <favorites>ff-fruit,fv-vegetables,fg-grain,fs-sweeteners</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Barkleys Apple Orchard</strong>
@@ -579,7 +579,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>fm-meat,fp-poultry</favorites>
+    <favorites>fg-grain,fm-meat,fp-poultry</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Castor River Farm</strong>
@@ -1130,7 +1130,7 @@
     <orgtype>markets,producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>fv-vegetables,fm-meat,fp-poultry</favorites>
+    <favorites>fv-vegetables,fg-grain,fm-meat,fp-poultry</favorites>
     <productiontypes>certorg</productiontypes>
     <infowindow><![CDATA[
 <strong>Bryson Farms</strong>
@@ -1491,7 +1491,7 @@
     <orgtype>producers,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>fv-vegetables,fh-herbs</favorites>
+    <favorites>fv-vegetables,fg-grain,fh-herbs</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Jambican Studio Gardens</strong>
@@ -1596,7 +1596,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa,pick_your_own</farmtypes>
-    <favorites>ff-fruit,fv-vegetables</favorites>
+    <favorites>ff-fruit,fv-vegetables,fg-grain</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>McGregors Produce</strong>
@@ -1618,7 +1618,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>fv-vegetables,fh-herbs</favorites>
+    <favorites>fv-vegetables,fg-grain,fh-herbs</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Day Brighteners</strong>
@@ -1662,7 +1662,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>fv-vegetables,fm-meat,fp-poultry</favorites>
+    <favorites>fv-vegetables,fg-grain,fm-meat,fp-poultry</favorites>
     <productiontypes>certorg</productiontypes>
     <infowindow><![CDATA[
 <strong>Ferme Morgan</strong>
@@ -2143,7 +2143,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>ff-fruit,fv-vegetables</favorites>
+    <favorites>ff-fruit,fv-vegetables,fg-grain</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Our Farm</strong>
@@ -2227,7 +2227,7 @@
     <orgtype>producers,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>fm-meat,fp-poultry</favorites>
+    <favorites>fg-grain,fm-meat,fp-poultry</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Pickle Patch</strong>
@@ -2670,7 +2670,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>ff-fruit,fv-vegetables,fh-herbs</favorites>
+    <favorites>ff-fruit,fv-vegetables,fg-grain,fh-herbs</favorites>
     <productiontypes>certorg</productiontypes>
     <infowindow><![CDATA[
 <strong>Whitsend Market Garden</strong>
@@ -2773,7 +2773,7 @@
     <orgtype>producers,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>ff-fruit,fv-vegetables</favorites>
+    <favorites>ff-fruit,fv-vegetables,fg-grain</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Just Farms</strong>
@@ -2964,7 +2964,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>fp-poultry</favorites>
+    <favorites>fg-grain,fp-poultry</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Maple Hill Urban Farm Community Garden</strong>
@@ -3389,7 +3389,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>ff-fruit,fv-vegetables,fh-herbs</favorites>
+    <favorites>ff-fruit,fv-vegetables,fg-grain,fh-herbs</favorites>
     <productiontypes>certorg</productiontypes>
     <infowindow><![CDATA[
 <strong>Connaught Nursery</strong>
@@ -3655,7 +3655,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>ff-fruit,fv-vegetables</favorites>
+    <favorites>ff-fruit,fv-vegetables,fg-grain</favorites>
     <productiontypes>certorg</productiontypes>
     <infowindow><![CDATA[
 <strong>Tournesol Co-operative Farm</strong>
@@ -4878,7 +4878,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>fv-vegetables</favorites>
+    <favorites>fg-grain</favorites>
     <productiontypes>certorg</productiontypes>
     <infowindow><![CDATA[
 <strong>Ironwood Organics</strong>
@@ -5446,7 +5446,7 @@
     <orgtype>producers,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>ff-fruit,fv-vegetables,fs-sweeteners</favorites>
+    <favorites>ff-fruit,fv-vegetables,fg-grain,fs-sweeteners</favorites>
     <productiontypes>self_identified_ecological</productiontypes>
     <infowindow><![CDATA[
 <strong>Ferme et Foret</strong>
@@ -5510,7 +5510,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>fv-vegetables</favorites>
+    <favorites>fg-grain</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Against the Grain Farms of Winchester Inc.</strong>
@@ -6681,7 +6681,7 @@
     <orgtype>retailer,producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>ff-fruit,fv-vegetables,fm-meat,fp-poultry,fs-sweeteners,fh-herbs</favorites>
+    <favorites>ff-fruit,fv-vegetables,fg-grain,fm-meat,fp-poultry,fs-sweeteners,fh-herbs</favorites>
     <productiontypes>certorg</productiontypes>
     <infowindow><![CDATA[
 <strong>Ferme Dagenais et/and Le Tournesol</strong>
@@ -7094,7 +7094,7 @@
     <orgtype>retailer,producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>ff-fruit,fv-vegetables,fm-meat,fp-poultry,fs-sweeteners,fh-herbs</favorites>
+    <favorites>ff-fruit,fv-vegetables,fg-grain,fm-meat,fp-poultry,fs-sweeteners,fh-herbs</favorites>
     <productiontypes>certorg</productiontypes>
     <infowindow><![CDATA[
 <strong>Ferme Dagenais et/and Le Tournesol</strong>
@@ -7341,7 +7341,7 @@
     <orgtype>producers,microprocessor</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>fv-vegetables</favorites>
+    <favorites>fg-grain</favorites>
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>Ottawa Valley Grain Products</strong>
@@ -7573,7 +7573,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>fv-vegetables</favorites>
+    <favorites>fg-grain</favorites>
     <productiontypes>certorg</productiontypes>
     <infowindow><![CDATA[
 <strong>Bird &amp; Bee Seeds</strong>
