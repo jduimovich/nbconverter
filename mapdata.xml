@@ -2949,10 +2949,10 @@
 <strong>La Pleurotière</strong>
 <br/>550 Chemin Riv, LAnge-Gardien, QC, CA, J8L 0M3
 <br/>819-593-3448
-<br/><a href="mailto:info@lapleurotiere.com">info@lapleurotiere.com</a>
+<br/><a href="mailto:lapleurotiere@gmail.com">lapleurotiere@gmail.com</a>
 <br/><a target="_blank" href="https://www.lapleurotiere.com/">https://www.lapleurotiere.com/</a>
 ]]></infowindow>
-    <email>info@lapleurotiere.com</email>
+    <email>lapleurotiere@gmail.com</email>
     <website>https://www.lapleurotiere.com/</website>
     <icon>producers</icon>
 </marker>
@@ -3918,10 +3918,10 @@
 <strong>Yummy Cookies</strong>
 <br/>20 Avenue Rd, Ottawa, ON, CA, K1S 0N9
 <br/>613-795-7842
-<br/><a href="mailto:info@yummycookies.ca">info@yummycookies.ca</a>
+<br/><a href="mailto:yummycookiesottawa@gmail.com">yummycookiesottawa@gmail.com</a>
 <br/><a target="_blank" href="http://www.yummycookies.ca/">http://www.yummycookies.ca/</a>
 ]]></infowindow>
-    <email>info@yummycookies.ca</email>
+    <email>yummycookiesottawa@gmail.com</email>
     <website>http://www.yummycookies.ca/</website>
     <icon>foodservices</icon>
 </marker>
@@ -3939,11 +3939,11 @@
 <strong>Herb and Spice (Bank)</strong>
 <br/>375 Bank St, Ottawa, ON, CA, K2P 0T2
 <br/>613-277-8592
-<br/><a href="mailto:info@herbandspiceshop.com">info@herbandspiceshop.com</a>
+<br/><a href="mailto:herbandspiceshop@gmail.com">herbandspiceshop@gmail.com</a>
 <br/><a target="_blank" href="http://www.herbandspiceshop.com/">http://www.herbandspiceshop.com/</a>
 <br/>twitter: @HerbSpiceBank
 ]]></infowindow>
-    <email>info@herbandspiceshop.com</email>
+    <email>herbandspiceshop@gmail.com</email>
     <website>http://www.herbandspiceshop.com/</website>
     <icon>retailer</icon>
 </marker>
@@ -4048,10 +4048,11 @@
 <strong>Blue Gypsy Wines</strong>
 <br/>1595 Lindsay Rd, Oxford Mills, ON, CA, k0G 1S0
 <br/>613-698-7685
-<br/><a href="mailto:info@bluegypsywines.com">info@bluegypsywines.com</a>
+<br/><a href="mailto:louis@bluegypsywines.com">louis@bluegypsywines.com</a>
 <br/><a target="_blank" href="http://www.bluegypsywines.com/">http://www.bluegypsywines.com/</a>
+<br/>twitter: @BlueGypsyWines
 ]]></infowindow>
-    <email>info@bluegypsywines.com</email>
+    <email>louis@bluegypsywines.com</email>
     <website>http://www.bluegypsywines.com/</website>
     <icon>breweries_and_wineries</icon>
 </marker>
@@ -4154,10 +4155,10 @@
 <strong>Brockville Farmers Market</strong>
 <br/>1 King St W, Brockville, ON, CA, K6V 7A5
 <br/>613-926-2960
-<br/><a href="mailto:lbell@jcis.ca">lbell@jcis.ca</a>
+<br/><a href="mailto:info@brockvillefarmersmarket.ca">info@brockvillefarmersmarket.ca</a>
 <br/><a target="_blank" href="http://www.brockvillefarmersmarket.ca/">http://www.brockvillefarmersmarket.ca/</a>
 ]]></infowindow>
-    <email>lbell@jcis.ca</email>
+    <email>info@brockvillefarmersmarket.ca</email>
     <website>http://www.brockvillefarmersmarket.ca/</website>
     <icon>markets</icon>
 </marker>
@@ -4693,10 +4694,10 @@
 <strong>Parkdale Market</strong>
 <br/>365 Parkdale Ave, Ottawa, ON, CA, K1Y 2Z6
 <br/>613-244-4410
-<br/><a href="mailto:ottawamarkets@gmail.com">ottawamarkets@gmail.com</a>
+<br/><a href="mailto:info@ottawamarkets.ca">info@ottawamarkets.ca</a>
 <br/><a target="_blank" href="http://farmersmarketsontario.com/view-market/?market_id=ottawa_parkdale_market">http://farmersmarketsontario.com/view-market/?market_id=ottawa_parkdale_market</a>
 ]]></infowindow>
-    <email>ottawamarkets@gmail.com</email>
+    <email>info@ottawamarkets.ca</email>
     <website>http://farmersmarketsontario.com/view-market/?market_id=ottawa_parkdale_market</website>
     <icon>markets</icon>
 </marker>
@@ -5014,10 +5015,10 @@
 <strong>The Table Vegetarian Restaurant</strong>
 <br/>1230 Wellington Ave W, Ottawa, ON, CA, K1Y 3A1
 <br/>613-729-5973
-<br/><a href="mailto:wellington@thetablerestaurant.com">wellington@thetablerestaurant.com</a>
+<br/><a href="mailto:cheryl@xittel.ca">cheryl@xittel.ca</a>
 <br/><a target="_blank" href="http://www.thetablerestaurant.com/">http://www.thetablerestaurant.com/</a>
 ]]></infowindow>
-    <email>wellington@thetablerestaurant.com</email>
+    <email>cheryl@xittel.ca</email>
     <website>http://www.thetablerestaurant.com/</website>
     <icon>foodservices</icon>
 </marker>
@@ -6059,6 +6060,27 @@
 ]]></infowindow>
     <email>hello@beetbox.ca</email>
     <website>https://beetbox.ca/</website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Capital Greens Urban Farm</name>
+    <nbid>30200</nbid>
+    <lat>45.3769481</lat>
+    <lng>-75.7615713</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables</favorites>
+    <productiontypes>certorg</productiontypes>
+    <infowindow><![CDATA[
+<strong>Capital Greens Urban Farm</strong>
+<br/>1907 Wembley Ave, Ottawa, ON, CA, K2A 1A8
+<br/>6138672377
+<br/><a href="mailto:mathew.levinson@gmail.com">mathew.levinson@gmail.com</a>
+<br/><a target="_blank" href="https://www.capitalgreens.ca/">https://www.capitalgreens.ca/</a>
+]]></infowindow>
+    <email>mathew.levinson@gmail.com</email>
+    <website>https://www.capitalgreens.ca/</website>
     <icon>producers</icon>
 </marker>
 <marker>
@@ -7214,8 +7236,9 @@
 <strong>Firefly Meadows Farm</strong>
 <br/>1767 Silver Lake Rd, Eganville, ON, CA, K0J 1T0
 <br/>(613) 899-6100
+<br/><a href="mailto:fireflymeadowsfarm@gmail.com">fireflymeadowsfarm@gmail.com</a>
 ]]></infowindow>
-    <email> </email>
+    <email>fireflymeadowsfarm@gmail.com</email>
     <website> </website>
     <icon>markets</icon>
 </marker>
@@ -7722,25 +7745,6 @@
     <icon>producers</icon>
 </marker>
 <marker>
-    <name>O’Brien Farms</name>
-    <nbid>32073</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
-    <orgtype>producers</orgtype>
-    <savour>false</savour>
-    <farmtypes>csa</farmtypes>
-    <favorites>fm-meat</favorites>
-    <productiontypes>conventional</productiontypes>
-    <infowindow><![CDATA[
-<strong>O’Brien Farms</strong>
-<br/>
-<br/><a target="_blank" href="http://t.co/NeH3Bk6BnL">http://t.co/NeH3Bk6BnL</a>
-]]></infowindow>
-    <email> </email>
-    <website>http://t.co/NeH3Bk6BnL</website>
-    <icon>producers</icon>
-</marker>
-<marker>
     <name>Grunt</name>
     <nbid>32194</nbid>
     <lat>45.4072439</lat>
@@ -7827,8 +7831,8 @@
 <marker>
     <name>Farmers Pick</name>
     <nbid>32216</nbid>
-    <lat>45.3693385</lat>
-    <lng>-75.70161689999999</lng>
+    <lat>45.3685302</lat>
+    <lng>-75.7027863</lng>
     <orgtype>retailer</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -7871,8 +7875,8 @@
 <marker>
     <name>Pure Kitchen Westboro</name>
     <nbid>32226</nbid>
-    <lat>45.39178</lat>
-    <lng>-75.75496450000001</lng>
+    <lat>45.3917934</lat>
+    <lng>-75.75494859999999</lng>
     <orgtype>foodservices</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -8106,8 +8110,8 @@
 <marker>
     <name>Kemptville Farmers Market</name>
     <nbid>32322</nbid>
-    <lat>45.0181219</lat>
-    <lng>-75.6482606</lng>
+    <lat>45.0177732</lat>
+    <lng>-75.6481713</lng>
     <orgtype>markets</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -8189,7 +8193,7 @@
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
-    <favorites>fv-vegetables</favorites>
+    <favorites>fv-vegetables,fp-poultry</favorites>
     <productiontypes>certorg</productiontypes>
     <infowindow><![CDATA[
 <strong>Cadence Ecological Farm</strong>
@@ -8242,8 +8246,8 @@
 <marker>
     <name>Flat Earth Farm</name>
     <nbid>32361</nbid>
-    <lat>45.1762648</lat>
-    <lng>-75.4954983</lng>
+    <lat>45.1762879</lat>
+    <lng>-75.4955975</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -8262,8 +8266,8 @@
 <marker>
     <name>Hidden Trails Farm</name>
     <nbid>32362</nbid>
-    <lat>45.4147736</lat>
-    <lng>-75.18842959999999</lng>
+    <lat>45.4134086</lat>
+    <lng>-75.1927504</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -8283,8 +8287,8 @@
 <marker>
     <name>Enright Harvest Acres</name>
     <nbid>32368</nbid>
-    <lat>44.9125345</lat>
-    <lng>-76.0238888</lng>
+    <lat>44.912303</lat>
+    <lng>-76.02298789999999</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -8302,8 +8306,8 @@
 <marker>
     <name>The Ginger Bee Honey</name>
     <nbid>32374</nbid>
-    <lat>45.4266482</lat>
-    <lng>-75.5792722</lng>
+    <lat>45.27865790000001</lat>
+    <lng>-75.86452369999999</lng>
     <orgtype>producers</orgtype>
     <savour>false</savour>
     <farmtypes>csa</farmtypes>
@@ -8311,12 +8315,53 @@
     <productiontypes>conventional</productiontypes>
     <infowindow><![CDATA[
 <strong>The Ginger Bee Honey</strong>
-<br/>Richmond, ON, CA
+<br/>1606 Westhall Way, Kanata, ON, CA, K2M 0G8
 <br/>613-282-1365
 <br/><a href="mailto:chris.hilliar@thegingerbee.ca">chris.hilliar@thegingerbee.ca</a>
 ]]></infowindow>
     <email>chris.hilliar@thegingerbee.ca</email>
     <website> </website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Natures Apprentice Farm</name>
+    <nbid>32751</nbid>
+    <lat>45.3112565</lat>
+    <lng>-76.29931309999999</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables,fp-poultry,fh-herbs</favorites>
+    <productiontypes>self_identified_ecological</productiontypes>
+    <infowindow><![CDATA[
+<strong>Natures Apprentice Farm</strong>
+<br/>100 Lynx Hollow Rd, Pakenham, ON, CA, K0A 2X0
+<br/><a target="_blank" href="http://www.naturesapprenticefarm.ca/">http://www.naturesapprenticefarm.ca/</a>
+]]></infowindow>
+    <email> </email>
+    <website>http://www.naturesapprenticefarm.ca/</website>
+    <icon>producers</icon>
+</marker>
+<marker>
+    <name>Social Harvest</name>
+    <nbid>32890</nbid>
+    <lat>45.4347814</lat>
+    <lng>-75.6422832</lng>
+    <orgtype>producers</orgtype>
+    <savour>false</savour>
+    <farmtypes>csa</farmtypes>
+    <favorites>fv-vegetables,fh-herbs</favorites>
+    <productiontypes>self_identified_ecological</productiontypes>
+    <infowindow><![CDATA[
+<strong>Social Harvest</strong>
+<br/>815 St Laurent Blvd, Ottawa, ON, CA, K1K 3A7
+<br/>(613) 745-0073 x132
+<br/><a href="mailto:social.harvest@crcrr.org">social.harvest@crcrr.org</a>
+<br/><a target="_blank" href="https://www.socialharvestottawa.ca/">https://www.socialharvestottawa.ca/</a>
+<br/>twitter: @SocialHarvestOt
+]]></infowindow>
+    <email>social.harvest@crcrr.org</email>
+    <website>https://www.socialharvestottawa.ca/</website>
     <icon>producers</icon>
 </marker>
 </markers>
