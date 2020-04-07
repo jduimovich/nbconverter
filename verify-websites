@@ -1,0 +1,6 @@
+echo Testing Websites 
+cat rawdata.csv | tr "," "\n" | grep http | sed 's/^http/sh testurl http/g' | sh
+
+
+
+

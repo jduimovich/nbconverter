@@ -1,0 +1,7 @@
+CODE=$(curl -s -L -o /dev/null -w "%{http_code}" $1)
+
+if [ "$CODE" == "200" ] ; then  
+   echo "$1 $CODE (GOOD)"
+else   
+   echo "$1 $CODE (INVESTIGATE)"
+fi
