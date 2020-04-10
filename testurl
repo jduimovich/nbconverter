@@ -1,7 +1,12 @@
-CODE=$(curl -s -L -o /dev/null -w "%{http_code}" $1)
-
-if [ "$CODE" == "200" ] ; then  
-   echo "$1 $CODE (GOOD)"
-else   
-   echo "$1 $CODE (INVESTIGATE)"
+CODE=$(curl -s -L -o /dev/null -w "%{http_code}" "$1")
+if [ "$CODE" != "200" ] ; then      
+   sleep 1
+   CODE=$(curl -s -L -o /dev/null -w "%{http_code}" "$1")
+   if [ "$CODE" != "200" ] ; then
+      sleep 2
+      R=$(curl -s -L "https://helloacm.com/api/can-visit/?url=$1" | yq r - code)
+      if [ "$R" != "200" ] ; then
+         printf "$1 $R (INVESTIGATE)\n" 
+      fi
+   fi
 fi

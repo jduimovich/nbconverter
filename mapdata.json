@@ -10,9 +10,9 @@
 				"farmtypes": "csa",
 				"favorites": "fv-vegetables",
 				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Ottawa Farmers Market Westboro</strong>\n<br/>127 Bassett Ln, Ottawa, ON, CA, K1Y 0K4\n<br/>613-863-1049\n<br/><a href=\"mailto:craig@ottawafarmersmarket.ca\">craig@ottawafarmersmarket.ca</a>\n<br/><a target=\"_blank\" href=\"https://twitter.com/OttawaFarmMkt\">https://twitter.com/OttawaFarmMkt</a>\n<br/>twitter: @OttawaFarmMkt\n",
+				"infowindow": "\n<strong>Ottawa Farmers Market Westboro</strong>\n<br/>539 Wavell Ave, Ottawa, ON, CA, K2A 0P6\n<br/>613-863-1049\n<br/><a href=\"mailto:craig@ottawafarmersmarket.ca\">craig@ottawafarmersmarket.ca</a>\n<br/><a target=\"_blank\" href=\"https://ottawafarmersmarket.ca/westboro-market/\">https://ottawafarmersmarket.ca/westboro-market/</a>\n<br/>twitter: @OttawaFarmMkt\n",
 				"email": "craig@ottawafarmersmarket.ca",
-				"website": "https://twitter.com/OttawaFarmMkt",
+				"website": "https://ottawafarmersmarket.ca/westboro-market/",
 				"icon": "markets"
 			},
 			{
@@ -46,6 +46,51 @@
 				"icon": "retailer"
 			},
 			{
+				"name": "Fultons Pancake House and Sugar Bush",
+				"nbid": "236",
+				"lat": "45.2476607",
+				"lng": "-76.31161759999999",
+				"orgtype": "retailer,foodservices,producers,microprocessor",
+				"savour": "false",
+				"farmtypes": "csa",
+				"favorites": "fs-sweeteners",
+				"productiontypes": "certorg",
+				"infowindow": "\n<strong>Fultons Pancake House and Sugar Bush</strong>\n<br/>399 Sugar Bush Rd, Pakenham, ON, CA, K0A 2X0\n<br/>613-256-3867\n<br/><a href=\"mailto:info@fultons.ca\">info@fultons.ca</a>\n<br/><a target=\"_blank\" href=\"http://t.co/9Ap2TdljO9\">http://t.co/9Ap2TdljO9</a>\n<br/>twitter: @FultonsMaple\n",
+				"email": "info@fultons.ca",
+				"website": "http://t.co/9Ap2TdljO9",
+				"icon": "retailer"
+			},
+			{
+				"name": "Van Vliet Horticulture",
+				"nbid": "251",
+				"lat": "45.4284291",
+				"lng": "-75.57565199999999",
+				"orgtype": "producers",
+				"savour": "false",
+				"farmtypes": "csa",
+				"favorites": "fv-vegetables",
+				"productiontypes": "certorg",
+				"infowindow": "\n<strong>Van Vliet Horticulture</strong>\n<br/>2391 Pépin Ct, Ottawa, ON, CA, K1B 4Z3\n<br/><a target=\"_blank\" href=\"http://www.vanvliethorticulture.com/\">http://www.vanvliethorticulture.com/</a>\n<br/>twitter: @Daniel_V_V\n",
+				"email": "",
+				"website": "http://www.vanvliethorticulture.com/",
+				"icon": "producers"
+			},
+			{
+				"name": "Mikes Garden Harvest",
+				"nbid": "322",
+				"lat": "45.3017972",
+				"lng": "-75.6968555",
+				"orgtype": "producers",
+				"savour": "false",
+				"farmtypes": "csa",
+				"favorites": "ff-fruit,fv-vegetables,fh-herbs",
+				"productiontypes": "self_identified_ecological",
+				"infowindow": "\n<strong>Mikes Garden Harvest</strong>\n<br/>436 River Rd, Ottawa, ON, CA, K1V 1E7\n<br/>613-314-3104\n<br/><a href=\"mailto:mike@mikesgardenharvest.com\">mike@mikesgardenharvest.com</a>\n<br/><a target=\"_blank\" href=\"https://twitter.com/MikesHarvest\">https://twitter.com/MikesHarvest</a>\n<br/>twitter: @MikesHarvest\n",
+				"email": "mike@mikesgardenharvest.com",
+				"website": "https://twitter.com/MikesHarvest",
+				"icon": "producers"
+			},
+			{
 				"name": "Big Rig Brewery",
 				"nbid": "18911",
 				"lat": "45.3475215",
@@ -55,7 +100,7 @@
 				"farmtypes": "csa",
 				"favorites": "fv-vegetables",
 				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Big Rig Brewery</strong>\n<br/>2750 Iris St, Ottawa, ON, CA, K2C 3C9\n<br/>613-688-3336\n<br/><a href=\"mailto:info@bigrigbrew.com\">info@bigrigbrew.com</a>\n<br/><a target=\"_blank\" href=\"http://bigrigbrew.com/\">http://bigrigbrew.com/</a>\n<br/>twitter: @BigRigBrewery\n",
+				"infowindow": "\n<strong>Big Rig Brewery</strong>\n<br/>103 Schneider Rd, Ottawa, ON, CA, K2K 1Y3\n<br/>(613) 688-3336\n<br/><a href=\"mailto:info@bigrigbrew.com\">info@bigrigbrew.com</a>\n<br/><a target=\"_blank\" href=\"http://bigrigbrew.com/\">http://bigrigbrew.com/</a>\n<br/>twitter: @BigRigBrewery\n",
 				"email": "info@bigrigbrew.com",
 				"website": "http://bigrigbrew.com/",
 				"icon": "breweries_and_wineries"
@@ -100,7 +145,7 @@
 				"farmtypes": "csa",
 				"favorites": "fs-sweeteners,fh-herbs",
 				"productiontypes": "self_identified_ecological",
-				"infowindow": "\n<strong>Fleurs Gourmandes - Edible Flowers</strong>\n<br/>2390 Concession 3 Rd, Ottawa, ON, CA, K0B 1L0\n<br/>613-355-6950\n<br/><a href=\"mailto:rox@fleursgourmandes.com\">rox@fleursgourmandes.com</a>\n<br/><a target=\"_blank\" href=\"http://www.fleursgourmandes.com/fleursgourmandes.com/index.html\">http://www.fleursgourmandes.com/fleursgourmandes.com/index.html</a>\n",
+				"infowindow": "\n<strong>Fleurs Gourmandes - Edible Flowers</strong>\n<br/>2390 Concession 3 Rd, Ottawa, ON, CA, K0B 1L0\n<br/>613-355-6950\n<br/><a href=\"mailto:rox@fleursgourmandes.com\">rox@fleursgourmandes.com</a>\n<br/><a target=\"_blank\" href=\"http://www.fleursgourmandes.com/fleursgourmandes.com/index.html\">http://www.fleursgourmandes.com/fleursgourmandes.com/index.html</a>\n<br/>twitter: @fleursgourmande\n",
 				"email": "rox@fleursgourmandes.com",
 				"website": "http://www.fleursgourmandes.com/fleursgourmandes.com/index.html",
 				"icon": "producers"
@@ -151,21 +196,6 @@
 				"icon": "producers"
 			},
 			{
-				"name": "Ferme Acer Farms",
-				"nbid": "19576",
-				"lat": "45.43043189999999",
-				"lng": "-74.98719439999999",
-				"orgtype": "producers",
-				"savour": "false",
-				"farmtypes": "csa",
-				"favorites": "fm-meat",
-				"productiontypes": "self_identified_ecological",
-				"infowindow": "\n<strong>Ferme Acer Farms</strong>\n<br/>3155 County Rd 16, Fournier, ON, CA, K0B 1G0\n<br/>613-524-5380\n<br/><a href=\"mailto:acerfarms@hotmail.com\">acerfarms@hotmail.com</a>\n<br/><a target=\"_blank\" href=\"http://www.savourottawa.ca/profiles_en/acer.php\">http://www.savourottawa.ca/profiles_en/acer.php</a>\n",
-				"email": "acerfarms@hotmail.com",
-				"website": "http://www.savourottawa.ca/profiles_en/acer.php",
-				"icon": "producers"
-			},
-			{
 				"name": "Rideau Pines Farm",
 				"nbid": "19578",
 				"lat": "45.1754411",
@@ -173,9 +203,9 @@
 				"orgtype": "producers",
 				"savour": "false",
 				"farmtypes": "csa,pick_your_own",
-				"favorites": "ff-fruit,fv-vegetables,fs-sweeteners",
-				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Rideau Pines Farm</strong>\n<br/>5714 Ch Fourth Line Rd, North Gower, ON, CA, K0A 2T0\n<br/>613-489-3601\n<br/><a href=\"mailto:email@rideaupinesfarm.com\">email@rideaupinesfarm.com</a>\n<br/><a target=\"_blank\" href=\"http://www.rideaupinesfarm.com/\">http://www.rideaupinesfarm.com/</a>\n<br/>twitter: @rideaupinesfarm\n",
+				"favorites": "ff-fruit,fv-vegetables,fg-grain,fs-sweeteners,fh-herbs",
+				"productiontypes": "self_identified_ecological",
+				"infowindow": "\n<strong>Rideau Pines Farm</strong>\n<br/>5714 Ch Fourth Line Rd, North Gower, ON, CA, K0A 2T0\n<br/>(613) 489-3901\n<br/><a href=\"mailto:email@rideaupinesfarm.com\">email@rideaupinesfarm.com</a>\n<br/><a target=\"_blank\" href=\"http://www.rideaupinesfarm.com/\">http://www.rideaupinesfarm.com/</a>\n<br/>twitter: @rideaupinesfarm\n",
 				"email": "email@rideaupinesfarm.com",
 				"website": "http://www.rideaupinesfarm.com/",
 				"icon": "producers"
@@ -190,8 +220,8 @@
 				"farmtypes": "csa",
 				"favorites": "fm-meat,fp-poultry",
 				"productiontypes": "self_identified_ecological",
-				"infowindow": "\n<strong>Alpenblick Farm</strong>\n<br/>8138 Golf Club Way, Ashton, ON, CA, K0A 1B0\n<br/>613-253-2640\n<br/><a href=\"mailto:info@alpenblickfarm.ca\">info@alpenblickfarm.ca</a>\n<br/><a target=\"_blank\" href=\"http://alpenblickfarm.ca/\">http://alpenblickfarm.ca/</a>\n",
-				"email": "info@alpenblickfarm.ca",
+				"infowindow": "\n<strong>Alpenblick Farm</strong>\n<br/>8138 Golf Club Way, Ashton, ON, CA, K0A 1B0\n<br/>613-253-2640\n<br/><a href=\"mailto:alpenblickfarm@sympatico.ca\">alpenblickfarm@sympatico.ca</a>\n<br/><a target=\"_blank\" href=\"http://alpenblickfarm.ca/\">http://alpenblickfarm.ca/</a>\n",
+				"email": "alpenblickfarm@sympatico.ca",
 				"website": "http://alpenblickfarm.ca/",
 				"icon": "producers"
 			},
@@ -205,24 +235,9 @@
 				"farmtypes": "csa",
 				"favorites": "ff-fruit,fv-vegetables,fg-grain,fm-meat,fp-poultry,fs-sweeteners",
 				"productiontypes": "self_identified_ecological",
-				"infowindow": "\n<strong>Rock-N-Horse Farm</strong>\n<br/>1267 Rae Road RR2, Almonte, ON, CA, K0A 1A0\n<br/>613-256-6117\n<br/><a href=\"mailto:am.sheets@hotmail.com\">am.sheets@hotmail.com</a>\n<br/><a target=\"_blank\" href=\"http://www.rocknhorsefarm.ca/\">http://www.rocknhorsefarm.ca/</a>\n",
-				"email": "am.sheets@hotmail.com",
+				"infowindow": "\n<strong>Rock-N-Horse Farm</strong>\n<br/>1267 Rae Road RR2, Almonte, ON, CA, K0A 1A0\n<br/>613-256-6117\n<br/><a href=\"mailto:diane@rocknhorsefarm.ca\">diane@rocknhorsefarm.ca</a>\n<br/><a target=\"_blank\" href=\"http://www.rocknhorsefarm.ca/\">http://www.rocknhorsefarm.ca/</a>\n",
+				"email": "diane@rocknhorsefarm.ca",
 				"website": "http://www.rocknhorsefarm.ca/",
-				"icon": "producers"
-			},
-			{
-				"name": "Amstutz Beef Farm",
-				"nbid": "19584",
-				"lat": "45.2997024",
-				"lng": "-74.5024746",
-				"orgtype": "producers",
-				"savour": "false",
-				"farmtypes": "csa",
-				"favorites": "fm-meat",
-				"productiontypes": "self_identified_ecological",
-				"infowindow": "\n<strong>Amstutz Beef Farm</strong>\n<br/>4165 3rd Line Rd, North Lancaster, ON, CA, K0C 1Z0\n<br/>613-347-1124\n<br/><a href=\"mailto:amstutz@distributel.net\">amstutz@distributel.net</a>\n",
-				"email": "amstutz@distributel.net",
-				"website": "",
 				"icon": "producers"
 			},
 			{
@@ -241,18 +256,18 @@
 				"icon": "producers"
 			},
 			{
-				"name": "Aubin Farm",
+				"name": "Fair Sun Farm",
 				"nbid": "19591",
 				"lat": "44.83240139999999",
 				"lng": "-75.560815",
 				"orgtype": "producers",
 				"savour": "false",
 				"farmtypes": "csa",
-				"favorites": "ff-fruit,fv-vegetables,fg-grain,fm-meat,fp-poultry,fs-sweeteners",
+				"favorites": "fv-vegetables,fg-grain,fm-meat",
 				"productiontypes": "certorg",
-				"infowindow": "\n<strong>Aubin Farm</strong>\n<br/>3015 County Road 21, Spencerville, ON, CA, K0E 1X0\n<br/>6136585721\n<br/><a href=\"mailto:aubinfarm@aol.com\">aubinfarm@aol.com</a>\n<br/><a target=\"_blank\" href=\"http://www.aubinfarm.com/\">http://www.aubinfarm.com/</a>\n",
-				"email": "aubinfarm@aol.com",
-				"website": "http://www.aubinfarm.com/",
+				"infowindow": "\n<strong>Fair Sun Farm</strong>\n<br/>3015 County Road 21, Spencerville, ON, CA, K0E 1X0\n<br/>(613) 914-5572\n<br/><a href=\"mailto:contact@fairsunfarm.ca\">contact@fairsunfarm.ca</a>\n<br/><a target=\"_blank\" href=\"https://www.fairsunfarm.ca/\">https://www.fairsunfarm.ca/</a>\n",
+				"email": "contact@fairsunfarm.ca",
+				"website": "https://www.fairsunfarm.ca/",
 				"icon": "producers"
 			},
 			{
@@ -280,7 +295,7 @@
 				"farmtypes": "csa",
 				"favorites": "fm-meat",
 				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Ferme Brylee Farm</strong>\n<br/>524 QC-317, Thurso, QC, CA, J0X 3B0\n<br/>(819) 985-3882\n<br/><a href=\"mailto:b.maloney@sympatico.ca\">b.maloney@sympatico.ca</a>\n<br/><a target=\"_blank\" href=\"http://fermebrylee.ca/en/\">http://fermebrylee.ca/en/</a>\n",
+				"infowindow": "\n<strong>Ferme Brylee Farm</strong>\n<br/>524 route 317, Thurso, QC, CA, J0X 3B0\n<br/>(819) 985-3882\n<br/><a href=\"mailto:b.maloney@sympatico.ca\">b.maloney@sympatico.ca</a>\n<br/><a target=\"_blank\" href=\"http://fermebrylee.ca/en/\">http://fermebrylee.ca/en/</a>\n<br/>twitter: @FermeBrylee\n",
 				"email": "b.maloney@sympatico.ca",
 				"website": "http://fermebrylee.ca/en/",
 				"icon": "retailer"
@@ -310,9 +325,9 @@
 				"farmtypes": "csa",
 				"favorites": "ff-fruit,fv-vegetables,fg-grain,fs-sweeteners",
 				"productiontypes": "self_identified_ecological",
-				"infowindow": "\n<strong>Barkleys Apple Orchard</strong>\n<br/>5366 Robertson Rd, Morrisburg, ON, CA, K0C 1X0\n<br/>613-543-0491\n<br/><a href=\"mailto:billb.otr@gmail.com\">billb.otr@gmail.com</a>\n<br/><a target=\"_blank\" href=\"http://www.magma.ca/~barkhm5/\">http://www.magma.ca/~barkhm5/</a>\n",
+				"infowindow": "\n<strong>Barkleys Apple Orchard</strong>\n<br/>5366 Robertson Rd, Morrisburg, ON, CA, K0C 1X0\n<br/>613-543-0491\n<br/><a href=\"mailto:billb.otr@gmail.com\">billb.otr@gmail.com</a>\n<br/><a target=\"_blank\" href=\"https://www.barkleysappleorchard.com/\">https://www.barkleysappleorchard.com/</a>\n",
 				"email": "billb.otr@gmail.com",
-				"website": "http://www.magma.ca/~barkhm5/",
+				"website": "https://www.barkleysappleorchard.com/",
 				"icon": "producers"
 			},
 			{
@@ -328,21 +343,6 @@
 				"infowindow": "\n<strong>Bayview Farm</strong>\n<br/>332 Route 148, Lochaber, QC, CA, J0X 3B0\n<br/>819-985-0421\n<br/><a href=\"mailto:gailbigstein@gmail.com\">gailbigstein@gmail.com</a>\n<br/><a target=\"_blank\" href=\"http://www.bayviewfarm.ca/\">http://www.bayviewfarm.ca/</a>\n",
 				"email": "gailbigstein@gmail.com",
 				"website": "http://www.bayviewfarm.ca/",
-				"icon": "producers"
-			},
-			{
-				"name": "Booth Boys Barn",
-				"nbid": "19599",
-				"lat": "44.9664959",
-				"lng": "-75.5123744",
-				"orgtype": "producers",
-				"savour": "false",
-				"farmtypes": "csa",
-				"favorites": "fm-meat,fp-poultry",
-				"productiontypes": "self_identified_ecological",
-				"infowindow": "\n<strong>Booth Boys Barn</strong>\n<br/>402 Dillabaugh Rd, Kemptville, ON, CA, K0G 1J0\n<br/>613-989-1608\n<br/><a href=\"mailto:bbb@boothboysbarn.ca\">bbb@boothboysbarn.ca</a>\n<br/><a target=\"_blank\" href=\"http://www.boothboysbarn.ca/\">http://www.boothboysbarn.ca/</a>\n",
-				"email": "bbb@boothboysbarn.ca",
-				"website": "http://www.boothboysbarn.ca/",
 				"icon": "producers"
 			},
 			{
@@ -368,26 +368,11 @@
 				"orgtype": "producers",
 				"savour": "false",
 				"farmtypes": "csa,pick_your_own",
-				"favorites": "ff-fruit",
+				"favorites": "ff-fruit,fv-vegetables",
 				"productiontypes": "conventional",
 				"infowindow": "\n<strong>Shar-Way Berry Farm</strong>\n<br/>6446 Prince of Wales Dr, North Gower, ON, CA, K0A 2T0\n<br/>613-489-3265\n<br/><a href=\"mailto:berryman@sympatico.ca\">berryman@sympatico.ca</a>\n<br/><a target=\"_blank\" href=\"http://northgower.tripod.com/business/sharway.htm\">http://northgower.tripod.com/business/sharway.htm</a>\n",
 				"email": "berryman@sympatico.ca",
 				"website": "http://northgower.tripod.com/business/sharway.htm",
-				"icon": "producers"
-			},
-			{
-				"name": "Ferme Big Rock Farm",
-				"nbid": "19608",
-				"lat": "45.4791509",
-				"lng": "-75.8696138",
-				"orgtype": "producers",
-				"savour": "false",
-				"farmtypes": "csa",
-				"favorites": "fm-meat",
-				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Ferme Big Rock Farm</strong>\n<br/>45 Kelly Rd, Gatineau, QC, CA, J9J 3R8\n<br/>819-827-5531\n<br/><a href=\"mailto:bigrockfarm@hotmail.com\">bigrockfarm@hotmail.com</a>\n<br/><a target=\"_blank\" href=\"https://www.facebook.com/bigrockfarm\">https://www.facebook.com/bigrockfarm</a>\n",
-				"email": "bigrockfarm@hotmail.com",
-				"website": "https://www.facebook.com/bigrockfarm",
 				"icon": "producers"
 			},
 			{
@@ -415,8 +400,8 @@
 				"farmtypes": "csa",
 				"favorites": "fm-meat",
 				"productiontypes": "self_identified_ecological",
-				"infowindow": "\n<strong>Milkhouse Farm &amp; Dairy</strong>\n<br/>1112 Matheson Dr, Smiths Falls, ON, CA, K7A 5B8\n<br/>613-285-9250\n<br/><a href=\"mailto:cait@milkhouse.ca\">cait@milkhouse.ca</a>\n<br/><a target=\"_blank\" href=\"http://www.milkhouse.ca/\">http://www.milkhouse.ca/</a>\n",
-				"email": "cait@milkhouse.ca",
+				"infowindow": "\n<strong>Milkhouse Farm &amp; Dairy</strong>\n<br/>1112 Matheson Dr, Smiths Falls, ON, CA, K7A 5B8\n<br/>613-285-9250\n<br/><a href=\"mailto:kyle@milkhouse.ca\">kyle@milkhouse.ca</a>\n<br/><a target=\"_blank\" href=\"http://www.milkhouse.ca/\">http://www.milkhouse.ca/</a>\n",
+				"email": "kyle@milkhouse.ca",
 				"website": "http://www.milkhouse.ca/",
 				"icon": "producers"
 			},
@@ -428,11 +413,11 @@
 				"orgtype": "producers",
 				"savour": "false",
 				"farmtypes": "csa",
-				"favorites": "fm-meat",
-				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Ferme Ouellette Farm</strong>\n<br/>4248 Wolf Grove Rd, Lanark, ON, CA, K0G 1K0\n<br/>613-383-0482\n<br/><a href=\"mailto:farm@ouellette.ca\">farm@ouellette.ca</a>\n",
+				"favorites": "fm-meat,fp-poultry",
+				"productiontypes": "self_identified_ecological",
+				"infowindow": "\n<strong>Ferme Ouellette Farm</strong>\n<br/>4248 Wolf Grove Rd, Lanark, ON, CA, K0G 1K0\n<br/>(613) 250-0628\n<br/><a href=\"mailto:farm@ouellette.ca\">farm@ouellette.ca</a>\n<br/><a target=\"_blank\" href=\"http://www.ouellette.ca/\">http://www.ouellette.ca/</a>\n<br/>twitter: @ouellette_farm\n",
 				"email": "farm@ouellette.ca",
-				"website": "",
+				"website": "http://www.ouellette.ca/",
 				"icon": "producers"
 			},
 			{
@@ -449,21 +434,6 @@
 				"email": "castorriverfarm@gmail.com",
 				"website": "http://castorriverfarm.ca/",
 				"icon": "producers"
-			},
-			{
-				"name": "Hobbs Family Farm",
-				"nbid": "19622",
-				"lat": "45.1605236",
-				"lng": "-75.9883083",
-				"orgtype": "foodservices,producers",
-				"savour": "false",
-				"farmtypes": "csa",
-				"favorites": "fm-meat",
-				"productiontypes": "self_identified_ecological",
-				"infowindow": "\n<strong>Hobbs Family Farm</strong>\n<br/>2394 Dwyer Hill Rd, Ottawa, ON, CA, K0A 1B0\n<br/>(613) 253-0985\n<br/><a href=\"mailto:chobbs@xplornet.com\">chobbs@xplornet.com</a>\n<br/><a target=\"_blank\" href=\"https://www.facebook.com/Hobbs-Family-Meats-and-Bakery-658069154227685/\">https://www.facebook.com/Hobbs-Family-Meats-and-Bakery-658069154227685/</a>\n<br/>twitter: @HobbsFamilyMeat\n",
-				"email": "chobbs@xplornet.com",
-				"website": "https://www.facebook.com/Hobbs-Family-Meats-and-Bakery-658069154227685/",
-				"icon": "foodservices"
 			},
 			{
 				"name": "Le Vignoble du Clos Baillie",
@@ -563,8 +533,8 @@
 				"orgtype": "producers",
 				"savour": "false",
 				"farmtypes": "csa",
-				"favorites": "fs-sweeteners",
-				"productiontypes": "conventional",
+				"favorites": "fv-vegetables,fs-sweeteners",
+				"productiontypes": "certorg",
 				"infowindow": "\n<strong>Forest Farm</strong>\n<br/>9874 Canoe Lake Rd, Godfrey, ON, CA, K0H 1T0\n<br/>(613) 273-5545\n<br/><a href=\"mailto:dhahn@rideau.net\">dhahn@rideau.net</a>\n<br/><a target=\"_blank\" href=\"http://www.forestfarm.wordpress.com/\">http://www.forestfarm.wordpress.com/</a>\n<br/>twitter: @FarmerHahn\n",
 				"email": "dhahn@rideau.net",
 				"website": "http://www.forestfarm.wordpress.com/",
@@ -593,26 +563,11 @@
 				"orgtype": "producers,microprocessor",
 				"savour": "false",
 				"farmtypes": "csa",
-				"favorites": "fv-vegetables",
+				"favorites": "fv-vegetables,fs-sweeteners",
 				"productiontypes": "conventional",
-				"infowindow": "\n<strong>El Camino Farm</strong>\n<br/>141 Chemin Malone, Chapeau, QC, CA, J0X 1M0\n<br/>819-689-5680\n<br/><a href=\"mailto:12ruederussie@xplornet.ca\">12ruederussie@xplornet.ca</a>\n<br/><a target=\"_blank\" href=\"http://www.ottawavalleyfood.org/shopping/producers/27-shopping/our-producers/54-el-camino-farm\">http://www.ottawavalleyfood.org/shopping/producers/27-shopping/our-producers/54-el-camino-farm</a>\n",
+				"infowindow": "\n<strong>El Camino Farm</strong>\n<br/>141 Chemin Malone, Chapeau, QC, CA, J0X 1M0\n<br/>819-689-5680\n<br/><a href=\"mailto:12ruederussie@xplornet.ca\">12ruederussie@xplornet.ca</a>\n<br/><a target=\"_blank\" href=\"https://pembrokefarmersmarket.com/pfm_vendor/el-camino-farm/\">https://pembrokefarmersmarket.com/pfm_vendor/el-camino-farm/</a>\n",
 				"email": "12ruederussie@xplornet.ca",
-				"website": "http://www.ottawavalleyfood.org/shopping/producers/27-shopping/our-producers/54-el-camino-farm",
-				"icon": "producers"
-			},
-			{
-				"name": "Elm Tree Farm",
-				"nbid": "19659",
-				"lat": "44.687957",
-				"lng": "-77.013162",
-				"orgtype": "producers",
-				"savour": "false",
-				"farmtypes": "csa",
-				"favorites": "fv-vegetables",
-				"productiontypes": "self_identified_ecological",
-				"infowindow": "\n<strong>Elm Tree Farm</strong>\n<br/>1090 Hayes Rd, Arden, ON, CA, K0H 1B0\n<br/>613-335-3361\n<br/><a href=\"mailto:elmtree@kos.net\">elmtree@kos.net</a>\n<br/><a target=\"_blank\" href=\"http://www.elmtreefarm.ca/\">http://www.elmtreefarm.ca/</a>\n",
-				"email": "elmtree@kos.net",
-				"website": "http://www.elmtreefarm.ca/",
+				"website": "https://pembrokefarmersmarket.com/pfm_vendor/el-camino-farm/",
 				"icon": "producers"
 			},
 			{
@@ -625,8 +580,8 @@
 				"farmtypes": "csa",
 				"favorites": "ff-fruit,fv-vegetables",
 				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Jardins FC Drouin Gardens</strong>\n<br/>1226 Concession Road 10, Curran, ON, CA, K0B 1C0\n<br/>(613) 673-3094\n<br/><a href=\"mailto:f.c.drouin@xplornet.com\">f.c.drouin@xplornet.com</a>\n<br/><a target=\"_blank\" href=\"http://savourottawa.ca/fc-drouin-gardens/\">http://savourottawa.ca/fc-drouin-gardens/</a>\n",
-				"email": "f.c.drouin@xplornet.com",
+				"infowindow": "\n<strong>Jardins FC Drouin Gardens</strong>\n<br/>1226 Concession Road 10, Curran, ON, CA, K0B 1C0\n<br/>(613) 673-3094\n<br/><a href=\"mailto:f.c.drouin@bell.net\">f.c.drouin@bell.net</a>\n<br/><a target=\"_blank\" href=\"http://savourottawa.ca/fc-drouin-gardens/\">http://savourottawa.ca/fc-drouin-gardens/</a>\n",
+				"email": "f.c.drouin@bell.net",
 				"website": "http://savourottawa.ca/fc-drouin-gardens/",
 				"icon": "producers"
 			},
@@ -685,7 +640,7 @@
 				"farmtypes": "csa",
 				"favorites": "fs-sweeteners",
 				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Garland Sugar Shack</strong>\n<br/>5930 Garland Sideroad, Cumberland, ON, CA, K4B 1S9\n<br/>613-835-3362\n<br/><a href=\"mailto:garlandsugarshack@gmail.com\">garlandsugarshack@gmail.com</a>\n<br/><a target=\"_blank\" href=\"http://www.garlandsugarshack.ca/\">http://www.garlandsugarshack.ca/</a>\n",
+				"infowindow": "\n<strong>Garland Sugar Shack</strong>\n<br/>5930 Garland Sideroad, Cumberland, ON, CA, K4B 1S9\n<br/>(613) 835-3362\n<br/><a href=\"mailto:garlandsugarshack@gmail.com\">garlandsugarshack@gmail.com</a>\n<br/><a target=\"_blank\" href=\"http://www.garlandsugarshack.ca/\">http://www.garlandsugarshack.ca/</a>\n",
 				"email": "garlandsugarshack@gmail.com",
 				"website": "http://www.garlandsugarshack.ca/",
 				"icon": "producers"
@@ -751,21 +706,6 @@
 				"icon": "producers"
 			},
 			{
-				"name": "Valleyview Little Animal Farm",
-				"nbid": "19691",
-				"lat": "45.266505",
-				"lng": "-75.80978",
-				"orgtype": "producers",
-				"savour": "false",
-				"farmtypes": "csa",
-				"favorites": "fv-vegetables",
-				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Valleyview Little Animal Farm</strong>\n<br/>4750 Ch Fallowfield Rd, Nepean, ON, CA, K2J 4S4\n<br/>613-591-1126\n<br/><a href=\"mailto:heatherbrophy@live.ca\">heatherbrophy@live.ca</a>\n<br/><a target=\"_blank\" href=\"http://www.valleyviewlittleanimalfarm.com/\">http://www.valleyviewlittleanimalfarm.com/</a>\n",
-				"email": "heatherbrophy@live.ca",
-				"website": "http://www.valleyviewlittleanimalfarm.com/",
-				"icon": "producers"
-			},
-			{
 				"name": "Pork of Yore",
 				"nbid": "19699",
 				"lat": "45.4370509",
@@ -775,9 +715,9 @@
 				"farmtypes": "csa",
 				"favorites": "fm-meat",
 				"productiontypes": "self_identified_ecological",
-				"infowindow": "\n<strong>Pork of Yore</strong>\n<br/>1632 Scotch Bush Rd, Douglas, ON, CA, K0J 1S0\n<br/>613-649-0076\n<br/><a href=\"mailto:heritagepork@porkofyore.com\">heritagepork@porkofyore.com</a>\n<br/>twitter: @Pork_of_Yore\n",
+				"infowindow": "\n<strong>Pork of Yore</strong>\n<br/>1632 Scotch Bush Rd, Douglas, ON, CA, K0J 1S0\n<br/>613-649-0076\n<br/><a href=\"mailto:heritagepork@porkofyore.com\">heritagepork@porkofyore.com</a>\n<br/><a target=\"_blank\" href=\"http://lanarklocalflavour.ca/content/pork-yore\">http://lanarklocalflavour.ca/content/pork-yore</a>\n<br/>twitter: @Pork_of_Yore\n",
 				"email": "heritagepork@porkofyore.com",
-				"website": "",
+				"website": "http://lanarklocalflavour.ca/content/pork-yore",
 				"icon": "producers"
 			},
 			{
@@ -878,26 +818,11 @@
 				"orgtype": "producers",
 				"savour": "false",
 				"farmtypes": "csa",
-				"favorites": "fv-vegetables",
+				"favorites": "ff-fruit,fv-vegetables",
 				"productiontypes": "self_identified_ecological",
-				"infowindow": "\n<strong>Ferme Emabel Farm</strong>\n<br/>430 River Rd, Ottawa, ON, CA, K1V 1E7\n<br/>613-407-7715\n<br/><a href=\"mailto:info@emabel.ca\">info@emabel.ca</a>\n<br/><a target=\"_blank\" href=\"http://www.savourezottawa.ca/ferme-emabel/\">http://www.savourezottawa.ca/ferme-emabel/</a>\n",
+				"infowindow": "\n<strong>Ferme Emabel Farm</strong>\n<br/>430 River Rd, Ottawa, ON, CA, K1V 1E7\n<br/>613-407-7715\n<br/><a href=\"mailto:info@emabel.ca\">info@emabel.ca</a>\n<br/><a target=\"_blank\" href=\"http://emabel.weebly.com/\">http://emabel.weebly.com/</a>\n",
 				"email": "info@emabel.ca",
-				"website": "http://www.savourezottawa.ca/ferme-emabel/",
-				"icon": "producers"
-			},
-			{
-				"name": "Flood Road Farm",
-				"nbid": "19714",
-				"lat": "45.0284724",
-				"lng": "-75.8325344",
-				"orgtype": "producers",
-				"savour": "false",
-				"farmtypes": "csa",
-				"favorites": "fm-meat",
-				"productiontypes": "self_identified_ecological",
-				"infowindow": "\n<strong>Flood Road Farm</strong>\n<br/>4277 Flood Rd, Smiths Falls, ON, CA, K7A 4S6\n<br/>613-283-6044\n<br/><a href=\"mailto:info@floodroadfarm.ca\">info@floodroadfarm.ca</a>\n<br/><a target=\"_blank\" href=\"http://www.savourottawa.ca/profiles_en/flood_road.php\">http://www.savourottawa.ca/profiles_en/flood_road.php</a>\n",
-				"email": "info@floodroadfarm.ca",
-				"website": "http://www.savourottawa.ca/profiles_en/flood_road.php",
+				"website": "http://emabel.weebly.com/",
 				"icon": "producers"
 			},
 			{
@@ -914,21 +839,6 @@
 				"email": "info@fosterfamilyfarm.ca",
 				"website": "http://www.fosterfamilyfarm.ca/",
 				"icon": "producers"
-			},
-			{
-				"name": "Fultons Pancake House and Sugar Bush",
-				"nbid": "19716",
-				"lat": "45.2476607",
-				"lng": "-76.31161759999999",
-				"orgtype": "retailer,foodservices,producers,microprocessor",
-				"savour": "false",
-				"farmtypes": "csa",
-				"favorites": "fs-sweeteners",
-				"productiontypes": "certorg",
-				"infowindow": "\n<strong>Fultons Pancake House and Sugar Bush</strong>\n<br/>399 Sugar Bush Rd, Pakenham, ON, CA, K0A 2X0\n<br/>613-256-3867\n<br/><a href=\"mailto:info@fultons.ca\">info@fultons.ca</a>\n<br/><a target=\"_blank\" href=\"http://www.fultons.ca/\">http://www.fultons.ca/</a>\n",
-				"email": "info@fultons.ca",
-				"website": "http://www.fultons.ca/",
-				"icon": "retailer"
 			},
 			{
 				"name": "Glengarry Fine Cheese",
@@ -955,8 +865,8 @@
 				"farmtypes": "csa",
 				"favorites": "fm-meat",
 				"productiontypes": "self_identified_ecological",
-				"infowindow": "\n<strong>Grazing Days</strong>\n<br/>567 Rang Sainte Julie E, Saint-Andre-Avellin, QC, CA, J0V 1W0\n<br/>819-516-0600\n<br/><a href=\"mailto:info@grazingdays.com\">info@grazingdays.com</a>\n<br/><a target=\"_blank\" href=\"http://www.grazingdays.ca/\">http://www.grazingdays.ca/</a>\n",
-				"email": "info@grazingdays.com",
+				"infowindow": "\n<strong>Grazing Days</strong>\n<br/>567 Rang Sainte Julie E, Saint-Andre-Avellin, QC, CA, J0V 1W0\n<br/>819-516-0600\n<br/><a href=\"mailto:info@grazingdays.ca\">info@grazingdays.ca</a>\n<br/><a target=\"_blank\" href=\"http://www.grazingdays.ca/\">http://www.grazingdays.ca/</a>\n",
+				"email": "info@grazingdays.ca",
 				"website": "http://www.grazingdays.ca/",
 				"icon": "producers"
 			},
@@ -984,9 +894,9 @@
 				"savour": "false",
 				"farmtypes": "csa",
 				"favorites": "fm-meat",
-				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Fromagerie les folies bergères</strong>\n<br/>995 route 317, St-Sixte, QC, CA, J0X 3B0\n<br/>819-983-4010\n<br/><a href=\"mailto:info@lafromagerielesfoliesbergeres.ca\">info@lafromagerielesfoliesbergeres.ca</a>\n<br/><a target=\"_blank\" href=\"http://www.lafromagerielesfoliesbergeres.ca/\">http://www.lafromagerielesfoliesbergeres.ca/</a>\n",
-				"email": "info@lafromagerielesfoliesbergeres.ca",
+				"productiontypes": "self_identified_ecological",
+				"infowindow": "\n<strong>Fromagerie les folies bergères</strong>\n<br/>995 route 317, St-Sixte, QC, CA, J0X 3B0\n<br/>819-983-4010\n<br/><a href=\"mailto:ewelady@hotmail.com\">ewelady@hotmail.com</a>\n<br/><a target=\"_blank\" href=\"http://www.lafromagerielesfoliesbergeres.ca/\">http://www.lafromagerielesfoliesbergeres.ca/</a>\n",
+				"email": "ewelady@hotmail.com",
 				"website": "http://www.lafromagerielesfoliesbergeres.ca/",
 				"icon": "producers"
 			},
@@ -1006,36 +916,6 @@
 				"icon": "producers"
 			},
 			{
-				"name": "The Log Farm",
-				"nbid": "19728",
-				"lat": "45.2964053",
-				"lng": "-75.7917806",
-				"orgtype": "producers",
-				"savour": "false",
-				"farmtypes": "csa",
-				"favorites": "fs-sweeteners",
-				"productiontypes": "conventional",
-				"infowindow": "\n<strong>The Log Farm</strong>\n<br/>670 Cedarview Rd, Ottawa, ON, CA, K2R 1E5\n<br/>(613)913-4929\n<br/><a href=\"mailto:thelogfarm@rogers.com\">thelogfarm@rogers.com</a>\n<br/><a target=\"_blank\" href=\"https://thelogfarm.com/\">https://thelogfarm.com/</a>\n",
-				"email": "thelogfarm@rogers.com",
-				"website": "https://thelogfarm.com/",
-				"icon": "producers"
-			},
-			{
-				"name": "Living Pastures",
-				"nbid": "19730",
-				"lat": "45.12533370000001",
-				"lng": "-74.7668516",
-				"orgtype": "producers",
-				"savour": "false",
-				"farmtypes": "csa",
-				"favorites": "fm-meat,fp-poultry",
-				"productiontypes": "self_identified_ecological",
-				"infowindow": "\n<strong>Living Pastures</strong>\n<br/>17829 Island Rd, Martintown, ON, CA, K0C 1S0\n<br/>613-662-7238\n<br/><a href=\"mailto:info@peasantscraft.ca\">info@peasantscraft.ca</a>\n<br/><a target=\"_blank\" href=\"http://www.peasantscraft.ca/\">http://www.peasantscraft.ca/</a>\n<br/>twitter: @PeasantsCraft\n",
-				"email": "info@peasantscraft.ca",
-				"website": "http://www.peasantscraft.ca/",
-				"icon": "producers"
-			},
-			{
 				"name": "Trillium Meadows",
 				"nbid": "19735",
 				"lat": "45.5168455",
@@ -1048,21 +928,6 @@
 				"infowindow": "\n<strong>Trillium Meadows</strong>\n<br/>1814 Beauchesne Rd, Vankleek Hill, ON, CA, K0B 1R0\n<br/>613 678 1679\n<br/><a href=\"mailto:m.h.lindenmann@sympatico.ca\">m.h.lindenmann@sympatico.ca</a>\n<br/><a target=\"_blank\" href=\"http://trilliummeadows.ca/\">http://trilliummeadows.ca/</a>\n<br/>twitter: @TrilliumMeadows\n",
 				"email": "m.h.lindenmann@sympatico.ca",
 				"website": "http://trilliummeadows.ca/",
-				"icon": "producers"
-			},
-			{
-				"name": "Wildrose Country Homestead",
-				"nbid": "19736",
-				"lat": "45.1694964",
-				"lng": "-76.4188622",
-				"orgtype": "producers",
-				"savour": "false",
-				"farmtypes": "csa",
-				"favorites": "fm-meat",
-				"productiontypes": "self_identified_ecological",
-				"infowindow": "\n<strong>Wildrose Country Homestead</strong>\n<br/>345 9th Conc Darling, Clayton, ON, CA, K0A 1P0\n<br/>613-256-5011\n<br/><a href=\"mailto:goats.n.soaps@gmail.com\">goats.n.soaps@gmail.com</a>\n<br/><a target=\"_blank\" href=\"http://www.wildrosecountryhomestead.com/\">http://www.wildrosecountryhomestead.com/</a>\n",
-				"email": "goats.n.soaps@gmail.com",
-				"website": "http://www.wildrosecountryhomestead.com/",
 				"icon": "producers"
 			},
 			{
@@ -1090,9 +955,9 @@
 				"farmtypes": "csa",
 				"favorites": "fv-vegetables,fg-grain,fh-herbs",
 				"productiontypes": "self_identified_ecological",
-				"infowindow": "\n<strong>Jambican Studio Gardens</strong>\n<br/>2969 River Rd, Manotick, ON, CA, K4M 1B4\n<br/>613-826-9958\n<br/><a href=\"mailto:jambican@xplornet.com\">jambican@xplornet.com</a>\n<br/><a target=\"_blank\" href=\"http://jambican.blogspot.ca/\">http://jambican.blogspot.ca/</a>\n<br/>twitter: @jambican\n",
-				"email": "jambican@xplornet.com",
-				"website": "http://jambican.blogspot.ca/",
+				"infowindow": "\n<strong>Jambican Studio Gardens</strong>\n<br/>2969 River Rd, Manotick, ON, CA, K4M 1B4\n<br/>613-299-9183\n<br/><a href=\"mailto:jambicansg@gmail.com\">jambicansg@gmail.com</a>\n<br/><a target=\"_blank\" href=\"http://jambican.ca/en/\">http://jambican.ca/en/</a>\n<br/>twitter: @jambican\n",
+				"email": "jambicansg@gmail.com",
+				"website": "http://jambican.ca/en/",
 				"icon": "producers"
 			},
 			{
@@ -1150,7 +1015,7 @@
 				"farmtypes": "csa",
 				"favorites": "ff-fruit,fv-vegetables",
 				"productiontypes": "certorg",
-				"infowindow": "\n<strong>Roots Down Organic Farm</strong>\n<br/>145 Taylor Rd W, Ganonoque, ON, CA, K7G 2V3\n<br/>(613) 532-0581\n<br/><a href=\"mailto:jeff@rootsdown.ca\">jeff@rootsdown.ca</a>\n<br/><a target=\"_blank\" href=\"http://www.rootsdown.ca/\">http://www.rootsdown.ca/</a>\n",
+				"infowindow": "\n<strong>Roots Down Organic Farm</strong>\n<br/>145 Taylor Rd W, Ganonoque, ON, CA, K7G 2V3\n<br/>(613) 532-0581\n<br/><a href=\"mailto:jeff@rootsdown.ca\">jeff@rootsdown.ca</a>\n<br/><a target=\"_blank\" href=\"http://www.rootsdown.ca/\">http://www.rootsdown.ca/</a>\n<br/>twitter: @rootsdownfarm\n",
 				"email": "jeff@rootsdown.ca",
 				"website": "http://www.rootsdown.ca/",
 				"icon": "producers"
@@ -1210,9 +1075,9 @@
 				"farmtypes": "csa",
 				"favorites": "fv-vegetables,fg-grain,fm-meat,fp-poultry",
 				"productiontypes": "certorg",
-				"infowindow": "\n<strong>Ferme Morgan</strong>\n<br/>90 Morgan Rd, Montcalm, QC, CA, J0T 2V0\n<br/>819-687-2434\n<br/><a href=\"mailto:john@fermemorgan.com\">john@fermemorgan.com</a>\n<br/><a target=\"_blank\" href=\"http://www.fermemorgan.com/orders/\">http://www.fermemorgan.com/orders/</a>\n",
-				"email": "john@fermemorgan.com",
-				"website": "http://www.fermemorgan.com/orders/",
+				"infowindow": "\n<strong>Ferme Morgan</strong>\n<br/>90 Morgan Rd, Montcalm, QC, CA, J0T 2V0\n<br/>819-687-2434\n<br/><a href=\"mailto:tn@nrgcanada.com\">tn@nrgcanada.com</a>\n<br/><a target=\"_blank\" href=\"http://www.fermemorgan.com/\">http://www.fermemorgan.com/</a>\n",
+				"email": "tn@nrgcanada.com",
+				"website": "http://www.fermemorgan.com/",
 				"icon": "producers"
 			},
 			{
@@ -1231,51 +1096,6 @@
 				"icon": "producers"
 			},
 			{
-				"name": "Back to the Land Gardens",
-				"nbid": "19767",
-				"lat": "44.8637078",
-				"lng": "-75.7150284",
-				"orgtype": "producers",
-				"savour": "false",
-				"farmtypes": "csa",
-				"favorites": "ff-fruit,fv-vegetables",
-				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Back to the Land Gardens</strong>\n<br/>1071 Bolton Rd, Merrickville, ON, CA, K0G 1N0\n<br/>613-227-9298\n<br/><a href=\"mailto:kbesharah@hotmail.com\">kbesharah@hotmail.com</a>\n",
-				"email": "kbesharah@hotmail.com",
-				"website": "",
-				"icon": "producers"
-			},
-			{
-				"name": "Kellgreen Organic Farm",
-				"nbid": "19768",
-				"lat": "45.18457780000001",
-				"lng": "-75.62688179999999",
-				"orgtype": "producers",
-				"savour": "false",
-				"farmtypes": "csa",
-				"favorites": "fm-meat,fp-poultry",
-				"productiontypes": "certorg",
-				"infowindow": "\n<strong>Kellgreen Organic Farm</strong>\n<br/>2325 River Rd, Manotick, ON, CA, K4M 1B4\n<br/>613-692-4129\n<br/><a href=\"mailto:kellgreenfarm@kellgreenfarm.com\">kellgreenfarm@kellgreenfarm.com</a>\n<br/><a target=\"_blank\" href=\"http://www.kellgreenfarm.com/\">http://www.kellgreenfarm.com/</a>\n",
-				"email": "kellgreenfarm@kellgreenfarm.com",
-				"website": "http://www.kellgreenfarm.com/",
-				"icon": "producers"
-			},
-			{
-				"name": "Kinburn Farms",
-				"nbid": "19774",
-				"lat": "45.3788701",
-				"lng": "-76.1670977",
-				"orgtype": "producers",
-				"savour": "false",
-				"farmtypes": "csa",
-				"favorites": "fm-meat",
-				"productiontypes": "self_identified_ecological",
-				"infowindow": "\n<strong>Kinburn Farms</strong>\n<br/>2808 Donald B Munro Dr, Kinburn, ON, CA, K0A 2H0\n<br/>613-839-0658\n<br/><a href=\"mailto:kinburnfarms@hotmail.ca\">kinburnfarms@hotmail.ca</a>\n<br/><a target=\"_blank\" href=\"http://www.kinburnfarms.com/\">http://www.kinburnfarms.com/</a>\n<br/>twitter: @KinburnFarms\n",
-				"email": "kinburnfarms@hotmail.ca",
-				"website": "http://www.kinburnfarms.com/",
-				"icon": "producers"
-			},
-			{
 				"name": "Kiwan Farms",
 				"nbid": "19775",
 				"lat": "45.3767769",
@@ -1283,7 +1103,7 @@
 				"orgtype": "producers",
 				"savour": "false",
 				"farmtypes": "csa",
-				"favorites": "fv-vegetables,fh-herbs",
+				"favorites": "ff-fruit,fv-vegetables,fh-herbs",
 				"productiontypes": "self_identified_ecological",
 				"infowindow": "\n<strong>Kiwan Farms</strong>\n<br/>3528 Hawthorne Rd, Ottawa, ON, CA, K1G 3N4\n<br/>(613) 248-8307\n<br/><a href=\"mailto:kiwanfarms7@gmail.com\">kiwanfarms7@gmail.com</a>\n<br/><a target=\"_blank\" href=\"http://www.kiwanfarms.ca/\">http://www.kiwanfarms.ca/</a>\n",
 				"email": "kiwanfarms7@gmail.com",
@@ -1306,7 +1126,7 @@
 				"icon": "producers"
 			},
 			{
-				"name": "Hutchings Homestead",
+				"name": "Debbees Bees",
 				"nbid": "19780",
 				"lat": "44.6322576",
 				"lng": "-76.3679542",
@@ -1315,24 +1135,9 @@
 				"farmtypes": "csa",
 				"favorites": "fv-vegetables,fm-meat,fp-poultry,fs-sweeteners",
 				"productiontypes": "self_identified_ecological",
-				"infowindow": "\n<strong>Hutchings Homestead</strong>\n<br/>507 Hutchings Rd, Westport, ON, CA, K0G 1X0\n<br/>613-483-8000\n<br/><a href=\"mailto:lambtrax@xplornet.com\">lambtrax@xplornet.com</a>\n<br/><a target=\"_blank\" href=\"http://www.savourezottawa.ca/profiles_fr/hutchings_homestead.php\">http://www.savourezottawa.ca/profiles_fr/hutchings_homestead.php</a>\n",
-				"email": "lambtrax@xplornet.com",
-				"website": "http://www.savourezottawa.ca/profiles_fr/hutchings_homestead.php",
-				"icon": "producers"
-			},
-			{
-				"name": "Bergendal Honey",
-				"nbid": "19781",
-				"lat": "45.7601988",
-				"lng": "-75.96058579999999",
-				"orgtype": "producers",
-				"savour": "false",
-				"farmtypes": "csa",
-				"favorites": "fs-sweeteners",
-				"productiontypes": "self_identified_ecological",
-				"infowindow": "\n<strong>Bergendal Honey</strong>\n<br/>243 Ch de lac Bernard, Wakefield, QC, CA, J0X 1A0\n<br/>819-459-1789\n<br/><a href=\"mailto:leafbs@yahoo.ca\">leafbs@yahoo.ca</a>\n",
-				"email": "leafbs@yahoo.ca",
-				"website": "",
+				"infowindow": "\n<strong>Debbees Bees</strong>\n<br/>434 McCann Rd, Newboro, ON, CA, K0G 1V0\n<br/>613-483-8000\n<br/><a href=\"mailto:debeesbees77@yahoo.ca\">debeesbees77@yahoo.ca</a>\n<br/><a target=\"_blank\" href=\"https://www.facebook.com/debbeesbees.ca/\">https://www.facebook.com/debbeesbees.ca/</a>\n",
+				"email": "debeesbees77@yahoo.ca",
+				"website": "https://www.facebook.com/debbeesbees.ca/",
 				"icon": "producers"
 			},
 			{
@@ -1360,8 +1165,8 @@
 				"farmtypes": "csa",
 				"favorites": "ff-fruit,fv-vegetables",
 				"productiontypes": "self_identified_ecological",
-				"infowindow": "\n<strong>Croquez lOutaouais</strong>\n<br/>1982 Maloney Blvd, Gaitneau, QC, CA, J8R 3Z4\n<br/>819-669-2317\n<br/><a href=\"mailto:lesserresdeloutaouais@hotmail.ca\">lesserresdeloutaouais@hotmail.ca</a>\n<br/><a target=\"_blank\" href=\"http://www.croquezoutaouais.com/\">http://www.croquezoutaouais.com/</a>\n",
-				"email": "lesserresdeloutaouais@hotmail.ca",
+				"infowindow": "\n<strong>Croquez lOutaouais</strong>\n<br/>1982 Maloney Blvd, Gaitneau, QC, CA, J8R 3Z4\n<br/>819-669-2317\n<br/><a href=\"mailto:info@agro-outaouais.com\">info@agro-outaouais.com</a>\n<br/><a target=\"_blank\" href=\"http://www.croquezoutaouais.com/\">http://www.croquezoutaouais.com/</a>\n",
+				"email": "info@agro-outaouais.com",
 				"website": "http://www.croquezoutaouais.com/",
 				"icon": "producers"
 			},
@@ -1381,66 +1186,6 @@
 				"icon": "producers"
 			},
 			{
-				"name": "Gibbons Family Farm",
-				"nbid": "19796",
-				"lat": "44.7422482",
-				"lng": "-75.9317877",
-				"orgtype": "producers,microprocessor",
-				"savour": "false",
-				"farmtypes": "csa",
-				"favorites": "fs-sweeteners",
-				"productiontypes": "self_identified_ecological",
-				"infowindow": "\n<strong>Gibbons Family Farm</strong>\n<br/>41 Leacock Road RR 1, Frankville, ON, CA, K0E 1H0\n<br/>613-275-2893/ 1-877-440-7887\n<br/><a href=\"mailto:mail@gibbonsmaple.com\">mail@gibbonsmaple.com</a>\n<br/><a target=\"_blank\" href=\"http://www.gibbonsmaple.com/\">http://www.gibbonsmaple.com/</a>\n",
-				"email": "mail@gibbonsmaple.com",
-				"website": "http://www.gibbonsmaple.com/",
-				"icon": "producers"
-			},
-			{
-				"name": "Malcolm Padgeberry Organic Farms",
-				"nbid": "19797",
-				"lat": "45.1003444",
-				"lng": "-75.5857209",
-				"orgtype": "producers",
-				"savour": "false",
-				"farmtypes": "csa",
-				"favorites": "ff-fruit,fv-vegetables,fp-poultry",
-				"productiontypes": "certorg",
-				"infowindow": "\n<strong>Malcolm Padgeberry Organic Farms</strong>\n<br/>4265 Nixon Dr, Osgoode, ON, CA, K0A 2W0\n<br/>613-868-3907\n<br/><a href=\"mailto:malcolmdales@padgeberryfarm.com\">malcolmdales@padgeberryfarm.com</a>\n<br/><a target=\"_blank\" href=\"https://www.facebook.com/pg/Padgeberry-Organic-Farm-144727725593785/about/\">https://www.facebook.com/pg/Padgeberry-Organic-Farm-144727725593785/about/</a>\n<br/>twitter: @Padgeberry\n",
-				"email": "malcolmdales@padgeberryfarm.com",
-				"website": "https://www.facebook.com/pg/Padgeberry-Organic-Farm-144727725593785/about/",
-				"icon": "producers"
-			},
-			{
-				"name": "Mikes Garden Harvest",
-				"nbid": "19798",
-				"lat": "45.2554145",
-				"lng": "-75.6256156",
-				"orgtype": "producers,microprocessor",
-				"savour": "false",
-				"farmtypes": "csa",
-				"favorites": "fv-vegetables,fh-herbs",
-				"productiontypes": "self_identified_ecological",
-				"infowindow": "\n<strong>Mikes Garden Harvest</strong>\n<br/>436 River Rd, Gloucester, ON, CA, K1V 1E7\n<br/>613-314-3104\n<br/><a href=\"mailto:mike@mikesgardenharvest.com\">mike@mikesgardenharvest.com</a>\n<br/><a target=\"_blank\" href=\"https://www.mikesgardenharvest.com/our-story/contact/\">https://www.mikesgardenharvest.com/our-story/contact/</a>\n",
-				"email": "mike@mikesgardenharvest.com",
-				"website": "https://www.mikesgardenharvest.com/our-story/contact/",
-				"icon": "producers"
-			},
-			{
-				"name": "Bleuetière Hector Dignard",
-				"nbid": "19812",
-				"lat": "45.2580378",
-				"lng": "-75.2852813",
-				"orgtype": "producers",
-				"savour": "false",
-				"farmtypes": "csa",
-				"favorites": "ff-fruit",
-				"productiontypes": "self_identified_ecological",
-				"infowindow": "\n<strong>Bleuetière Hector Dignard</strong>\n<br/>1436 Ste Marie, Embrun, ON, CA, K0A 1W0\n<br/>613-443-2671\n<br/><a href=\"mailto:jeannette.mongeon@rogers.com\">jeannette.mongeon@rogers.com</a>\n<br/><a target=\"_blank\" href=\"http://hhttps//www.facebook.com/Hector-Dignard-Blueberry-Farm-1628983964095317/?hc_ref=OTHER\">http://hhttps//www.facebook.com/Hector-Dignard-Blueberry-Farm-1628983964095317/?hc_ref=OTHER</a>\n",
-				"email": "jeannette.mongeon@rogers.com",
-				"website": "http://hhttps//www.facebook.com/Hector-Dignard-Blueberry-Farm-1628983964095317/?hc_ref=OTHER",
-				"icon": "producers"
-			},
-			{
 				"name": "Élevage Cataraqui",
 				"nbid": "19814",
 				"lat": "45.5039132",
@@ -1448,11 +1193,11 @@
 				"orgtype": "producers",
 				"savour": "false",
 				"farmtypes": "csa",
-				"favorites": "fm-meat",
+				"favorites": "fm-meat,fp-poultry",
 				"productiontypes": "self_identified_ecological",
-				"infowindow": "\n<strong>Élevage Cataraqui</strong>\n<br/>1920 Ch de la Montagne, Luskville, QC, CA, J0X 2G0\n<br/>819-455-2729\n<br/><a href=\"mailto:michaudval@gmail.com\">michaudval@gmail.com</a>\n<br/><a target=\"_blank\" href=\"http://www.elevagecataraqui.com/\">http://www.elevagecataraqui.com/</a>\n",
+				"infowindow": "\n<strong>Élevage Cataraqui</strong>\n<br/>1920 Ch de la Montagne, Luskville, QC, CA, J0X 2G0\n<br/>819-455-2729\n<br/><a href=\"mailto:michaudval@gmail.com\">michaudval@gmail.com</a>\n<br/><a target=\"_blank\" href=\"http://www.cataraquiridgebacks.com/notre-ferme----our-farm.html\">http://www.cataraquiridgebacks.com/notre-ferme----our-farm.html</a>\n",
 				"email": "michaudval@gmail.com",
-				"website": "http://www.elevagecataraqui.com/",
+				"website": "http://www.cataraquiridgebacks.com/notre-ferme----our-farm.html",
 				"icon": "producers"
 			},
 			{
@@ -1483,21 +1228,6 @@
 				"infowindow": "\n<strong>Harvest Moon Orchard</strong>\n<br/>4625 Carp Rd, Carp, ON, CA, K0A 1L0\n<br/>613-839-0378\n<br/><a href=\"mailto:ml@harvestmoonorchard.ca\">ml@harvestmoonorchard.ca</a>\n<br/><a target=\"_blank\" href=\"http://www.harvestmoonorchard.ca/\">http://www.harvestmoonorchard.ca/</a>\n",
 				"email": "ml@harvestmoonorchard.ca",
 				"website": "http://www.harvestmoonorchard.ca/",
-				"icon": "producers"
-			},
-			{
-				"name": "Ferme Orient Farm",
-				"nbid": "19818",
-				"lat": "45.5426212",
-				"lng": "-75.1828072",
-				"orgtype": "producers",
-				"savour": "false",
-				"farmtypes": "csa",
-				"favorites": "fv-vegetables",
-				"productiontypes": "certorg",
-				"infowindow": "\n<strong>Ferme Orient Farm</strong>\n<br/>1081 ch du lac, Saint Pascal-Baylon, ON, CA, K0A 3N0\n<br/>613-488-2097\n<br/><a href=\"mailto:mo-den@hotmail.ca\">mo-den@hotmail.ca</a>\n",
-				"email": "mo-den@hotmail.ca",
-				"website": "",
 				"icon": "producers"
 			},
 			{
@@ -1555,9 +1285,9 @@
 				"farmtypes": "csa",
 				"favorites": "ff-fruit,fv-vegetables,fg-grain",
 				"productiontypes": "self_identified_ecological",
-				"infowindow": "\n<strong>Our Farm</strong>\n<br/>3772 Torbolton Ridge Rd, Woodlawn, ON, CA, K0A 2M0\n<br/>613-454-5587\n<br/><a href=\"mailto:ourfarmcsa@gmail.com\">ourfarmcsa@gmail.com</a>\n<br/><a target=\"_blank\" href=\"http://ourfarmcsa.ca/\">http://ourfarmcsa.ca/</a>\n",
+				"infowindow": "\n<strong>Our Farm</strong>\n<br/>3772 Torbolton Ridge Rd, Woodlawn, ON, CA, K0A 2M0\n<br/>613-454-5587\n<br/><a href=\"mailto:ourfarmcsa@gmail.com\">ourfarmcsa@gmail.com</a>\n<br/><a target=\"_blank\" href=\"https://squareup.com/store/our-farm-csa/\">https://squareup.com/store/our-farm-csa/</a>\n",
 				"email": "ourfarmcsa@gmail.com",
-				"website": "http://ourfarmcsa.ca/",
+				"website": "https://squareup.com/store/our-farm-csa/",
 				"icon": "producers"
 			},
 			{
@@ -1606,16 +1336,16 @@
 				"icon": "producers"
 			},
 			{
-				"name": "Pickle Patch",
+				"name": "Pickle Patch Farm",
 				"nbid": "19838",
 				"lat": "45.47760539999999",
 				"lng": "-74.57346129999999",
-				"orgtype": "producers,microprocessor",
+				"orgtype": "producers",
 				"savour": "false",
 				"farmtypes": "csa",
-				"favorites": "fg-grain,fm-meat,fp-poultry",
+				"favorites": "fm-meat,fp-poultry",
 				"productiontypes": "self_identified_ecological",
-				"infowindow": "\n<strong>Pickle Patch</strong>\n<br/>22190 Breadalbane Rd, Dalkeith, ON, CA, K0B 1E0\n<br/>613-874-2969\n<br/><a href=\"mailto:picklepatchfarm@gmail.com\">picklepatchfarm@gmail.com</a>\n<br/><a target=\"_blank\" href=\"http://www.picklepatchfarm.com/\">http://www.picklepatchfarm.com/</a>\n",
+				"infowindow": "\n<strong>Pickle Patch Farm</strong>\n<br/>22190 Breadalbane Rd, Dalkeith, ON, CA, K0B 1E0\n<br/>(613) 874-2969\n<br/><a href=\"mailto:picklepatchfarm@gmail.com\">picklepatchfarm@gmail.com</a>\n<br/><a target=\"_blank\" href=\"http://www.picklepatchfarm.com/\">http://www.picklepatchfarm.com/</a>\n",
 				"email": "picklepatchfarm@gmail.com",
 				"website": "http://www.picklepatchfarm.com/",
 				"icon": "producers"
@@ -1630,9 +1360,9 @@
 				"farmtypes": "csa",
 				"favorites": "ff-fruit,fv-vegetables,fs-sweeteners",
 				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Proulx Maple &amp; Berry Farm</strong>\n<br/>1865 ch OToole Rd, Cumberland, ON, CA, K4C 1N2\n<br/>613-833-2417\n<br/><a href=\"mailto:proulx@proulxberryfarm.com\">proulx@proulxberryfarm.com</a>\n<br/><a target=\"_blank\" href=\"http://t.co/22udntwABa\">http://t.co/22udntwABa</a>\n<br/>twitter: @FermeProulxFarm\n",
+				"infowindow": "\n<strong>Proulx Maple &amp; Berry Farm</strong>\n<br/>1865 ch OToole Rd, Cumberland, ON, CA, K4C 1N2\n<br/>613-833-2417\n<br/><a href=\"mailto:proulx@proulxberryfarm.com\">proulx@proulxberryfarm.com</a>\n<br/><a target=\"_blank\" href=\"https://shop.proulxfarm.com/\">https://shop.proulxfarm.com/</a>\n<br/>twitter: @FermeProulxFarm\n",
 				"email": "proulx@proulxberryfarm.com",
-				"website": "http://t.co/22udntwABa",
+				"website": "https://shop.proulxfarm.com/",
 				"icon": "producers"
 			},
 			{
@@ -1643,7 +1373,7 @@
 				"orgtype": "producers",
 				"savour": "false",
 				"farmtypes": "csa",
-				"favorites": "ff-fruit,fv-vegetables,fp-poultry",
+				"favorites": "ff-fruit,fv-vegetables,fg-grain,fm-meat,fp-poultry",
 				"productiontypes": "self_identified_ecological",
 				"infowindow": "\n<strong>Quillow Farm</strong>\n<br/>3305 Blanchfield Rd, Osgoode, ON, CA, K0A 2W0\n<br/>(613) 227-2815\n<br/><a href=\"mailto:quillowfarm@gmail.com\">quillowfarm@gmail.com</a>\n<br/><a target=\"_blank\" href=\"https://quillowfarm.weebly.com/\">https://quillowfarm.weebly.com/</a>\n",
 				"email": "quillowfarm@gmail.com",
@@ -1660,9 +1390,9 @@
 				"farmtypes": "csa",
 				"favorites": "fm-meat",
 				"productiontypes": "self_identified_ecological",
-				"infowindow": "\n<strong>RGK Polled Herefords</strong>\n<br/>3447 Farmview Rd, Kinburn, ON, CA, K0A 2H0\n<br/>613-832-3588\n<br/><a href=\"mailto:rgkherefords@xplornet.com\">rgkherefords@xplornet.com</a>\n",
+				"infowindow": "\n<strong>RGK Polled Herefords</strong>\n<br/>3447 Farmview Rd, Kinburn, ON, CA, K0A 2H0\n<br/>613-832-3588\n<br/><a href=\"mailto:rgkherefords@xplornet.com\">rgkherefords@xplornet.com</a>\n<br/><a target=\"_blank\" href=\"http://runawaycreekfarm.com/\">http://runawaycreekfarm.com/</a>\n",
 				"email": "rgkherefords@xplornet.com",
-				"website": "",
+				"website": "http://runawaycreekfarm.com/",
 				"icon": "producers"
 			},
 			{
@@ -1705,8 +1435,8 @@
 				"farmtypes": "csa,pick_your_own",
 				"favorites": "ff-fruit,fv-vegetables",
 				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Rochon Garden</strong>\n<br/>1101 Yorks Corners Rd, Edwards, ON, CA, K0A 1V0\n<br/>613-821-3245\n<br/><a href=\"mailto:rochonfarms@yahoo.ca\">rochonfarms@yahoo.ca</a>\n<br/><a target=\"_blank\" href=\"http://www.jardinrochongarden.ca/\">http://www.jardinrochongarden.ca/</a>\n<br/>twitter: @RochonGarden\n",
-				"email": "rochonfarms@yahoo.ca",
+				"infowindow": "\n<strong>Rochon Garden</strong>\n<br/>1101 Yorks Corners Rd, Edwards, ON, CA, K0A 1V0\n<br/>613-821-3245\n<br/><a href=\"mailto:info@rochongarden.ca\">info@rochongarden.ca</a>\n<br/><a target=\"_blank\" href=\"http://www.jardinrochongarden.ca/\">http://www.jardinrochongarden.ca/</a>\n<br/>twitter: @RochonGarden\n",
+				"email": "info@rochongarden.ca",
 				"website": "http://www.jardinrochongarden.ca/",
 				"icon": "producers"
 			},
@@ -1735,9 +1465,9 @@
 				"farmtypes": "csa",
 				"favorites": "fv-vegetables",
 				"productiontypes": "certorg",
-				"infowindow": "\n<strong>Saffire Farms</strong>\n<br/>282 Bennies Corners Rd, Almonte, ON, CA, K0A 1A0\n<br/>613-256-3383\n<br/><a href=\"mailto:saffirefarms@gmail.com\">saffirefarms@gmail.com</a>\n<br/><a target=\"_blank\" href=\"http://www.saffirefarms.ca/\">http://www.saffirefarms.ca/</a>\n",
+				"infowindow": "\n<strong>Saffire Farms</strong>\n<br/>282 Bennies Corners Rd, Almonte, ON, CA, K0A 1A0\n<br/>613-256-3383\n<br/><a href=\"mailto:saffirefarms@gmail.com\">saffirefarms@gmail.com</a>\n",
 				"email": "saffirefarms@gmail.com",
-				"website": "http://www.saffirefarms.ca/",
+				"website": "",
 				"icon": "producers"
 			},
 			{
@@ -1765,24 +1495,9 @@
 				"farmtypes": "csa,pick_your_own",
 				"favorites": "ff-fruit,fv-vegetables",
 				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Shouldice Farms</strong>\n<br/>3451 Richmond Rd, Ottawa, ON, CA, K2H 8G4\n<br/>613-838-4203\n<br/><a href=\"mailto:shfarm@magma.ca\">shfarm@magma.ca</a>\n<br/><a target=\"_blank\" href=\"http://www.shouldicefarm.com/\">http://www.shouldicefarm.com/</a>\n",
+				"infowindow": "\n<strong>Shouldice Farms</strong>\n<br/>3451 Richmond Rd, Ottawa, ON, CA, K2H 8G4\n<br/>613-838-4203\n<br/><a href=\"mailto:shfarm@magma.ca\">shfarm@magma.ca</a>\n<br/><a target=\"_blank\" href=\"http://www.shouldicefarm.com/\">http://www.shouldicefarm.com/</a>\n<br/>twitter: @shouldicefarm\n",
 				"email": "shfarm@magma.ca",
 				"website": "http://www.shouldicefarm.com/",
-				"icon": "producers"
-			},
-			{
-				"name": "Shimas Farm",
-				"nbid": "19874",
-				"lat": "45.1412527",
-				"lng": "-75.2980683",
-				"orgtype": "producers",
-				"savour": "false",
-				"farmtypes": "csa",
-				"favorites": "fm-meat",
-				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Shimas Farm</strong>\n<br/>13033 County Rd, Winchester, ON, CA, K0C 2K0\n<br/>613-448-3454\n<br/><a href=\"mailto:shimasfarm@live.ca\">shimasfarm@live.ca</a>\n",
-				"email": "shimasfarm@live.ca",
-				"website": "",
 				"icon": "producers"
 			},
 			{
@@ -1793,7 +1508,7 @@
 				"orgtype": "producers",
 				"savour": "false",
 				"farmtypes": "csa",
-				"favorites": "ff-fruit",
+				"favorites": "ff-fruit,fs-sweeteners",
 				"productiontypes": "conventional",
 				"infowindow": "\n<strong>Smyths Apple Orchard</strong>\n<br/>11652 County Rd 18, Iroquois, ON, CA, K0E 1K0\n<br/>613-652-2477\n<br/><a href=\"mailto:smythsorchard@hotmail.com\">smythsorchard@hotmail.com</a>\n<br/><a target=\"_blank\" href=\"http://www.smythsapples.com/\">http://www.smythsapples.com/</a>\n",
 				"email": "smythsorchard@hotmail.com",
@@ -1835,7 +1550,7 @@
 				"nbid": "19886",
 				"lat": "45.3901303",
 				"lng": "-76.3109941",
-				"orgtype": "producers",
+				"orgtype": "producers,breweries_and_wineries",
 				"savour": "false",
 				"farmtypes": "csa",
 				"favorites": "ff-fruit,fv-vegetables",
@@ -1855,9 +1570,24 @@
 				"farmtypes": "csa,pick_your_own",
 				"favorites": "ff-fruit,fv-vegetables,fh-herbs",
 				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Acorn Creek Garden Farm</strong>\n<br/>928 Oak Creek Rd, Carp, ON, CA, K0A 1L0\n<br/>613-836-2613\n<br/><a href=\"mailto:terauds@magma.ca\">terauds@magma.ca</a>\n<br/><a target=\"_blank\" href=\"http://t.co/Fv9yWrFFmO\">http://t.co/Fv9yWrFFmO</a>\n<br/>twitter: @AcornCreek\n",
-				"email": "terauds@magma.ca",
-				"website": "http://t.co/Fv9yWrFFmO",
+				"infowindow": "\n<strong>Acorn Creek Garden Farm</strong>\n<br/>928 Oak Creek Rd, Carp, ON, CA, K0A 1L0\n<br/>613-836-2613\n<br/><a href=\"mailto:Terauds@acorncreek.ca\">Terauds@acorncreek.ca</a>\n<br/><a target=\"_blank\" href=\"http://acorncreek.ca/\">http://acorncreek.ca/</a>\n<br/>twitter: @AcornCreek\n",
+				"email": "Terauds@acorncreek.ca",
+				"website": "http://acorncreek.ca/",
+				"icon": "producers"
+			},
+			{
+				"name": "Veggie Trail Farms",
+				"nbid": "19896",
+				"lat": "45.3421741",
+				"lng": "-75.8083537",
+				"orgtype": "producers",
+				"savour": "false",
+				"farmtypes": "csa",
+				"favorites": "ff-fruit,fv-vegetables,fm-meat,fp-poultry,fs-sweeteners,fh-herbs",
+				"productiontypes": "conventional",
+				"infowindow": "\n<strong>Veggie Trail Farms</strong>\n<br/>3229 Richmond Rd, Ottawa, ON, CA, K2H 8G4\n<br/>613-596-2657\n<br/><a href=\"mailto:veggietrail@gmail.com\">veggietrail@gmail.com</a>\n<br/><a target=\"_blank\" href=\"http://www.veggietrailfarms.com/\">http://www.veggietrailfarms.com/</a>\n",
+				"email": "veggietrail@gmail.com",
+				"website": "http://www.veggietrailfarms.com/",
 				"icon": "producers"
 			},
 			{
@@ -1868,26 +1598,11 @@
 				"orgtype": "producers",
 				"savour": "false",
 				"farmtypes": "csa",
-				"favorites": "fv-vegetables,fp-poultry",
+				"favorites": "fv-vegetables,fm-meat,fh-herbs",
 				"productiontypes": "certorg",
 				"infowindow": "\n<strong>Waratah Downs Organic Farm</strong>\n<br/>3444 Scotch Line, Perth, ON, CA, K7H 3C5\n<br/>613-267-7050\n<br/><a href=\"mailto:waratahdowns@gmail.com\">waratahdowns@gmail.com</a>\n<br/><a target=\"_blank\" href=\"http://www.waratahdowns.com/\">http://www.waratahdowns.com/</a>\n",
 				"email": "waratahdowns@gmail.com",
 				"website": "http://www.waratahdowns.com/",
-				"icon": "producers"
-			},
-			{
-				"name": "Whaleys Acres",
-				"nbid": "19900",
-				"lat": "44.9811816",
-				"lng": "-75.02890479999999",
-				"orgtype": "producers,microprocessor",
-				"savour": "false",
-				"farmtypes": "csa",
-				"favorites": "fm-meat",
-				"productiontypes": "self_identified_ecological",
-				"infowindow": "\n<strong>Whaleys Acres</strong>\n<br/>14375 Anderson Rd, Ingleside, ON, CA, K0A 1V0\n<br/>613-551-5360\n<br/><a href=\"mailto:whaleysacres@gmail.com\">whaleysacres@gmail.com</a>\n<br/><a target=\"_blank\" href=\"https://allthingsfoodbouffe360.ca/en/2014/whaleys-acres-ingleside-on/\">https://allthingsfoodbouffe360.ca/en/2014/whaleys-acres-ingleside-on/</a>\n",
-				"email": "whaleysacres@gmail.com",
-				"website": "https://allthingsfoodbouffe360.ca/en/2014/whaleys-acres-ingleside-on/",
 				"icon": "producers"
 			},
 			{
@@ -1930,39 +1645,9 @@
 				"farmtypes": "csa",
 				"favorites": "ff-fruit,fv-vegetables,fg-grain,fh-herbs",
 				"productiontypes": "certorg",
-				"infowindow": "\n<strong>Whitsend Market Garden</strong>\n<br/>7042 Mansfield Rd, Stittsville, ON, CA, K2S 1B8\n<br/>(613) 278-1937\n<br/><a target=\"_blank\" href=\"http://whitsfarm.blogspot.ca/\">http://whitsfarm.blogspot.ca/</a>\n",
-				"email": "",
+				"infowindow": "\n<strong>Whitsend Market Garden</strong>\n<br/>7042 Mansfield Rd, Stittsville, ON, CA, K2S 1B8\n<br/>(613) 278-1937\n<br/><a href=\"mailto:whitscust@gmail.com\">whitscust@gmail.com</a>\n<br/><a target=\"_blank\" href=\"http://whitsfarm.blogspot.ca/\">http://whitsfarm.blogspot.ca/</a>\n",
+				"email": "whitscust@gmail.com",
 				"website": "http://whitsfarm.blogspot.ca/",
-				"icon": "producers"
-			},
-			{
-				"name": "Champignons Shiitake",
-				"nbid": "19956",
-				"lat": "45.4925272",
-				"lng": "-75.73045119999999",
-				"orgtype": "producers",
-				"savour": "false",
-				"farmtypes": "csa",
-				"favorites": "fv-vegetables",
-				"productiontypes": "self_identified_ecological",
-				"infowindow": "\n<strong>Champignons Shiitake</strong>\n<br/>23 Trigance, Gatineau, QC, CA, J8V 0B5\n<br/>819-329-3595\n<br/><a href=\"mailto:champignons.shiitake@gmail.com\">champignons.shiitake@gmail.com</a>\n<br/><a target=\"_blank\" href=\"http://gatineau/\">http://gatineau/</a>\n<br/>twitter: @J8V 0B5\n",
-				"email": "champignons.shiitake@gmail.com",
-				"website": "http://gatineau/",
-				"icon": "producers"
-			},
-			{
-				"name": "Diotte Farm",
-				"nbid": "19989",
-				"lat": "45.417136",
-				"lng": "-75.4441595",
-				"orgtype": "producers",
-				"savour": "false",
-				"farmtypes": "csa",
-				"favorites": "fv-vegetables",
-				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Diotte Farm</strong>\n<br/>3476 Milton Rd, Ottawa, ON, CA, K4B 1H9\n<br/>613-837-1019\n<br/><a target=\"_blank\" href=\"http://savourottawa.ca/michel-diotte-farm/\">http://savourottawa.ca/michel-diotte-farm/</a>\n",
-				"email": "",
-				"website": "http://savourottawa.ca/michel-diotte-farm/",
 				"icon": "producers"
 			},
 			{
@@ -1973,7 +1658,7 @@
 				"orgtype": "producers",
 				"savour": "false",
 				"farmtypes": "csa",
-				"favorites": "fh-herbs",
+				"favorites": "fv-vegetables,fh-herbs",
 				"productiontypes": "self_identified_ecological",
 				"infowindow": "\n<strong>Glengyle Garlic</strong>\n<br/>2208 Highway 511, Lanark, ON, CA, K0G 1K0\n<br/>(613) 858-7752\n<br/><a href=\"mailto:GlengyleGarlic@xplornet.com\">GlengyleGarlic@xplornet.com</a>\n",
 				"email": "GlengyleGarlic@xplornet.com",
@@ -2011,21 +1696,6 @@
 				"icon": "producers"
 			},
 			{
-				"name": "Desjardins Farm",
-				"nbid": "20000",
-				"lat": "45.5241662",
-				"lng": "-75.1724373",
-				"orgtype": "producers",
-				"savour": "false",
-				"farmtypes": "csa",
-				"favorites": "ff-fruit,fv-vegetables,fm-meat,fh-herbs",
-				"productiontypes": "self_identified_ecological",
-				"infowindow": "\n<strong>Desjardins Farm</strong>\n<br/>1594 Chemin du Lac, St. Pascal, ON, CA, K0A 3N0\n<br/>613-488-2069\n<br/><a href=\"mailto:gdesjardins@clarence-rockland.com\">gdesjardins@clarence-rockland.com</a>\n<br/><a target=\"_blank\" href=\"http://www.savourottawa.ca/profiles_en/desjardins.php\">http://www.savourottawa.ca/profiles_en/desjardins.php</a>\n",
-				"email": "gdesjardins@clarence-rockland.com",
-				"website": "http://www.savourottawa.ca/profiles_en/desjardins.php",
-				"icon": "producers"
-			},
-			{
 				"name": "Griffith Farm & Market",
 				"nbid": "20001",
 				"lat": "45.6052208",
@@ -2053,21 +1723,6 @@
 				"infowindow": "\n<strong>Maple Country Sugarbush</strong>\n<br/>2980 Quadeville Rd, Palmer Rapids, ON, CA, K0J 2G0\n<br/>(613) 758-2395\n<br/><a href=\"mailto:maplecountry@live.ca\">maplecountry@live.ca</a>\n<br/><a target=\"_blank\" href=\"https://www.facebook.com/maplecountrysugarbush/\">https://www.facebook.com/maplecountrysugarbush/</a>\n",
 				"email": "maplecountry@live.ca",
 				"website": "https://www.facebook.com/maplecountrysugarbush/",
-				"icon": "producers"
-			},
-			{
-				"name": "Ottawa Edible Flowers",
-				"nbid": "20005",
-				"lat": "45.4801004",
-				"lng": "-76.0703725",
-				"orgtype": "producers",
-				"savour": "false",
-				"farmtypes": "csa",
-				"favorites": "fh-herbs",
-				"productiontypes": "self_identified_ecological",
-				"infowindow": "\n<strong>Ottawa Edible Flowers</strong>\n<br/>150 Baillie Ave, Woodlawn, ON, CA, K0A 3M0\n<br/>613-832-1796\n<br/><a href=\"mailto:fresh@ottawaedibleflowers.com\">fresh@ottawaedibleflowers.com</a>\n<br/><a target=\"_blank\" href=\"https://ottawa-edible-flowers.myshopify.com/\">https://ottawa-edible-flowers.myshopify.com/</a>\n<br/>twitter: @K0A 3M0\n",
-				"email": "fresh@ottawaedibleflowers.com",
-				"website": "https://ottawa-edible-flowers.myshopify.com/",
 				"icon": "producers"
 			},
 			{
@@ -2101,21 +1756,6 @@
 				"icon": "producers"
 			},
 			{
-				"name": "Guy Bergeron Gardening",
-				"nbid": "20009",
-				"lat": "45.3997895",
-				"lng": "-75.2563784",
-				"orgtype": "producers",
-				"savour": "false",
-				"farmtypes": "csa",
-				"favorites": "fv-vegetables",
-				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Guy Bergeron Gardening</strong>\n<br/>4055 Indian Creek Rd, Hammond, ON, CA, K0A 2A0\n<br/>613-487-2981\n<br/><a href=\"mailto:sierra_10_10@hotmail.com\">sierra_10_10@hotmail.com</a>\n<br/><a target=\"_blank\" href=\"https://ottawafarmersmarket.ca/vendors/guy-bergeron-gardening/\">https://ottawafarmersmarket.ca/vendors/guy-bergeron-gardening/</a>\n<br/>twitter: @K0A 2A0\n",
-				"email": "sierra_10_10@hotmail.com",
-				"website": "https://ottawafarmersmarket.ca/vendors/guy-bergeron-gardening/",
-				"icon": "producers"
-			},
-			{
 				"name": "Zero Carbon Garden",
 				"nbid": "20010",
 				"lat": "45.5293668",
@@ -2125,9 +1765,9 @@
 				"farmtypes": "csa",
 				"favorites": "fv-vegetables,fs-sweeteners",
 				"productiontypes": "self_identified_ecological",
-				"infowindow": "\n<strong>Zero Carbon Garden</strong>\n<br/>29 Chemin Front, Bristol, QC, CA, J0X 1G0\n<br/>(613) 454-8072\n<br/><a href=\"mailto:zerocarbongarden1@gmail.com\">zerocarbongarden1@gmail.com</a>\n<br/><a target=\"_blank\" href=\"http://zerocarbongarden.com/\">http://zerocarbongarden.com/</a>\n",
+				"infowindow": "\n<strong>Zero Carbon Garden</strong>\n<br/>29 Chemin Front, Bristol, QC, CA, J0X 1G0\n<br/>(613) 454-8072\n<br/><a href=\"mailto:zerocarbongarden1@gmail.com\">zerocarbongarden1@gmail.com</a>\n",
 				"email": "zerocarbongarden1@gmail.com",
-				"website": "http://zerocarbongarden.com/",
+				"website": "",
 				"icon": "producers"
 			},
 			{
@@ -2153,7 +1793,7 @@
 				"orgtype": "producers",
 				"savour": "false",
 				"farmtypes": "csa",
-				"favorites": "fm-meat,fp-poultry",
+				"favorites": "fm-meat,fp-poultry,fs-sweeteners",
 				"productiontypes": "conventional",
 				"infowindow": "\n<strong>Roadapple Ranch</strong>\n<br/>15435 Concession 3-4 Rd, Finch, ON, CA, K0C 1K0\n<br/>613 314 9994\n<br/><a href=\"mailto:mike@roadapple-ranch.com\">mike@roadapple-ranch.com</a>\n<br/><a target=\"_blank\" href=\"http://www.roadapple-ranch.com/\">http://www.roadapple-ranch.com/</a>\n",
 				"email": "mike@roadapple-ranch.com",
@@ -2168,8 +1808,8 @@
 				"orgtype": "producers",
 				"savour": "false",
 				"farmtypes": "csa",
-				"favorites": "fm-meat",
-				"productiontypes": "conventional",
+				"favorites": "fg-grain,fm-meat",
+				"productiontypes": "certorg",
 				"infowindow": "\n<strong>Bushgarden Farmstead Cheese</strong>\n<br/>590 Bush Rd, Elgin, ON, CA, K0G 1E0\n<br/>613 359 5084\n<br/><a href=\"mailto:nigel@bushgardenfarm.ca\">nigel@bushgardenfarm.ca</a>\n<br/><a target=\"_blank\" href=\"http://www.bushgardenfarm.ca/\">http://www.bushgardenfarm.ca/</a>\n",
 				"email": "nigel@bushgardenfarm.ca",
 				"website": "http://www.bushgardenfarm.ca/",
@@ -2200,7 +1840,7 @@
 				"farmtypes": "csa",
 				"favorites": "fv-vegetables",
 				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Eighteen</strong>\n<br/>18 York St, Ottawa, ON, CA, K1N 5T5\n<br/>(613) 244-1188\n<br/><a href=\"mailto:events@restaurant18.com\">events@restaurant18.com</a>\n<br/><a target=\"_blank\" href=\"http://www.restaurant18.com/\">http://www.restaurant18.com/</a>\n",
+				"infowindow": "\n<strong>Eighteen</strong>\n<br/>18 York St, Ottawa, ON, CA, K1N 5T5\n<br/>(613) 244-1188\n<br/><a href=\"mailto:events@restaurant18.com\">events@restaurant18.com</a>\n<br/><a target=\"_blank\" href=\"http://www.restaurant18.com/\">http://www.restaurant18.com/</a>\n<br/>twitter: @restaurant18\n",
 				"email": "events@restaurant18.com",
 				"website": "http://www.restaurant18.com/",
 				"icon": "foodservices"
@@ -2215,7 +1855,7 @@
 				"farmtypes": "csa",
 				"favorites": "fv-vegetables",
 				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Rideau Club</strong>\n<br/>99 Bank St, Ottawa, ON, CA, K1P 1H4\n<br/>613-233-7787\n<br/><a href=\"mailto:goeringca@rideauclub.ca\">goeringca@rideauclub.ca</a>\n<br/><a target=\"_blank\" href=\"http://www.rideauclub.ca/\">http://www.rideauclub.ca/</a>\n",
+				"infowindow": "\n<strong>Rideau Club</strong>\n<br/>99 Bank St, Ottawa, ON, CA, K1P 1H4\n<br/>613-233-7787\n<br/><a href=\"mailto:goeringca@rideauclub.ca\">goeringca@rideauclub.ca</a>\n<br/><a target=\"_blank\" href=\"http://www.rideauclub.ca/\">http://www.rideauclub.ca/</a>\n<br/>twitter: @rideauclub\n",
 				"email": "goeringca@rideauclub.ca",
 				"website": "http://www.rideauclub.ca/",
 				"icon": "foodservices"
@@ -2290,7 +1930,7 @@
 				"farmtypes": "csa",
 				"favorites": "fv-vegetables,fh-herbs",
 				"productiontypes": "certorg",
-				"infowindow": "\n<strong>Roots and Shoots Farm</strong>\n<br/>115 Chemin de la Beurrerie, La Peche, QC, CA, J0X 1A0\n<br/>819-664-6729\n<br/><a href=\"mailto:arobint@gmail.com\">arobint@gmail.com</a>\n<br/><a target=\"_blank\" href=\"https://www.rootsandshootsfarm.com/\">https://www.rootsandshootsfarm.com/</a>\n<br/>twitter: @https://www.facebook.com/RootsandShootsFarm/\n",
+				"infowindow": "\n<strong>Roots and Shoots Farm</strong>\n<br/>115 Chemin de la Beurrerie, La Peche, QC, CA, J0X 1A0\n<br/>819-664-6729\n<br/><a href=\"mailto:arobint@gmail.com\">arobint@gmail.com</a>\n<br/><a target=\"_blank\" href=\"https://www.rootsandshootsfarm.com/\">https://www.rootsandshootsfarm.com/</a>\n<br/>twitter: @RootsShootsFarm\n",
 				"email": "arobint@gmail.com",
 				"website": "https://www.rootsandshootsfarm.com/",
 				"icon": "producers"
@@ -2320,9 +1960,9 @@
 				"farmtypes": "csa",
 				"favorites": "fm-meat",
 				"productiontypes": "self_identified_ecological",
-				"infowindow": "\n<strong>Little Trickle Farm</strong>\n<br/>1646 Mine View Rd, Cobden, ON, CA, K0J 1K0\n<br/>613-281-8524\n<br/><a href=\"mailto:farmoffice@littletricklefarm.ca\">farmoffice@littletricklefarm.ca</a>\n<br/><a target=\"_blank\" href=\"http://douglas/\">http://douglas/</a>\n<br/>twitter: @K0J 1S0\n",
+				"infowindow": "\n<strong>Little Trickle Farm</strong>\n<br/>1646 Mine View Rd, Cobden, ON, CA, K0J 1K0\n<br/>613-281-8524\n<br/><a href=\"mailto:farmoffice@littletricklefarm.ca\">farmoffice@littletricklefarm.ca</a>\n<br/><a target=\"_blank\" href=\"http://littletricklefarm.ca/\">http://littletricklefarm.ca/</a>\n",
 				"email": "farmoffice@littletricklefarm.ca",
-				"website": "http://douglas/",
+				"website": "http://littletricklefarm.ca/",
 				"icon": "producers"
 			},
 			{
@@ -2333,7 +1973,7 @@
 				"orgtype": "producers",
 				"savour": "false",
 				"farmtypes": "csa",
-				"favorites": "fv-vegetables",
+				"favorites": "ff-fruit",
 				"productiontypes": "conventional",
 				"infowindow": "\n<strong>Osgoode Apple Orchard</strong>\n<br/>3169 Nixon Rd, Osgoode, ON, CA, K0A 2W0\n<br/>613-826-0925\n<br/><a href=\"mailto:fspagnoli@hotmail.ca\">fspagnoli@hotmail.ca</a>\n<br/><a target=\"_blank\" href=\"https://savourottawa.ca/osgoode-apple-orchard/\">https://savourottawa.ca/osgoode-apple-orchard/</a>\n",
 				"email": "fspagnoli@hotmail.ca",
@@ -2380,7 +2020,7 @@
 				"farmtypes": "csa",
 				"favorites": "fv-vegetables",
 				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Bluegrass Farm</strong>\n<br/>714 Kinch St, Jasper, ON, CA, K0G 1G0\n<br/>613-275-2639\n<br/><a href=\"mailto:leela@bluegrassfarm.ca\">leela@bluegrassfarm.ca</a>\n<br/><a target=\"_blank\" href=\"http://bluegrassfarm.ca/\">http://bluegrassfarm.ca/</a>\n",
+				"infowindow": "\n<strong>Bluegrass Farm</strong>\n<br/>714 Kinch St, Jasper, ON, CA, K0G 1G0\n<br/>(343) 542-1978\n<br/><a href=\"mailto:leela@bluegrassfarm.ca\">leela@bluegrassfarm.ca</a>\n<br/><a target=\"_blank\" href=\"http://bluegrassfarm.ca/\">http://bluegrassfarm.ca/</a>\n",
 				"email": "leela@bluegrassfarm.ca",
 				"website": "http://bluegrassfarm.ca/",
 				"icon": "producers"
@@ -2395,24 +2035,9 @@
 				"farmtypes": "csa",
 				"favorites": "fh-herbs",
 				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Les fines herbes par daniel</strong>\n<br/>59 chemin Myre, Gatineau, QC, CA, J8R 3C7\n<br/>418-829-3000\n<br/><a href=\"mailto:philthompson@bell.net\">philthompson@bell.net</a>\n<br/><a target=\"_blank\" href=\"https://www.facebook.com/lesfinesherbespardaniel/\">https://www.facebook.com/lesfinesherbespardaniel/</a>\n",
+				"infowindow": "\n<strong>Les fines herbes par daniel</strong>\n<br/>59 chemin Myre, Gatineau, QC, CA, J8R 3C7\n<br/>418-829-3000\n<br/><a href=\"mailto:philthompson@bell.net\">philthompson@bell.net</a>\n<br/><a target=\"_blank\" href=\"https://www.lesfinesherbespardaniel.com/\">https://www.lesfinesherbespardaniel.com/</a>\n",
 				"email": "philthompson@bell.net",
-				"website": "https://www.facebook.com/lesfinesherbespardaniel/",
-				"icon": "producers"
-			},
-			{
-				"name": "Amaranth Farm",
-				"nbid": "20345",
-				"lat": "44.8423614",
-				"lng": "-76.4756644",
-				"orgtype": "producers",
-				"savour": "false",
-				"farmtypes": "csa",
-				"favorites": "fm-meat,fp-poultry",
-				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Amaranth Farm</strong>\n<br/>2116 Old Brooke Rd, Maberly, ON, CA, K0H 2B0\n<br/>(613) 268-2102\n<br/><a href=\"mailto:amaranth@xplornet.com\">amaranth@xplornet.com</a>\n<br/><a target=\"_blank\" href=\"http://lanarklocalflavour.ca/?q=farmer-profiles\">http://lanarklocalflavour.ca/?q=farmer-profiles</a>\n",
-				"email": "amaranth@xplornet.com",
-				"website": "http://lanarklocalflavour.ca/?q=farmer-profiles",
+				"website": "https://www.lesfinesherbespardaniel.com/",
 				"icon": "producers"
 			},
 			{
@@ -2425,8 +2050,8 @@
 				"farmtypes": "csa",
 				"favorites": "fm-meat,fp-poultry,fs-sweeteners",
 				"productiontypes": "self_identified_ecological",
-				"infowindow": "\n<strong>La Bergerie des Sables</strong>\n<br/>1550 chemin du comte 2, Curran, ON, CA, K0B 1C0\n<br/>613 673-4809\n<br/><a target=\"_blank\" href=\"http://www.labergeriedessables.com/\">http://www.labergeriedessables.com/</a>\n",
-				"email": "",
+				"infowindow": "\n<strong>La Bergerie des Sables</strong>\n<br/>1550 chemin du comte 2, Curran, ON, CA, K0B 1C0\n<br/>613 673-4809\n<br/><a href=\"mailto:cgillet@sympatico.ca\">cgillet@sympatico.ca</a>\n<br/><a target=\"_blank\" href=\"http://www.labergeriedessables.com/\">http://www.labergeriedessables.com/</a>\n",
+				"email": "cgillet@sympatico.ca",
 				"website": "http://www.labergeriedessables.com/",
 				"icon": "producers"
 			},
@@ -2461,51 +2086,6 @@
 				"icon": "producers"
 			},
 			{
-				"name": "Eighth Line Farm",
-				"nbid": "20359",
-				"lat": "44.6205895",
-				"lng": "-75.90482469999999",
-				"orgtype": "producers",
-				"savour": "false",
-				"farmtypes": "csa",
-				"favorites": "fm-meat",
-				"productiontypes": "self_identified_ecological",
-				"infowindow": "\n<strong>Eighth Line Farm</strong>\n<br/>127 Eighth Line Rd, Athens, ON, CA, K0E 1B0\n<br/>613-924-9241\n<br/><a href=\"mailto:kim.sytsma@gmail.com\">kim.sytsma@gmail.com</a>\n<br/><a target=\"_blank\" href=\"https://www.facebook.com/Eighth-Line-Farm-312143878796774/\">https://www.facebook.com/Eighth-Line-Farm-312143878796774/</a>\n",
-				"email": "kim.sytsma@gmail.com",
-				"website": "https://www.facebook.com/Eighth-Line-Farm-312143878796774/",
-				"icon": "producers"
-			},
-			{
-				"name": "Fraisiere Marier Strawberries",
-				"nbid": "20367",
-				"lat": "45.4968519",
-				"lng": "-75.31897300000001",
-				"orgtype": "producers",
-				"savour": "false",
-				"farmtypes": "csa,pick_your_own",
-				"favorites": "ff-fruit",
-				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Fraisiere Marier Strawberries</strong>\n<br/>2264 Ch Canaan Rd, Cumberland, ON, CA, K0A 3E0\n<br/>613-833-3042\n<br/><a target=\"_blank\" href=\"http://marier.farmvisit.com/\">http://marier.farmvisit.com/</a>\n",
-				"email": "",
-				"website": "http://marier.farmvisit.com/",
-				"icon": "producers"
-			},
-			{
-				"name": "Heartland Farms",
-				"nbid": "20371",
-				"lat": "45.3642438",
-				"lng": "-76.4105367",
-				"orgtype": "producers",
-				"savour": "false",
-				"farmtypes": "csa",
-				"favorites": "fm-meat",
-				"productiontypes": "self_identified_ecological",
-				"infowindow": "\n<strong>Heartland Farms</strong>\n<br/>2898 Concession 8 RR3, Pakenham, ON, CA, K0A 2X0\n<br/>613-623-9878\n<br/><a target=\"_blank\" href=\"http://www.heartlandfarms.ca/\">http://www.heartlandfarms.ca/</a>\n",
-				"email": "",
-				"website": "http://www.heartlandfarms.ca/",
-				"icon": "producers"
-			},
-			{
 				"name": "Érablière J.B. Caron",
 				"nbid": "20374",
 				"lat": "46.1130672",
@@ -2536,21 +2116,6 @@
 				"icon": "producers"
 			},
 			{
-				"name": "McEvoy Honey Company",
-				"nbid": "20381",
-				"lat": "45.1069241",
-				"lng": "-75.6151471",
-				"orgtype": "producers",
-				"savour": "false",
-				"farmtypes": "csa",
-				"favorites": "fs-sweeteners",
-				"productiontypes": "self_identified_ecological",
-				"infowindow": "\n<strong>McEvoy Honey Company</strong>\n<br/>3648 Gliderway, Manotick, ON, CA, K4M 1B4\n<br/>613-826-2723\n<br/><a target=\"_blank\" href=\"https://411.ca/person/profile/38519977\">https://411.ca/person/profile/38519977</a>\n",
-				"email": "",
-				"website": "https://411.ca/person/profile/38519977",
-				"icon": "producers"
-			},
-			{
 				"name": "Montague House",
 				"nbid": "20382",
 				"lat": "44.8956236",
@@ -2560,25 +2125,10 @@
 				"farmtypes": "csa",
 				"favorites": "fv-vegetables",
 				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Montague House</strong>\n<br/>482 Queen St, Smith Falls, ON, CA, K7A 5B8\n<br/>(613) 283-4198\n<br/><a target=\"_blank\" href=\"http://montaguehousebedandbreakfast.com/\">http://montaguehousebedandbreakfast.com/</a>\n",
+				"infowindow": "\n<strong>Montague House</strong>\n<br/>482 Queen St, Smith Falls, ON, CA, K7A 5B8\n<br/>(613) 283-4198\n",
 				"email": "",
-				"website": "http://montaguehousebedandbreakfast.com/",
+				"website": "",
 				"icon": "foodservices"
-			},
-			{
-				"name": "Pattersons Berry Farm",
-				"nbid": "20385",
-				"lat": "45.3267752",
-				"lng": "-75.74527859999999",
-				"orgtype": "producers",
-				"savour": "false",
-				"farmtypes": "csa,pick_your_own",
-				"favorites": "ff-fruit",
-				"productiontypes": "self_identified_ecological",
-				"infowindow": "\n<strong>Pattersons Berry Farm</strong>\n<br/>1701 Woodroffe Ave, Nepean, ON, CA, K2G 1W2\n<br/>(613) 274-7090\n<br/><a target=\"_blank\" href=\"https://www.facebook.com/pages/Patterson-Berry-Farm/1268971886450600\">https://www.facebook.com/pages/Patterson-Berry-Farm/1268971886450600</a>\n",
-				"email": "",
-				"website": "https://www.facebook.com/pages/Patterson-Berry-Farm/1268971886450600",
-				"icon": "producers"
 			},
 			{
 				"name": "Pinewood Orchard",
@@ -2603,7 +2153,7 @@
 				"orgtype": "producers",
 				"savour": "false",
 				"farmtypes": "csa",
-				"favorites": "fv-vegetables",
+				"favorites": "fh-herbs",
 				"productiontypes": "self_identified_ecological",
 				"infowindow": "\n<strong>Porcupine Creek Farm</strong>\n<br/>214 St Marks Rd, Marmora, ON, CA, K0K 2M0\n<br/>613-395-1166\n<br/><a target=\"_blank\" href=\"http://porcupinecreekfarm.ca/\">http://porcupinecreekfarm.ca/</a>\n",
 				"email": "",
@@ -2635,7 +2185,7 @@
 				"farmtypes": "csa",
 				"favorites": "ff-fruit,fv-vegetables,fg-grain",
 				"productiontypes": "certorg",
-				"infowindow": "\n<strong>Ferme Coopérative Tourne-Sol Co-operative Farm</strong>\n<br/>1025 chemin St Dominique, Les Cedres, QC, CA, J7T 1P5\n<br/>(450) 452-4271\n<br/><a href=\"mailto:info@fermetournesol.qc.ca\">info@fermetournesol.qc.ca</a>\n<br/><a target=\"_blank\" href=\"https://www.fermetournesol.qc.ca/\">https://www.fermetournesol.qc.ca/</a>\n",
+				"infowindow": "\n<strong>Ferme Coopérative Tourne-Sol Co-operative Farm</strong>\n<br/>1025 chemin St Dominique, Les Cedres, QC, CA, J7T 1P5\n<br/>(450) 452-4271\n<br/><a href=\"mailto:info@fermetournesol.qc.ca\">info@fermetournesol.qc.ca</a>\n<br/><a target=\"_blank\" href=\"https://www.fermetournesol.qc.ca/\">https://www.fermetournesol.qc.ca/</a>\n<br/>twitter: @FermeTourneSol\n",
 				"email": "info@fermetournesol.qc.ca",
 				"website": "https://www.fermetournesol.qc.ca/",
 				"icon": "producers"
@@ -2830,8 +2380,8 @@
 				"farmtypes": "csa",
 				"favorites": "fv-vegetables",
 				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Rainbow Natural Foods</strong>\n<br/>1487 Richmond Rd, Ottawa, ON, CA, K2B 6R9\n<br/>613-726-9200\n<br/><a href=\"mailto:janet@rainbowfoods.net\">janet@rainbowfoods.net</a>\n<br/><a target=\"_blank\" href=\"http://www.rainbowfoods.ca/\">http://www.rainbowfoods.ca/</a>\n<br/>twitter: @rainbownatfoods\n",
-				"email": "janet@rainbowfoods.net",
+				"infowindow": "\n<strong>Rainbow Natural Foods</strong>\n<br/>1487 Richmond Rd, Ottawa, ON, CA, K2B 6R9\n<br/>613-726-9200\n<br/><a href=\"mailto:info@rainbowfoods.ca\">info@rainbowfoods.ca</a>\n<br/><a target=\"_blank\" href=\"http://www.rainbowfoods.ca/\">http://www.rainbowfoods.ca/</a>\n<br/>twitter: @rainbownatfoods\n",
+				"email": "info@rainbowfoods.ca",
 				"website": "http://www.rainbowfoods.ca/",
 				"icon": "retailer"
 			},
@@ -2980,8 +2530,8 @@
 				"farmtypes": "csa",
 				"favorites": "fv-vegetables",
 				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Cumberland Farmers Market</strong>\n<br/>1115 Dunning Rd, Cumberland, ON, CA, K4C 1P6\n<br/>613-833-0284, 613-282-6527\n<br/><a href=\"mailto:info@cumberlandfarmersmarket.ca\">info@cumberlandfarmersmarket.ca</a>\n<br/><a target=\"_blank\" href=\"http://cumberlandfarmersmarket.ca/\">http://cumberlandfarmersmarket.ca/</a>\n",
-				"email": "info@cumberlandfarmersmarket.ca",
+				"infowindow": "\n<strong>Cumberland Farmers Market</strong>\n<br/>1115 Dunning Rd, Cumberland, ON, CA, K4C 1P6\n<br/>613-833-0284, 613-282-6527\n<br/><a href=\"mailto:cumberlandmarket@gmail.com\">cumberlandmarket@gmail.com</a>\n<br/><a target=\"_blank\" href=\"http://cumberlandfarmersmarket.ca/\">http://cumberlandfarmersmarket.ca/</a>\n",
+				"email": "cumberlandmarket@gmail.com",
 				"website": "http://cumberlandfarmersmarket.ca/",
 				"icon": "markets"
 			},
@@ -3070,9 +2620,9 @@
 				"farmtypes": "csa",
 				"favorites": "fv-vegetables",
 				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Marché Public Notre-Dame</strong>\n<br/>330 rue Notre-Dame, Gatineau, QC, CA, J8P 1L3\n<br/>(819) 639-9032\n<br/><a href=\"mailto:pbouchard@vieux-gatineau.com\">pbouchard@vieux-gatineau.com</a>\n<br/><a target=\"_blank\" href=\"http://www.tourismeoutaouais.com/en/attractions/marche-public-notre-dame/\">http://www.tourismeoutaouais.com/en/attractions/marche-public-notre-dame/</a>\n",
+				"infowindow": "\n<strong>Marché Public Notre-Dame</strong>\n<br/>330 rue Notre-Dame, Gatineau, QC, CA, J8P 1L3\n<br/>(819) 639-9032\n<br/><a href=\"mailto:pbouchard@vieux-gatineau.com\">pbouchard@vieux-gatineau.com</a>\n",
 				"email": "pbouchard@vieux-gatineau.com",
-				"website": "http://www.tourismeoutaouais.com/en/attractions/marche-public-notre-dame/",
+				"website": "",
 				"icon": "markets"
 			},
 			{
@@ -3175,9 +2725,9 @@
 				"farmtypes": "csa",
 				"favorites": "fv-vegetables",
 				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Marché Public de la Petite-Nation</strong>\n<br/>1268 Route 317, Ripon, QC, CA, J0V 1V0\n<br/>819 983-1848\n<br/><a href=\"mailto:coordo.marche@gmail.com\">coordo.marche@gmail.com</a>\n<br/><a target=\"_blank\" href=\"http://www.croquezoutaouais.com/en/locate/markets-retailers/public-markets/petite-nation-market/\">http://www.croquezoutaouais.com/en/locate/markets-retailers/public-markets/petite-nation-market/</a>\n",
+				"infowindow": "\n<strong>Marché Public de la Petite-Nation</strong>\n<br/>1268 Route 317, Ripon, QC, CA, J0V 1V0\n<br/>819 983-1848\n<br/><a href=\"mailto:coordo.marche@gmail.com\">coordo.marche@gmail.com</a>\n<br/><a target=\"_blank\" href=\"http://www.croquezoutaouais.com/en/locate/markets-retailers/public-markets/petite-nation-market-cooperative-place-du-marche/\">http://www.croquezoutaouais.com/en/locate/markets-retailers/public-markets/petite-nation-market-cooperative-place-du-marche/</a>\n",
 				"email": "coordo.marche@gmail.com",
-				"website": "http://www.croquezoutaouais.com/en/locate/markets-retailers/public-markets/petite-nation-market/",
+				"website": "http://www.croquezoutaouais.com/en/locate/markets-retailers/public-markets/petite-nation-market-cooperative-place-du-marche/",
 				"icon": "markets"
 			},
 			{
@@ -3385,9 +2935,9 @@
 				"farmtypes": "csa",
 				"favorites": "fh-herbs",
 				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Herboristerie La Fée des Bois Botanicals</strong>\n<br/>C-34 ch Greermount, Clarendon, QC, CA, J0X 2Y0\n<br/>819-647-2093\n<br/><a href=\"mailto:herboristerielafeedesbois@hotmail.com\">herboristerielafeedesbois@hotmail.com</a>\n<br/><a target=\"_blank\" href=\"http://lafeedesboisbotanicals.blogspot.com/p/contact-us.html\">http://lafeedesboisbotanicals.blogspot.com/p/contact-us.html</a>\n<br/>twitter: @J0X 2Y0\n",
+				"infowindow": "\n<strong>Herboristerie La Fée des Bois Botanicals</strong>\n<br/>C-34 ch Greermount, Clarendon, QC, CA, J0X 2Y0\n<br/>819-307-2093\n<br/><a href=\"mailto:herboristerielafeedesbois@hotmail.com\">herboristerielafeedesbois@hotmail.com</a>\n<br/><a target=\"_blank\" href=\"https://www.herboristerielafeedesbois.com/\">https://www.herboristerielafeedesbois.com/</a>\n",
 				"email": "herboristerielafeedesbois@hotmail.com",
-				"website": "http://lafeedesboisbotanicals.blogspot.com/p/contact-us.html",
+				"website": "https://www.herboristerielafeedesbois.com/",
 				"icon": "producers"
 			},
 			{
@@ -3415,9 +2965,9 @@
 				"farmtypes": "csa",
 				"favorites": "fv-vegetables",
 				"productiontypes": "conventional",
-				"infowindow": "\n<strong>SunTech Greenhouses Ltd.</strong>\n<br/>5541 Doyle Rd, Manotick, ON, CA, K4M 1B4\n<br/>613-692-3388\n<br/><a href=\"mailto:suntech@magma.ca\">suntech@magma.ca</a>\n<br/><a target=\"_blank\" href=\"http://www.suntech.ca/\">http://www.suntech.ca/</a>\n<br/>twitter: @SuntechGH\n",
+				"infowindow": "\n<strong>SunTech Greenhouses Ltd.</strong>\n<br/>5541 Doyle Rd, Manotick, ON, CA, K4M 1B4\n<br/>613-692-3388\n<br/><a href=\"mailto:suntech@magma.ca\">suntech@magma.ca</a>\n<br/>twitter: @SuntechGH\n",
 				"email": "suntech@magma.ca",
-				"website": "http://www.suntech.ca/",
+				"website": "",
 				"icon": "producers"
 			},
 			{
@@ -3550,7 +3100,7 @@
 				"farmtypes": "csa",
 				"favorites": "fv-vegetables",
 				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Upper Canada Creamery</strong>\n<br/>11575 Waddell Rd, Iroquois, ON, CA, K0E 1K0\n<br/>6138038890\n<br/><a href=\"mailto:sales@uppercanadacreamery.com\">sales@uppercanadacreamery.com</a>\n<br/><a target=\"_blank\" href=\"http://www.uppercanadacreamery.com/\">http://www.uppercanadacreamery.com/</a>\n",
+				"infowindow": "\n<strong>Upper Canada Creamery</strong>\n<br/>11575 Waddell Rd, Iroquois, ON, CA, K0E 1K0\n<br/>6138038890\n<br/><a href=\"mailto:sales@uppercanadacreamery.com\">sales@uppercanadacreamery.com</a>\n<br/><a target=\"_blank\" href=\"http://www.uppercanadacreamery.com/\">http://www.uppercanadacreamery.com/</a>\n<br/>twitter: @biemondyogurt\n",
 				"email": "sales@uppercanadacreamery.com",
 				"website": "http://www.uppercanadacreamery.com/",
 				"icon": "producers"
@@ -3595,7 +3145,7 @@
 				"farmtypes": "csa",
 				"favorites": "fs-sweeteners",
 				"productiontypes": "self_identified_ecological",
-				"infowindow": "\n<strong>Capital Bees</strong>\n<br/>660 Hochelaga St, Ottawa, ON, CA, K1K 2E9\n<br/>613-852-5063\n<br/><a href=\"mailto:ron@capitalbees.ca\">ron@capitalbees.ca</a>\n<br/><a target=\"_blank\" href=\"http://capitalbees.ca/\">http://capitalbees.ca/</a>\n",
+				"infowindow": "\n<strong>Capital Bees</strong>\n<br/>67 Strathaven Private, Ottawa, ON, CA, K1J 1K7\n<br/>613-852-5063\n<br/><a href=\"mailto:ron@capitalbees.ca\">ron@capitalbees.ca</a>\n<br/><a target=\"_blank\" href=\"http://capitalbees.ca/\">http://capitalbees.ca/</a>\n",
 				"email": "ron@capitalbees.ca",
 				"website": "http://capitalbees.ca/",
 				"icon": "producers"
@@ -3625,7 +3175,7 @@
 				"farmtypes": "csa",
 				"favorites": "fs-sweeteners",
 				"productiontypes": "self_identified_ecological",
-				"infowindow": "\n<strong>Blue Shoes Honey</strong>\n<br/>1700 St Jose, Embrun, ON, CA, K0A 1W0\n<br/>613-443-2101\n<br/><a href=\"mailto:brianwlacey@gmail.com\">brianwlacey@gmail.com</a>\n<br/><a target=\"_blank\" href=\"http://blueshoeshoney.ca/\">http://blueshoeshoney.ca/</a>\n<br/>twitter: @K0A 1W0\n",
+				"infowindow": "\n<strong>Blue Shoes Honey</strong>\n<br/>1915 County Road 2, Curran, ON, CA, K0B 1C0\n<br/><a href=\"mailto:brianwlacey@gmail.com\">brianwlacey@gmail.com</a>\n<br/><a target=\"_blank\" href=\"http://blueshoeshoney.ca/\">http://blueshoeshoney.ca/</a>\n",
 				"email": "brianwlacey@gmail.com",
 				"website": "http://blueshoeshoney.ca/",
 				"icon": "producers"
@@ -3640,8 +3190,8 @@
 				"farmtypes": "csa",
 				"favorites": "fv-vegetables",
 				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Gordz Hot Sauce</strong>\n<br/>1375 Hwy 34, Dalkeith, ON, CA, K0B 1E0\n<br/>2504899872\n<br/><a href=\"mailto:gordzhotsauce@gmail.com\">gordzhotsauce@gmail.com</a>\n<br/><a target=\"_blank\" href=\"http://www.gordzhotsauce.com/\">http://www.gordzhotsauce.com/</a>\n",
-				"email": "gordzhotsauce@gmail.com",
+				"infowindow": "\n<strong>Gordz Hot Sauce</strong>\n<br/>1375 Hwy 34, Dalkeith, ON, CA, K0B 1E0\n<br/>2504899872\n<br/><a href=\"mailto:info@gordzhotsauce.com\">info@gordzhotsauce.com</a>\n<br/><a target=\"_blank\" href=\"http://www.gordzhotsauce.com/\">http://www.gordzhotsauce.com/</a>\n<br/>twitter: @GordzHotSauce\n",
+				"email": "info@gordzhotsauce.com",
 				"website": "http://www.gordzhotsauce.com/",
 				"icon": "producers"
 			},
@@ -3670,9 +3220,9 @@
 				"farmtypes": "csa",
 				"favorites": "fm-meat",
 				"productiontypes": "self_identified_ecological",
-				"infowindow": "\n<strong>Pinnacle Haven Farm</strong>\n<br/>865 Garden of Eden Rd, Renfrew, ON, CA, K7V 3Z8\n<br/>6134338255\n<br/><a href=\"mailto:pinnaclehaven@gmail.com\">pinnaclehaven@gmail.com</a>\n<br/><a target=\"_blank\" href=\"http://www.pinnaclehaven.com/\">http://www.pinnaclehaven.com/</a>\n",
+				"infowindow": "\n<strong>Pinnacle Haven Farm</strong>\n<br/>865 Garden of Eden Rd, Renfrew, ON, CA, K7V 3Z8\n<br/>6134338255\n<br/><a href=\"mailto:pinnaclehaven@gmail.com\">pinnaclehaven@gmail.com</a>\n<br/><a target=\"_blank\" href=\"http://www.pinnaclehaven.ca/\">http://www.pinnaclehaven.ca/</a>\n",
 				"email": "pinnaclehaven@gmail.com",
-				"website": "http://www.pinnaclehaven.com/",
+				"website": "http://www.pinnaclehaven.ca/",
 				"icon": "producers"
 			},
 			{
@@ -3734,21 +3284,6 @@
 				"email": "bill@heavenlyhoney.ca",
 				"website": "http://heavenlyhoney.ca/",
 				"icon": "producers"
-			},
-			{
-				"name": "Kulture Foods",
-				"nbid": "25924",
-				"lat": "45.42847709999999",
-				"lng": "-75.71999199999999",
-				"orgtype": "foodservices,microprocessor",
-				"savour": "false",
-				"farmtypes": "csa",
-				"favorites": "fv-vegetables",
-				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Kulture Foods</strong>\n<br/>110 Eddy St, Gatineau, QC, CA, J8X 2W6\n<br/>613-266-4571\n<br/><a href=\"mailto:info@kulturefoods.com\">info@kulturefoods.com</a>\n<br/><a target=\"_blank\" href=\"http://www.kulturefoods.com/\">http://www.kulturefoods.com/</a>\n",
-				"email": "info@kulturefoods.com",
-				"website": "http://www.kulturefoods.com/",
-				"icon": "foodservices"
 			},
 			{
 				"name": "Mayo Hill Garlic",
@@ -3824,21 +3359,6 @@
 				"email": "artizenkombucha@gmail.com",
 				"website": "http://www.artizenkombucha.ca/",
 				"icon": "microprocessor"
-			},
-			{
-				"name": "Butterfly Sky Farms",
-				"nbid": "26303",
-				"lat": "44.9902263",
-				"lng": "-75.71268429999999",
-				"orgtype": "producers",
-				"savour": "false",
-				"farmtypes": "csa",
-				"favorites": "fv-vegetables,fh-herbs",
-				"productiontypes": "self_identified_ecological",
-				"infowindow": "\n<strong>Butterfly Sky Farms</strong>\n<br/>1515 County Rd 43, Oxford Mills, ON, CA, K0G 1S0\n<br/>(613) 797-1377\n<br/><a href=\"mailto:butterflyskyfarms@gmail.com\">butterflyskyfarms@gmail.com</a>\n<br/><a target=\"_blank\" href=\"https://butterflyskyfarms.wordpress.com/\">https://butterflyskyfarms.wordpress.com/</a>\n",
-				"email": "butterflyskyfarms@gmail.com",
-				"website": "https://butterflyskyfarms.wordpress.com/",
-				"icon": "producers"
 			},
 			{
 				"name": "Marché Vieux Hull",
@@ -3925,9 +3445,9 @@
 				"farmtypes": "csa",
 				"favorites": "fv-vegetables",
 				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Sharbot Lake Farmers Market</strong>\n<br/>1021 Medical Center Rd, Sharbot Lake, ON, CA, K0H 2P0\n<br/><a href=\"mailto:slfmsumarie@gmail.com\">slfmsumarie@gmail.com</a>\n<br/><a target=\"_blank\" href=\"https://sharbotlakefarmersmarket.ca/\">https://sharbotlakefarmersmarket.ca/</a>\n",
+				"infowindow": "\n<strong>Sharbot Lake Farmers Market</strong>\n<br/>1021 Medical Center Rd, Sharbot Lake, ON, CA, K0H 2P0\n<br/><a href=\"mailto:slfmsumarie@gmail.com\">slfmsumarie@gmail.com</a>\n",
 				"email": "slfmsumarie@gmail.com",
-				"website": "https://sharbotlakefarmersmarket.ca/",
+				"website": "",
 				"icon": "markets"
 			},
 			{
@@ -3970,7 +3490,7 @@
 				"farmtypes": "csa",
 				"favorites": "fv-vegetables",
 				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Ingleside Tomatoes</strong>\n<br/>1444 Dafoe Rd, Ingleside, ON, CA, K0C 1M0\n<br/>613-537-8250\n<br/><a href=\"mailto:michelleconduah@gmail.com\">michelleconduah@gmail.com</a>\n<br/>twitter: @K0C 1M0\n",
+				"infowindow": "\n<strong>Ingleside Tomatoes</strong>\n<br/>1444 Dafoe Rd, Ingleside, ON, CA, K0C 1M0\n<br/>613-537-8250\n<br/><a href=\"mailto:michelleconduah@gmail.com\">michelleconduah@gmail.com</a>\n",
 				"email": "michelleconduah@gmail.com",
 				"website": "",
 				"icon": "producers"
@@ -4030,9 +3550,9 @@
 				"farmtypes": "csa",
 				"favorites": "fv-vegetables",
 				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Ottawa Farmers Market - Landsdowne</strong>\n<br/>1000 Exhibition Way, Ottawa, ON, CA, K1S 5B4\n<br/>613-863-1049\n<br/><a target=\"_blank\" href=\"http://ottawafarmersmarket.ca/lansdowne-park-ottawa/\">http://ottawafarmersmarket.ca/lansdowne-park-ottawa/</a>\n",
+				"infowindow": "\n<strong>Ottawa Farmers Market - Landsdowne</strong>\n<br/>1000 Exhibition Way, Ottawa, ON, CA, K1S 5B4\n<br/>613-863-1049\n<br/><a target=\"_blank\" href=\"https://ottawafarmersmarket.ca/lansdowne-market/\">https://ottawafarmersmarket.ca/lansdowne-market/</a>\n",
 				"email": "",
-				"website": "http://ottawafarmersmarket.ca/lansdowne-park-ottawa/",
+				"website": "https://ottawafarmersmarket.ca/lansdowne-market/",
 				"icon": "markets"
 			},
 			{
@@ -4060,24 +3580,9 @@
 				"farmtypes": "csa",
 				"favorites": "fv-vegetables",
 				"productiontypes": "self_identified_ecological",
-				"infowindow": "\n<strong>Terramor Farm</strong>\n<br/>594 Campbell Side Rd, White Lake, ON, CA, K0A 3L0\n<br/>613-809-3650\n<br/><a href=\"mailto:terramorfarm@gmail.com\">terramorfarm@gmail.com</a>\n<br/><a target=\"_blank\" href=\"http://www.terramorfarm.com/\">http://www.terramorfarm.com/</a>\n<br/>twitter: @TerramorFarm\n",
+				"infowindow": "\n<strong>Terramor Farm</strong>\n<br/>1004 Dickson Rd, Burnstown, ON, CA, K7V 3Z4\n<br/>613-809-3650\n<br/><a href=\"mailto:terramorfarm@gmail.com\">terramorfarm@gmail.com</a>\n<br/><a target=\"_blank\" href=\"http://www.terramorfarm.com/\">http://www.terramorfarm.com/</a>\n<br/>twitter: @TerramorFarm\n",
 				"email": "terramorfarm@gmail.com",
 				"website": "http://www.terramorfarm.com/",
-				"icon": "producers"
-			},
-			{
-				"name": "Carrot Boots Farm",
-				"nbid": "26590",
-				"lat": "45.4180137",
-				"lng": "-75.1485756",
-				"orgtype": "producers",
-				"savour": "false",
-				"farmtypes": "csa",
-				"favorites": "fv-vegetables",
-				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Carrot Boots Farm</strong>\n<br/>4267 Champlain St, Bourget, ON, CA, K0A 1E0\n<br/><a href=\"mailto:bottes_carottes@outlook.com\">bottes_carottes@outlook.com</a>\n<br/><a target=\"_blank\" href=\"http://bourget/\">http://bourget/</a>\n<br/>twitter: @K0A1E0\n",
-				"email": "bottes_carottes@outlook.com",
-				"website": "http://bourget/",
 				"icon": "producers"
 			},
 			{
@@ -4094,36 +3599,6 @@
 				"email": "info@heartoforleans.ca",
 				"website": "http://heartoforleans.ca/market/",
 				"icon": "markets"
-			},
-			{
-				"name": "Bent Plow Farm",
-				"nbid": "26731",
-				"lat": "45.4774625",
-				"lng": "-76.6830066",
-				"orgtype": "producers",
-				"savour": "false",
-				"farmtypes": "csa",
-				"favorites": "fv-vegetables",
-				"productiontypes": "self_identified_ecological",
-				"infowindow": "\n<strong>Bent Plow Farm</strong>\n<br/>215 Munroe Ave E, Renfrew, ON, CA, K7V 3K6\n<br/>613-701-0106\n<br/><a href=\"mailto:bentplowfarm@gmail.com\">bentplowfarm@gmail.com</a>\n<br/><a target=\"_blank\" href=\"http://www.bentplowfarm.ca/\">http://www.bentplowfarm.ca/</a>\n",
-				"email": "bentplowfarm@gmail.com",
-				"website": "http://www.bentplowfarm.ca/",
-				"icon": "producers"
-			},
-			{
-				"name": "Kiefro Farm",
-				"nbid": "26777",
-				"lat": "45.470225",
-				"lng": "-75.2931218",
-				"orgtype": "producers",
-				"savour": "false",
-				"farmtypes": "csa",
-				"favorites": "fm-meat",
-				"productiontypes": "self_identified_ecological",
-				"infowindow": "\n<strong>Kiefro Farm</strong>\n<br/>2079 Nolan Rd, Rockland, ON, CA, K0A 2A0\n<br/>(613) 978-1114\n<br/><a href=\"mailto:kiefro@hotmail.com\">kiefro@hotmail.com</a>\n<br/><a target=\"_blank\" href=\"https://twitter.com/KiefroFarm\">https://twitter.com/KiefroFarm</a>\n<br/>twitter: @KiefroFarm\n",
-				"email": "kiefro@hotmail.com",
-				"website": "https://twitter.com/KiefroFarm",
-				"icon": "producers"
 			},
 			{
 				"name": "Ferme Rêveuse",
@@ -4156,6 +3631,21 @@
 				"icon": "producers"
 			},
 			{
+				"name": "The Log Farm",
+				"nbid": "27189",
+				"lat": "45.2964053",
+				"lng": "-75.7917806",
+				"orgtype": "producers",
+				"savour": "false",
+				"farmtypes": "csa",
+				"favorites": "fs-sweeteners",
+				"productiontypes": "conventional",
+				"infowindow": "\n<strong>The Log Farm</strong>\n<br/>670 Cedarview Rd, Ottawa, ON, CA, K2R 1E5\n<br/>(613)913-4929\n<br/><a href=\"mailto:thelogfarm@rogers.com\">thelogfarm@rogers.com</a>\n<br/><a target=\"_blank\" href=\"https://t.co/0NHy8fOdDN\">https://t.co/0NHy8fOdDN</a>\n<br/>twitter: @TheLogFarm\n",
+				"email": "thelogfarm@rogers.com",
+				"website": "https://t.co/0NHy8fOdDN",
+				"icon": "producers"
+			},
+			{
 				"name": "Elk Ranch",
 				"nbid": "27553",
 				"lat": "45.35326999999999",
@@ -4165,9 +3655,9 @@
 				"farmtypes": "csa",
 				"favorites": "fm-meat",
 				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Elk Ranch</strong>\n<br/>1271 Old Carp Rd, Ottawa, ON, CA, K2K 1X7\n<br/>613-599-0772\n<br/><a href=\"mailto:info@elkranch.com\">info@elkranch.com</a>\n<br/><a target=\"_blank\" href=\"http://www.elkranch.com/\">http://www.elkranch.com/</a>\n<br/>twitter: @elkburgr\n",
+				"infowindow": "\n<strong>Elk Ranch</strong>\n<br/>1271 Old Carp Rd, Ottawa, ON, CA, K2K 1X7\n<br/>613-599-0772\n<br/><a href=\"mailto:info@elkranch.com\">info@elkranch.com</a>\n<br/><a target=\"_blank\" href=\"https://elkranch.ca/\">https://elkranch.ca/</a>\n<br/>twitter: @elkburgr\n",
 				"email": "info@elkranch.com",
-				"website": "http://www.elkranch.com/",
+				"website": "https://elkranch.ca/",
 				"icon": "producers"
 			},
 			{
@@ -4201,16 +3691,16 @@
 				"icon": "retailer"
 			},
 			{
-				"name": "Clearydale Honey",
+				"name": "Clearydale Feed and Seed",
 				"nbid": "27873",
 				"lat": "44.836699",
 				"lng": "-75.568438",
 				"orgtype": "producers",
 				"savour": "false",
 				"farmtypes": "csa",
-				"favorites": "fs-sweeteners",
+				"favorites": "fg-grain",
 				"productiontypes": "self_identified_ecological",
-				"infowindow": "\n<strong>Clearydale Honey</strong>\n<br/>3027 County Road 21, Spencerville, ON, CA, K0E 1X0\n<br/>613-658-5129\n<br/><a href=\"mailto:conor@clearydale.ca\">conor@clearydale.ca</a>\n<br/><a target=\"_blank\" href=\"https://www.clearydale.ca/\">https://www.clearydale.ca/</a>\n",
+				"infowindow": "\n<strong>Clearydale Feed and Seed</strong>\n<br/>3027 County Road 21, Spencerville, ON, CA, K0E 1X0\n<br/>613-658-5129\n<br/><a href=\"mailto:conor@clearydale.ca\">conor@clearydale.ca</a>\n<br/><a target=\"_blank\" href=\"https://www.clearydale.ca/\">https://www.clearydale.ca/</a>\n",
 				"email": "conor@clearydale.ca",
 				"website": "https://www.clearydale.ca/",
 				"icon": "producers"
@@ -4270,8 +3760,8 @@
 				"farmtypes": "csa",
 				"favorites": "fv-vegetables",
 				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Watsons Mill</strong>\n<br/>5525 Dickinson St, Manotick, ON, CA, K4M 1A2\n<br/>613.692.6455\n<br/><a href=\"mailto:watsonsmillprograms@rogers.com\">watsonsmillprograms@rogers.com</a>\n<br/><a target=\"_blank\" href=\"http://watsonsmill.com/\">http://watsonsmill.com/</a>\n<br/>twitter: @WatsonsMill\n",
-				"email": "watsonsmillprograms@rogers.com",
+				"infowindow": "\n<strong>Watsons Mill</strong>\n<br/>5525 Dickinson St, Manotick, ON, CA, K4M 1A2\n<br/>613.692.6455\n<br/><a href=\"mailto:info@watsonsmill.com\">info@watsonsmill.com</a>\n<br/><a target=\"_blank\" href=\"http://watsonsmill.com/\">http://watsonsmill.com/</a>\n<br/>twitter: @WatsonsMill\n",
+				"email": "info@watsonsmill.com",
 				"website": "http://watsonsmill.com/",
 				"icon": "microprocessor"
 			},
@@ -4291,6 +3781,21 @@
 				"icon": "foodservices"
 			},
 			{
+				"name": "Ottawa Edible Flowers",
+				"nbid": "29861",
+				"lat": "45.4801004",
+				"lng": "-76.0703725",
+				"orgtype": "producers",
+				"savour": "false",
+				"farmtypes": "csa",
+				"favorites": "fh-herbs",
+				"productiontypes": "self_identified_ecological",
+				"infowindow": "\n<strong>Ottawa Edible Flowers</strong>\n<br/>150 Baillie Ave, Ottawa, ON, CA, K0A 3M0\n<br/>613-832-1796\n<br/><a href=\"mailto:fresh@ottawaedibleflowers.com\">fresh@ottawaedibleflowers.com</a>\n<br/><a target=\"_blank\" href=\"http://t.co/sHW1XEqwEM\">http://t.co/sHW1XEqwEM</a>\n<br/>twitter: @FreshFlowerGal\n",
+				"email": "fresh@ottawaedibleflowers.com",
+				"website": "http://t.co/sHW1XEqwEM",
+				"icon": "producers"
+			},
+			{
 				"name": "Ferme Coop BeetBox Co-op Farm",
 				"nbid": "29971",
 				"lat": "45.3504195",
@@ -4303,21 +3808,6 @@
 				"infowindow": "\n<strong>Ferme Coop BeetBox Co-op Farm</strong>\n<br/>230 Davidsons Side Rd, Nepean, ON, CA, K2K 2Z4\n<br/>(613) 416-9171\n<br/><a href=\"mailto:hello@beetbox.ca\">hello@beetbox.ca</a>\n<br/><a target=\"_blank\" href=\"https://beetbox.ca/\">https://beetbox.ca/</a>\n<br/>twitter: @beetbox_coop\n",
 				"email": "hello@beetbox.ca",
 				"website": "https://beetbox.ca/",
-				"icon": "producers"
-			},
-			{
-				"name": "Capital Greens Urban Farm",
-				"nbid": "30200",
-				"lat": "45.3769481",
-				"lng": "-75.7615713",
-				"orgtype": "producers",
-				"savour": "false",
-				"farmtypes": "csa",
-				"favorites": "fv-vegetables",
-				"productiontypes": "certorg",
-				"infowindow": "\n<strong>Capital Greens Urban Farm</strong>\n<br/>1907 Wembley Ave, Ottawa, ON, CA, K2A 1A8\n<br/>6138672377\n<br/><a href=\"mailto:mathew.levinson@gmail.com\">mathew.levinson@gmail.com</a>\n<br/><a target=\"_blank\" href=\"https://www.capitalgreens.ca/\">https://www.capitalgreens.ca/</a>\n",
-				"email": "mathew.levinson@gmail.com",
-				"website": "https://www.capitalgreens.ca/",
 				"icon": "producers"
 			},
 			{
@@ -4390,8 +3880,8 @@
 				"farmtypes": "csa",
 				"favorites": "fh-herbs",
 				"productiontypes": "self_identified_ecological",
-				"infowindow": "\n<strong>Ottawa Valley Hops Farm</strong>\n<br/>3289 Munster Rd, Ottawa, ON, CA, K0A 2Z0\n<br/>613-298-3146\n<br/><a href=\"mailto:doug.fisher@xplorenet.ca\">doug.fisher@xplorenet.ca</a>\n<br/><a target=\"_blank\" href=\"http://www.ottawavalleyhops.com/\">http://www.ottawavalleyhops.com/</a>\n",
-				"email": "doug.fisher@xplorenet.ca",
+				"infowindow": "\n<strong>Ottawa Valley Hops Farm</strong>\n<br/>3289 Munster Rd, Ottawa, ON, CA, K0A 2Z0\n<br/>613-298-3146\n<br/><a href=\"mailto:hops@ottawavalleyhops.com\">hops@ottawavalleyhops.com</a>\n<br/><a target=\"_blank\" href=\"http://www.ottawavalleyhops.com/\">http://www.ottawavalleyhops.com/</a>\n",
+				"email": "hops@ottawavalleyhops.com",
 				"website": "http://www.ottawavalleyhops.com/",
 				"icon": "producers"
 			},
@@ -4405,9 +3895,9 @@
 				"farmtypes": "csa,pick_your_own",
 				"favorites": "ff-fruit",
 				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Log Cabin Orchards</strong>\n<br/>6121 Cabin Rd, Ottawa, ON, CA, K0A 2W0\n<br/>(613) 826-5081\n<br/><a href=\"mailto:yazminduque@yahoo.com\">yazminduque@yahoo.com</a>\n<br/><a target=\"_blank\" href=\"http://logcabinorchard.ca/\">http://logcabinorchard.ca/</a>\n",
+				"infowindow": "\n<strong>Log Cabin Orchards</strong>\n<br/>6121 Cabin Rd, Ottawa, ON, CA, K0A 2W0\n<br/>(613) 826-5081\n<br/><a href=\"mailto:yazminduque@yahoo.com\">yazminduque@yahoo.com</a>\n<br/><a target=\"_blank\" href=\"https://www.facebook.com/www.logcabinorchard.ca/\">https://www.facebook.com/www.logcabinorchard.ca/</a>\n",
 				"email": "yazminduque@yahoo.com",
-				"website": "http://logcabinorchard.ca/",
+				"website": "https://www.facebook.com/www.logcabinorchard.ca/",
 				"icon": "producers"
 			},
 			{
@@ -4465,7 +3955,7 @@
 				"farmtypes": "csa",
 				"favorites": "fm-meat",
 				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Donevelyn Farms</strong>\n<br/>4053 Yorks Corners Rd, Ottawa, ON, CA, K0A 2P0\n<br/>(613) 821-2997\n<br/><a target=\"_blank\" href=\"http://www.donevelynfarms.com/\">http://www.donevelynfarms.com/</a>\n",
+				"infowindow": "\n<strong>Donevelyn Farms</strong>\n<br/>4053 Yorks Corners Rd, Metcalfe, ON, CA, K0A 2P0\n<br/>(613) 821-2997\n<br/><a target=\"_blank\" href=\"http://www.donevelynfarms.com/\">http://www.donevelynfarms.com/</a>\n",
 				"email": "",
 				"website": "http://www.donevelynfarms.com/",
 				"icon": "producers"
@@ -4480,24 +3970,9 @@
 				"farmtypes": "csa,pick_your_own",
 				"favorites": "fv-vegetables",
 				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Canaan Blueberries</strong>\n<br/>2351 Canaan Rd, Sarsfield, ON, CA, K0A3E0\n<br/>613-794-2069\n<br/><a href=\"mailto:morlen4@gmail.com\">morlen4@gmail.com</a>\n<br/><a target=\"_blank\" href=\"http://www.bluberry.ca/\">http://www.bluberry.ca/</a>\n",
+				"infowindow": "\n<strong>Canaan Blueberries</strong>\n<br/>2351 Canaan Rd, Sarsfield, ON, CA, K0A3E0\n<br/>(613) 794-2069\n<br/><a href=\"mailto:morlen4@gmail.com\">morlen4@gmail.com</a>\n<br/><a target=\"_blank\" href=\"http://www.bluberry.ca/\">http://www.bluberry.ca/</a>\n",
 				"email": "morlen4@gmail.com",
 				"website": "http://www.bluberry.ca/",
-				"icon": "producers"
-			},
-			{
-				"name": "Aster Lane Edibles",
-				"nbid": "30318",
-				"lat": "45.40164679999999",
-				"lng": "-76.2287736",
-				"orgtype": "producers",
-				"savour": "false",
-				"farmtypes": "csa",
-				"favorites": "fv-vegetables",
-				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Aster Lane Edibles</strong>\n<br/>3348 Hunt Line Rd, Ottawa, ON, CA, K7S 3G7\n<br/><a target=\"_blank\" href=\"http://www.asterlaneedibles.ca/\">http://www.asterlaneedibles.ca/</a>\n",
-				"email": "",
-				"website": "http://www.asterlaneedibles.ca/",
 				"icon": "producers"
 			},
 			{
@@ -4585,9 +4060,9 @@
 				"farmtypes": "csa",
 				"favorites": "fp-poultry",
 				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Faisanderie des Collines</strong>\n<br/>1000 Montee Saint-Amour, Cantley, QC, CA, J8V 3M5\n<br/>(819) 671-1974\n<br/><a href=\"mailto:faisantasia@faisansdescollines.com\">faisantasia@faisansdescollines.com</a>\n<br/><a target=\"_blank\" href=\"http://www.faisansdescollines.com/index.php\">http://www.faisansdescollines.com/index.php</a>\n",
+				"infowindow": "\n<strong>Faisanderie des Collines</strong>\n<br/>1000 Montee Saint-Amour, Cantley, QC, CA, J8V 3M5\n<br/>(819) 671-1974\n<br/><a href=\"mailto:faisantasia@faisansdescollines.com\">faisantasia@faisansdescollines.com</a>\n<br/><a target=\"_blank\" href=\"https://www.facebook.com/faisanderiedescollines/\">https://www.facebook.com/faisanderiedescollines/</a>\n",
 				"email": "faisantasia@faisansdescollines.com",
-				"website": "http://www.faisansdescollines.com/index.php",
+				"website": "https://www.facebook.com/faisanderiedescollines/",
 				"icon": "producers"
 			},
 			{
@@ -4600,9 +4075,9 @@
 				"farmtypes": "csa",
 				"favorites": "fm-meat",
 				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Tickle Island Farm</strong>\n<br/>23 Germanicus Rd, Eganville, ON, CA, K0J 1T0\n<br/>(613) 628-3275\n<br/><a href=\"mailto:tickleislandfarm@yahoo.ca\">tickleislandfarm@yahoo.ca</a>\n<br/><a target=\"_blank\" href=\"http://www.ottawavalleyfood.org/shop/members/product_list_producer.php?producer_id=micky\">http://www.ottawavalleyfood.org/shop/members/product_list_producer.php?producer_id=micky</a>\n",
+				"infowindow": "\n<strong>Tickle Island Farm</strong>\n<br/>23 Germanicus Rd, Eganville, ON, CA, K0J 1T0\n<br/>(613) 628-3275\n<br/><a href=\"mailto:tickleislandfarm@yahoo.ca\">tickleislandfarm@yahoo.ca</a>\n<br/><a target=\"_blank\" href=\"https://www.getfreerange.info/farm/grass-fed-lamb-free-range-pork-ottawa-tickle-island-farm\">https://www.getfreerange.info/farm/grass-fed-lamb-free-range-pork-ottawa-tickle-island-farm</a>\n",
 				"email": "tickleislandfarm@yahoo.ca",
-				"website": "http://www.ottawavalleyfood.org/shop/members/product_list_producer.php?producer_id=micky",
+				"website": "https://www.getfreerange.info/farm/grass-fed-lamb-free-range-pork-ottawa-tickle-island-farm",
 				"icon": "producers"
 			},
 			{
@@ -4615,8 +4090,8 @@
 				"farmtypes": "csa",
 				"favorites": "fm-meat",
 				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Alder Creek Farm</strong>\n<br/>620 Roesler Rd, Golden Lake, ON, CA, K0J 1X0\n<br/>(613) 717-3795\n<br/><a target=\"_blank\" href=\"http://www.aldercreek.ca/\">http://www.aldercreek.ca/</a>\n",
-				"email": "",
+				"infowindow": "\n<strong>Alder Creek Farm</strong>\n<br/>620 Roesler Rd, Golden Lake, ON, CA, K0J 1X0\n<br/>(613) 717-3795\n<br/><a href=\"mailto:info@aldercreek.ca\">info@aldercreek.ca</a>\n<br/><a target=\"_blank\" href=\"http://www.aldercreek.ca/\">http://www.aldercreek.ca/</a>\n",
+				"email": "info@aldercreek.ca",
 				"website": "http://www.aldercreek.ca/",
 				"icon": "producers"
 			},
@@ -4660,7 +4135,7 @@
 				"farmtypes": "csa",
 				"favorites": "fm-meat,fp-poultry",
 				"productiontypes": "certorg",
-				"infowindow": "\n<strong>Ferme HLF du Lac Simon</strong>\n<br/>684 Mont_e D_sabrais, Ch_n_ville, QC, CA, J0V 1E0\n<br/>(819) 428-1580\n<br/><a href=\"mailto:hlf@tlb.sympatico.ca\">hlf@tlb.sympatico.ca</a>\n<br/><a target=\"_blank\" href=\"https://www.fermehlf.com/\">https://www.fermehlf.com/</a>\n",
+				"infowindow": "\n<strong>Ferme HLF du Lac Simon</strong>\n<br/>684 Mont_e D_sabrais, Lac-Simon, QC, CA, J0V 1E0\n<br/>(819) 428-1580\n<br/><a href=\"mailto:hlf@tlb.sympatico.ca\">hlf@tlb.sympatico.ca</a>\n<br/><a target=\"_blank\" href=\"https://www.fermehlf.com/\">https://www.fermehlf.com/</a>\n",
 				"email": "hlf@tlb.sympatico.ca",
 				"website": "https://www.fermehlf.com/",
 				"icon": "producers"
@@ -4690,7 +4165,7 @@
 				"farmtypes": "csa",
 				"favorites": "ff-fruit,fv-vegetables,fm-meat,fp-poultry",
 				"productiontypes": "self_identified_ecological",
-				"infowindow": "\n<strong>Bowness Familiy Farm</strong>\n<br/>2610 Scotch Line, Perth, ON, CA, K7H 3C5\n<br/>(613) 200-6209\n<br/><a href=\"mailto:info@bownessfarm.ca\">info@bownessfarm.ca</a>\n<br/><a target=\"_blank\" href=\"https://www.bownessfarm.ca/\">https://www.bownessfarm.ca/</a>\n",
+				"infowindow": "\n<strong>Bowness Familiy Farm</strong>\n<br/>2610 Scotch Line, Perth, ON, CA, K7H 3C5\n<br/>(613) 390-0046\n<br/><a href=\"mailto:info@bownessfarm.ca\">info@bownessfarm.ca</a>\n<br/><a target=\"_blank\" href=\"https://www.bownessfarm.ca/\">https://www.bownessfarm.ca/</a>\n",
 				"email": "info@bownessfarm.ca",
 				"website": "https://www.bownessfarm.ca/",
 				"icon": "retailer"
@@ -4750,7 +4225,7 @@
 				"farmtypes": "csa",
 				"favorites": "fv-vegetables,fm-meat",
 				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Ferme La Machine</strong>\n<br/>1124 Chemin de Derry, Mulgrave-et-Derry, QC, CA, J8L 2W9\n<br/>(819) 307-3787\n<br/><a href=\"mailto:info@fermelamachine.com\">info@fermelamachine.com</a>\n<br/><a target=\"_blank\" href=\"http://www.fermelamachine.com/home/\">http://www.fermelamachine.com/home/</a>\n",
+				"infowindow": "\n<strong>Ferme La Machine</strong>\n<br/>1124 Chemin de Derry, Mulgrave-et-Derry, QC, CA, J8L 2W9\n<br/>(819) 281-2871\n<br/><a href=\"mailto:info@fermelamachine.com\">info@fermelamachine.com</a>\n<br/><a target=\"_blank\" href=\"http://www.fermelamachine.com/home/\">http://www.fermelamachine.com/home/</a>\n",
 				"email": "info@fermelamachine.com",
 				"website": "http://www.fermelamachine.com/home/",
 				"icon": "retailer"
@@ -4885,7 +4360,7 @@
 				"farmtypes": "csa",
 				"favorites": "fm-meat",
 				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Dalefamlambs</strong>\n<br/>3239 Donnelly Dr, Kemptville, ON, CA, K0G 1J0\n<br/>(613) 699-86787\n<br/><a href=\"mailto:dalefamlambs@storm.ca\">dalefamlambs@storm.ca</a>\n",
+				"infowindow": "\n<strong>Dalefamlambs</strong>\n<br/>3239 Donnelly Dr, Kemptville, ON, CA, K0G 1J0\n<br/>(613) 699-8678\n<br/><a href=\"mailto:dalefamlambs@storm.ca\">dalefamlambs@storm.ca</a>\n",
 				"email": "dalefamlambs@storm.ca",
 				"website": "",
 				"icon": "producers"
@@ -5005,8 +4480,8 @@
 				"farmtypes": "csa",
 				"favorites": "fs-sweeteners",
 				"productiontypes": "conventional",
-				"infowindow": "\n<strong>A Shaded Acre</strong>\n<br/>1377 Jones Falls Rd, Elgin, ON, CA, K0G 1E0\n<br/>(613) 359-6684\n",
-				"email": "",
+				"infowindow": "\n<strong>A Shaded Acre</strong>\n<br/>1377 Jones Falls Rd, Elgin, ON, CA, K0G 1E0\n<br/>(613) 359-6684\n<br/><a href=\"mailto:shadedacre@gmail.com\">shadedacre@gmail.com</a>\n",
+				"email": "shadedacre@gmail.com",
 				"website": "",
 				"icon": "producers"
 			},
@@ -5116,21 +4591,6 @@
 				"icon": "producers"
 			},
 			{
-				"name": "Augusta Farms",
-				"nbid": "30898",
-				"lat": "44.817659",
-				"lng": "-75.7002522",
-				"orgtype": "markets,producers,microprocessor",
-				"savour": "false",
-				"farmtypes": "csa",
-				"favorites": "fv-vegetables",
-				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Augusta Farms</strong>\n<br/>9501 Kyle Rd, North Augusta, ON, CA, K0G 1R0\n<br/>(613) 803-9782\n<br/><a href=\"mailto:augustafarms1@gmail.com\">augustafarms1@gmail.com</a>\n<br/><a target=\"_blank\" href=\"https://www.augustafarms.com/contact\">https://www.augustafarms.com/contact</a>\n",
-				"email": "augustafarms1@gmail.com",
-				"website": "https://www.augustafarms.com/contact",
-				"icon": "markets"
-			},
-			{
 				"name": "Forefathers Farm",
 				"nbid": "30900",
 				"lat": "44.9582936",
@@ -5152,7 +4612,7 @@
 				"lng": "-77.234602",
 				"orgtype": "markets,producers,microprocessor",
 				"savour": "false",
-				"farmtypes": "csa",
+				"farmtypes": "csa,pick_your_own",
 				"favorites": "ff-fruit,fv-vegetables,fh-herbs",
 				"productiontypes": "conventional",
 				"infowindow": "\n<strong>Firefly Meadows Farm</strong>\n<br/>1767 Silver Lake Rd, Eganville, ON, CA, K0J 1T0\n<br/>(613) 899-6100\n<br/><a href=\"mailto:fireflymeadowsfarm@gmail.com\">fireflymeadowsfarm@gmail.com</a>\n",
@@ -5173,36 +4633,6 @@
 				"infowindow": "\n<strong>Salt of the Earth Farm</strong>\n<br/>1054 2, Kingston, ON, CA, K7L 4V1\n<br/>(613) 331-1078\n<br/><a href=\"mailto:farm@saltofkingston.com\">farm@saltofkingston.com</a>\n<br/><a target=\"_blank\" href=\"https://saltofkingston.com/\">https://saltofkingston.com/</a>\n<br/>twitter: @saltofkingston\n",
 				"email": "farm@saltofkingston.com",
 				"website": "https://saltofkingston.com/",
-				"icon": "producers"
-			},
-			{
-				"name": "Blitzen Estate",
-				"nbid": "30937",
-				"lat": "44.8383865",
-				"lng": "-75.962688",
-				"orgtype": "producers",
-				"savour": "false",
-				"farmtypes": "csa",
-				"favorites": "fs-sweeteners",
-				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Blitzen Estate</strong>\n<br/>787 Line 2 Rd, Jasper, ON, CA, K0G 1G0\n<br/>613-880-4110\n<br/><a href=\"mailto:caylynwalker@hotmail.com\">caylynwalker@hotmail.com</a>\n<br/><a target=\"_blank\" href=\"https://www.blitzenestate.com/\">https://www.blitzenestate.com/</a>\n<br/>twitter: @Blitzen_Estate\n",
-				"email": "caylynwalker@hotmail.com",
-				"website": "https://www.blitzenestate.com/",
-				"icon": "producers"
-			},
-			{
-				"name": "Seven Maples Farm",
-				"nbid": "30938",
-				"lat": "44.9818984",
-				"lng": "-76.5070683",
-				"orgtype": "producers,microprocessor",
-				"savour": "false",
-				"farmtypes": "csa",
-				"favorites": "fm-meat,fp-poultry",
-				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Seven Maples Farm</strong>\n<br/>898 Concession Road 7, Lanark Highlands, ON, CA, K0G 1M0\n<br/>(613) 278-1686\n",
-				"email": "",
-				"website": "",
 				"icon": "producers"
 			},
 			{
@@ -5245,8 +4675,8 @@
 				"farmtypes": "csa",
 				"favorites": "fv-vegetables",
 				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Indian Creek Orchard Gardens</strong>\n<br/>919 Sugar Bush Rd, Pakenham, ON, CA, K0A 2X0\n<br/>(613) 914-7444\n<br/><a target=\"_blank\" href=\"https://indiancreekorchard.ca/\">https://indiancreekorchard.ca/</a>\n",
-				"email": "",
+				"infowindow": "\n<strong>Indian Creek Orchard Gardens</strong>\n<br/>919 Sugar Bush Rd, Pakenham, ON, CA, K0A 2X0\n<br/>(613) 914-7444\n<br/><a href=\"mailto:info@indiancreekorchard.ca\">info@indiancreekorchard.ca</a>\n<br/><a target=\"_blank\" href=\"https://indiancreekorchard.ca/\">https://indiancreekorchard.ca/</a>\n",
+				"email": "info@indiancreekorchard.ca",
 				"website": "https://indiancreekorchard.ca/",
 				"icon": "producers"
 			},
@@ -5275,9 +4705,9 @@
 				"farmtypes": "csa",
 				"favorites": "fv-vegetables,fm-meat,fp-poultry",
 				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Ravensfield</strong>\n<br/>1688 Old Brooke Rd, Maberly, ON, CA, K0H 2B0\n<br/>(613) 268-2248\n<br/><a href=\"mailto:lethbridge.cass@gmail.com\">lethbridge.cass@gmail.com</a>\n<br/><a target=\"_blank\" href=\"http://www.ravensfield.ca/\">http://www.ravensfield.ca/</a>\n",
+				"infowindow": "\n<strong>Ravensfield</strong>\n<br/>1688 Old Brooke Rd, Maberly, ON, CA, K0H 2B0\n<br/>(613) 268-2248\n<br/><a href=\"mailto:lethbridge.cass@gmail.com\">lethbridge.cass@gmail.com</a>\n",
 				"email": "lethbridge.cass@gmail.com",
-				"website": "http://www.ravensfield.ca/",
+				"website": "",
 				"icon": "markets"
 			},
 			{
@@ -5425,25 +4855,10 @@
 				"farmtypes": "csa,pick_your_own",
 				"favorites": "ff-fruit",
 				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Les Vergers Villeneuve &amp; Blueberry Farm</strong>\n<br/>1341 Rollin Rd, St-Pascal Baylon, ON, CA, K0A 3N0\n<br/>613-488-3077\n<br/><a target=\"_blank\" href=\"http://vergersvilleneuve.com/\">http://vergersvilleneuve.com/</a>\n",
-				"email": "",
+				"infowindow": "\n<strong>Les Vergers Villeneuve &amp; Blueberry Farm</strong>\n<br/>1341 Rollin Rd, St-Pascal Baylon, ON, CA, K0A 3N0\n<br/>613-488-3077\n<br/><a href=\"mailto:vergersvilleneuve@hotmail.com\">vergersvilleneuve@hotmail.com</a>\n<br/><a target=\"_blank\" href=\"http://vergersvilleneuve.com/\">http://vergersvilleneuve.com/</a>\n",
+				"email": "vergersvilleneuve@hotmail.com",
 				"website": "http://vergersvilleneuve.com/",
 				"icon": "producers"
-			},
-			{
-				"name": "Ouimet Farms Adventure",
-				"nbid": "31362",
-				"lat": "45.52038",
-				"lng": "-74.654184",
-				"orgtype": "retailer,producers",
-				"savour": "false",
-				"farmtypes": "csa,pick_your_own",
-				"favorites": "fv-vegetables",
-				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Ouimet Farms Adventure</strong>\n<br/>63 Main St W, Vankleek Hill, ON, CA, K0B 1R0\n<br/>613 678-2255\n<br/><a href=\"mailto:ouimetfarms@yahoo.com\">ouimetfarms@yahoo.com</a>\n<br/><a target=\"_blank\" href=\"http://ouimetfarms.com/\">http://ouimetfarms.com/</a>\n",
-				"email": "ouimetfarms@yahoo.com",
-				"website": "http://ouimetfarms.com/",
-				"icon": "retailer"
 			},
 			{
 				"name": "Tuque de Broue Brewery Inc.",
@@ -5455,9 +4870,9 @@
 				"farmtypes": "csa",
 				"favorites": "fv-vegetables",
 				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Tuque de Broue Brewery Inc.</strong>\n<br/>189 Bay St, Embrun, ON, CA, K0A 1w1\n<br/>(613) 443-4497\n<br/><a href=\"mailto:info@tuquedebroue.ca\">info@tuquedebroue.ca</a>\n<br/><a target=\"_blank\" href=\"https://www.tuquedebroue.ca/en/\">https://www.tuquedebroue.ca/en/</a>\n",
+				"infowindow": "\n<strong>Tuque de Broue Brewery Inc.</strong>\n<br/>189 Bay St, Embrun, ON, CA, K0A 1w1\n<br/>(613) 443-4497\n<br/><a href=\"mailto:info@tuquedebroue.ca\">info@tuquedebroue.ca</a>\n<br/><a target=\"_blank\" href=\"http://www.tuquedebroue.ca/en/\">http://www.tuquedebroue.ca/en/</a>\n",
 				"email": "info@tuquedebroue.ca",
-				"website": "https://www.tuquedebroue.ca/en/",
+				"website": "http://www.tuquedebroue.ca/en/",
 				"icon": "breweries_and_wineries"
 			},
 			{
@@ -5470,9 +4885,9 @@
 				"farmtypes": "csa",
 				"favorites": "fv-vegetables",
 				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Bean Town Ranch</strong>\n<br/>2891 N Plantagenet Concession 3 Rd, Plantagenet, ON, CA, K0B 1L0\n<br/>613 673 5894\n<br/><a href=\"mailto:info@beantownranch.com\">info@beantownranch.com</a>\n<br/><a target=\"_blank\" href=\"http://beantownranch.con/\">http://beantownranch.con/</a>\n",
+				"infowindow": "\n<strong>Bean Town Ranch</strong>\n<br/>2891 N Plantagenet Concession 3 Rd, Plantagenet, ON, CA, K0B 1L0\n<br/>613 673 5894\n<br/><a href=\"mailto:info@beantownranch.com\">info@beantownranch.com</a>\n<br/><a target=\"_blank\" href=\"https://www.beantownranch.com/\">https://www.beantownranch.com/</a>\n",
 				"email": "info@beantownranch.com",
-				"website": "http://beantownranch.con/",
+				"website": "https://www.beantownranch.com/",
 				"icon": "foodservices"
 			},
 			{
@@ -5499,7 +4914,7 @@
 				"savour": "false",
 				"farmtypes": "csa",
 				"favorites": "fm-meat,fp-poultry",
-				"productiontypes": "self_identified_ecological",
+				"productiontypes": "conventional",
 				"infowindow": "\n<strong>Maple Meadow Farms</strong>\n<br/>6830 Belmeade Rd, Osgoode, ON, CA, K0A 2W0\n<br/>6138262330\n<br/><a href=\"mailto:acres@maplemeadows.ca\">acres@maplemeadows.ca</a>\n<br/><a target=\"_blank\" href=\"http://www.maplemeadows.ca/\">http://www.maplemeadows.ca/</a>\n<br/>twitter: @ColleenAcres\n",
 				"email": "acres@maplemeadows.ca",
 				"website": "http://www.maplemeadows.ca/",
@@ -5515,9 +4930,9 @@
 				"farmtypes": "csa",
 				"favorites": "fv-vegetables",
 				"productiontypes": "certorg",
-				"infowindow": "\n<strong>The Chi Garden</strong>\n<br/>2391 Pépin Ct, Ottawa, ON, CA, K1B 4Z3\n<br/><a target=\"_blank\" href=\"https://www.facebook.com/chigarden2015/\">https://www.facebook.com/chigarden2015/</a>\n",
+				"infowindow": "\n<strong>The Chi Garden</strong>\n<br/>2391 Pépin Ct, Ottawa, ON, CA, K1B 4Z3\n<br/><a target=\"_blank\" href=\"https://www.thechigarden.com/\">https://www.thechigarden.com/</a>\n",
 				"email": "",
-				"website": "https://www.facebook.com/chigarden2015/",
+				"website": "https://www.thechigarden.com/",
 				"icon": "producers"
 			},
 			{
@@ -5596,21 +5011,6 @@
 				"icon": "retailer"
 			},
 			{
-				"name": "Backdrop Restaurant & Bar",
-				"nbid": "32217",
-				"lat": "45.4193608",
-				"lng": "-75.6946317",
-				"orgtype": "foodservices",
-				"savour": "false",
-				"farmtypes": "csa",
-				"favorites": "fv-vegetables",
-				"productiontypes": "conventional",
-				"infowindow": "\n<strong>Backdrop Restaurant &amp; Bar</strong>\n<br/>160 Metcalfe, Ottawa, ON, CA, K2P 1P2\n<br/>(613) 231-1234\n<br/><a href=\"mailto:reservations@thebackdrop.ca\">reservations@thebackdrop.ca</a>\n<br/><a target=\"_blank\" href=\"http://www.thebackdrop.ca/\">http://www.thebackdrop.ca/</a>\n<br/>twitter: @BackdropOttawa\n",
-				"email": "reservations@thebackdrop.ca",
-				"website": "http://www.thebackdrop.ca/",
-				"icon": "foodservices"
-			},
-			{
 				"name": "Pure Kitchen Westboro",
 				"nbid": "32226",
 				"lat": "45.3917934",
@@ -5654,21 +5054,6 @@
 				"email": "",
 				"website": "",
 				"icon": "foodservices"
-			},
-			{
-				"name": "The Whalesbone Elgin Street",
-				"nbid": "32232",
-				"lat": "45.4188883",
-				"lng": "-75.691076",
-				"orgtype": "producers",
-				"savour": "false",
-				"farmtypes": "csa",
-				"favorites": "fv-vegetables",
-				"productiontypes": "conventional",
-				"infowindow": "\n<strong>The Whalesbone Elgin Street</strong>\n<br/>231 Elgin St, Ottawa, ON, CA, K2P 1L6\n<br/>613.505.4300\n<br/><a target=\"_blank\" href=\"https://thewhalesbone.com/pages/elgin-street-menu\">https://thewhalesbone.com/pages/elgin-street-menu</a>\n",
-				"email": "",
-				"website": "https://thewhalesbone.com/pages/elgin-street-menu",
-				"icon": "producers"
 			},
 			{
 				"name": "Ottawa Farmers Market Barrhaven",
@@ -5821,7 +5206,7 @@
 				"icon": "producers"
 			},
 			{
-				"name": "Capital Greens",
+				"name": "Capital Greens Urban Farm",
 				"nbid": "32328",
 				"lat": "45.4284291",
 				"lng": "-75.57565199999999",
@@ -5830,24 +5215,9 @@
 				"farmtypes": "csa",
 				"favorites": "fv-vegetables",
 				"productiontypes": "certorg",
-				"infowindow": "\n<strong>Capital Greens</strong>\n<br/>2391 Pépin Ct, Ottawa, ON, CA, K1B 4Z3\n<br/><a href=\"mailto:mathew@capitalgreens.ca\">mathew@capitalgreens.ca</a>\n<br/><a target=\"_blank\" href=\"https://www.facebook.com/CapitalGreensUrbanFarm/\">https://www.facebook.com/CapitalGreensUrbanFarm/</a>\n",
-				"email": "mathew@capitalgreens.ca",
-				"website": "https://www.facebook.com/CapitalGreensUrbanFarm/",
-				"icon": "producers"
-			},
-			{
-				"name": "Van Vliet Horticulture",
-				"nbid": "32329",
-				"lat": "45.4284291",
-				"lng": "-75.57565199999999",
-				"orgtype": "producers",
-				"savour": "false",
-				"farmtypes": "csa",
-				"favorites": "fv-vegetables",
-				"productiontypes": "certorg",
-				"infowindow": "\n<strong>Van Vliet Horticulture</strong>\n<br/>2391 Pépin Ct, Ottawa, ON, CA, K1B 4Z3\n<br/><a target=\"_blank\" href=\"http://www.vanvliethorticulture.com/\">http://www.vanvliethorticulture.com/</a>\n",
-				"email": "",
-				"website": "http://www.vanvliethorticulture.com/",
+				"infowindow": "\n<strong>Capital Greens Urban Farm</strong>\n<br/>2391 Pépin Ct, Ottawa, ON, CA, K1B 4Z3\n<br/>6138672377\n<br/><a href=\"mailto:info@capitalgreens.ca\">info@capitalgreens.ca</a>\n<br/><a target=\"_blank\" href=\"https://www.capitalgreens.ca/\">https://www.capitalgreens.ca/</a>\n",
+				"email": "info@capitalgreens.ca",
+				"website": "https://www.capitalgreens.ca/",
 				"icon": "producers"
 			},
 			{
@@ -5860,7 +5230,7 @@
 				"farmtypes": "csa",
 				"favorites": "fv-vegetables,fp-poultry",
 				"productiontypes": "certorg",
-				"infowindow": "\n<strong>Cadence Ecological Farm</strong>\n<br/>2391 Pépin Ct, Ottawa, ON, CA, K1B 4Z3\n<br/><a href=\"mailto:Cadence.ecological.farm@gmail.com\">Cadence.ecological.farm@gmail.com</a>\n<br/><a target=\"_blank\" href=\"https://www.cadencefarm.ca/\">https://www.cadencefarm.ca/</a>\n",
+				"infowindow": "\n<strong>Cadence Ecological Farm</strong>\n<br/>2391 Pépin Ct, Ottawa, ON, CA, K1B 4Z3\n<br/>(613) 818-2470\n<br/><a href=\"mailto:Cadence.ecological.farm@gmail.com\">Cadence.ecological.farm@gmail.com</a>\n<br/><a target=\"_blank\" href=\"https://www.cadencefarm.ca/\">https://www.cadencefarm.ca/</a>\n",
 				"email": "Cadence.ecological.farm@gmail.com",
 				"website": "https://www.cadencefarm.ca/",
 				"icon": "producers"
@@ -5915,7 +5285,7 @@
 				"nbid": "32362",
 				"lat": "45.4134086",
 				"lng": "-75.1927504",
-				"orgtype": "producers",
+				"orgtype": "markets,producers",
 				"savour": "false",
 				"farmtypes": "csa",
 				"favorites": "fv-vegetables,fm-meat,fp-poultry",
@@ -5923,7 +5293,7 @@
 				"infowindow": "\n<strong>Hidden Trails Farm</strong>\n<br/>1436 St Felix Rd, Hammond, ON, CA, K0A 2A0\n<br/>613-921-6821\n<br/><a href=\"mailto:info@hiddentrailsfarm.com\">info@hiddentrailsfarm.com</a>\n<br/><a target=\"_blank\" href=\"https://www.hiddentrailsfarm.com/\">https://www.hiddentrailsfarm.com/</a>\n",
 				"email": "info@hiddentrailsfarm.com",
 				"website": "https://www.hiddentrailsfarm.com/",
-				"icon": "producers"
+				"icon": "markets"
 			},
 			{
 				"name": "Enright Harvest Acres",
@@ -5935,9 +5305,9 @@
 				"farmtypes": "csa",
 				"favorites": "fv-vegetables,fm-meat",
 				"productiontypes": "self_identified_ecological",
-				"infowindow": "\n<strong>Enright Harvest Acres</strong>\n<br/>RR6, Smiths Falls, ON, CA, K7A4S7\n<br/>613-485-4023\n",
-				"email": "",
-				"website": "",
+				"infowindow": "\n<strong>Enright Harvest Acres</strong>\n<br/>RR6, Smiths Falls, ON, CA, K7A4S7\n<br/>613-485-4023\n<br/><a href=\"mailto:mr.dave.enright@gmail.com\">mr.dave.enright@gmail.com</a>\n<br/><a target=\"_blank\" href=\"https://www.harvestacresfarm.ca/\">https://www.harvestacresfarm.ca/</a>\n",
+				"email": "mr.dave.enright@gmail.com",
+				"website": "https://www.harvestacresfarm.ca/",
 				"icon": "producers"
 			},
 			{
@@ -5950,7 +5320,7 @@
 				"farmtypes": "csa",
 				"favorites": "fs-sweeteners",
 				"productiontypes": "conventional",
-				"infowindow": "\n<strong>The Ginger Bee Honey</strong>\n<br/>1606 Westhall Way, Kanata, ON, CA, K2M 0G8\n<br/>613-282-1365\n<br/><a href=\"mailto:chris.hilliar@thegingerbee.ca\">chris.hilliar@thegingerbee.ca</a>\n",
+				"infowindow": "\n<strong>The Ginger Bee Honey</strong>\n<br/>1606 Westhall Way, Ottawa, ON, CA, K2M 0G8\n<br/>613-282-1365\n<br/><a href=\"mailto:chris.hilliar@thegingerbee.ca\">chris.hilliar@thegingerbee.ca</a>\n",
 				"email": "chris.hilliar@thegingerbee.ca",
 				"website": "",
 				"icon": "producers"
@@ -5980,10 +5350,25 @@
 				"farmtypes": "csa",
 				"favorites": "fv-vegetables,fh-herbs",
 				"productiontypes": "self_identified_ecological",
-				"infowindow": "\n<strong>Social Harvest</strong>\n<br/>815 St Laurent Blvd, Ottawa, ON, CA, K1K 3A7\n<br/>(613) 745-0073 x132\n<br/><a href=\"mailto:social.harvest@crcrr.org\">social.harvest@crcrr.org</a>\n<br/><a target=\"_blank\" href=\"https://www.socialharvestottawa.ca/\">https://www.socialharvestottawa.ca/</a>\n<br/>twitter: @SocialHarvestOt\n",
+				"infowindow": "\n<strong>Social Harvest</strong>\n<br/>815 Saint Laurent Blvd, Ottawa, ON, CA, K1K 3A7\n<br/>(613) 745-0073 x132\n<br/><a href=\"mailto:social.harvest@crcrr.org\">social.harvest@crcrr.org</a>\n<br/><a target=\"_blank\" href=\"https://www.socialharvestottawa.ca/\">https://www.socialharvestottawa.ca/</a>\n<br/>twitter: @SocialHarvestOt\n",
 				"email": "social.harvest@crcrr.org",
 				"website": "https://www.socialharvestottawa.ca/",
 				"icon": "producers"
+			},
+			{
+				"name": "Monarch Acres",
+				"nbid": "33054",
+				"lat": "45.0213601",
+				"lng": "-76.3120524",
+				"orgtype": "producers",
+				"savour": "false",
+				"farmtypes": "csa",
+				"favorites": "fm-meat,fp-poultry",
+				"productiontypes": "self_identified_ecological",
+				"infowindow": "\n<strong>Monarch Acres</strong>\n<br/>280 Gold Creek Rd, Lanark, ON, CA, K0G 1K0\n<br/>(613) 808-2938\n<br/><a href=\"mailto:monarchacresfarm@gmail.com\">monarchacresfarm@gmail.com</a>\n<br/><a target=\"_blank\" href=\"https://monarchacres.ca/\">https://monarchacres.ca/</a>\n",
+				"email": "monarchacresfarm@gmail.com",
+				"website": "https://monarchacres.ca/",
+				"icon": "producers"
 			}
 		]
-}
+	}

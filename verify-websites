@@ -1,5 +1,12 @@
 echo Testing Websites 
-cat rawdata.csv | tr "," "\n" | grep http | sed 's/^http/sh testurl http/g' | sh
+
+cat rawdata.csv | tr "," "\n" | grep http  >websites.txt
+
+while read -r SITE; do 
+    sh testurl "$SITE" &
+done < websites.txt
+wait
+
 
 
 
