@@ -1,51 +1,25 @@
-isBrowser = typeof window == 'object';
 
-var fs;
-if (isBrowser) {
-    fs = require('browserify-fs');
-} else {
-    fs = require('fs');
-}
+var fs = require('fs'); 
 
 function outputToConsole(log) {
-    if (isBrowser) {
-        var args = Array.prototype.slice.call(arguments);
-        var text = document.getElementById("outputtext");
-        for (var i = 0; i < args.length; i++) {
-            text.value += args[i] + " ";
-        }
-        text.value += "\n";
-    } else {
-
-        var args = Array.prototype.slice.call(arguments);
-        console.log.apply(console, args);
-    }
+    var args = Array.prototype.slice.call(arguments);
+    console.log.apply(console, args);
 }
 
 function testOutput() {
     outputToConsole("CONSOLE OUTPUT");
-}
-if (!isBrowser) {
-    var args = process.argv.splice(2);
-    if (args.length != 1) {
-        outputToConsole("You must pass a file name to convert as the first parameter.");
-        outputToConsole("Usage:", process.argv[0], " csv-filename");
-        process.exit(0);
-    }
-    convertCVSToXML(args[0]);
-}
+} 
 
-if (isBrowser) {
-    window.testOutput = testOutput;
-    window.convertCVSToXML = convertCVSToXML;
+var args = process.argv.splice(2);
+if (args.length != 1) {
+    outputToConsole("You must pass a file name to convert as the first parameter.");
+    outputToConsole("Usage:", process.argv[0], " csv-filename");
+    process.exit(0);
 }
-
+convertCVSToXML(args[0]);
+ 
 function readFileData(file, charEncode, handler) {
-    if (isBrowser) {
-        browserReadTextFile(file, handler)
-    } else {
-        fs.readFile(file, charEncode, handler)
-    }
+    fs.readFile(file, charEncode, handler)
 }
 
 function browserReadTextFile(file, handler) {
@@ -69,7 +43,6 @@ function browserReadTextFile(file, handler) {
     }
     rawFile.send(null);
 }
-
 
 function convertCVSToXML(csvFile) {
     if (csvFile == undefined) csvFile = 'rawdata.csv';
